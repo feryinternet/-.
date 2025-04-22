@@ -1,1 +1,19 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TVRI_Logo.png" group-title="Indonesia",TVRI Nasional
+https://live.streaming.vidio.com/live/6071/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Kompas_TV_logo.png" group-title="Indonesia",Kompas TV
+https://kompastv.stream.my.id/live/kompastv.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6c/BeritaSatu_TV_Logo.png" group-title="Indonesia",Berita Satu
+https://beritasatu.stream.my.id/live/beritasatu.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/CNN_Indonesia_Logo.png" group-title="Indonesia",CNN Indonesia
+https://cnn.stream.my.id/live/cnnindonesia.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Metro_TV_Logo.png" group-title="Indonesia",Metro TV
+https://metrotv.stream.my.id/live/metrotv.m3u8
+
+#EXTINF:-1 tvg-id="Sportstars2.id" tvg-name="Sportstars 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Sportstars_Logo.png" group-title="Indonesia",Sportstars 2
+https://mncstream.herokuapp.com/sportstars2.m3u8
