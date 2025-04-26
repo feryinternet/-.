@@ -1,9 +1,4 @@
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/it/mtgp.png" tvg-id=" group-title="-F1 DAN MOTOGP",NONTONGP.LOL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
-https://master.hdtvs1.top/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzEvc3RyZWFtLm0zdTg=.m3u8
-
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/it/mtgp.png" group-title="ANIME SLAM DUNK", EPS 1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
