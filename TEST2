@@ -1,11 +1,11 @@
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/it/mtgp.png" tvg-id=" group-title="f1 dan MOTOGP"
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/it/mtgp.png" tvg-id=" group-title="-F1 DAN MOTOGP",NONTONGP.LOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ceria.nontonx.com/
 https://master.hdtvs1.top/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzEvc3RyZWFtLm0zdTg=.m3u8
 
-#EXTINF:-1 type="" group-title="ANIME SLAM DUNK" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AnDwpI8dY8iqJVUwVS5UotYAbB1.jpg",SLAM DUNK EPS.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/it/mtgp.png" tvg-id=" group-title="ANIME SLAM DUNK",EPS 1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.yourupload.com/
 https://s136.vidcache.net:8166/play/a20250426x2n17RACdsi/video.mp4?&cid=14695470
