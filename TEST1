@@ -6,4 +6,4 @@ https://g57.turbosplayer.com/hls/92463393-32ee-45db-955f-11222a29c29f/index.m3u8
 #EXTINF:-1 group-title="CHANNEL | INDIHOME TV" tvg-logo="https://i.ibb.co.com/LtFbJdW/trans7-tv-stream-b793ab.jpg", Trans7 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://cdn11jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://cdn11jtedge.indihometv.com/atm/hlsv3/trans7/manifest.mpd
