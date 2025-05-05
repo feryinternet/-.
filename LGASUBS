@@ -27531,6 +27531,23 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 https://cempedak-cdn-fly.mncnow.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
 
+#EXTINF:-1 group-title="#.LIVE TIMNAS SPORTSTAR" tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg", Jelang Kick Off - Persis vs Arema FC - BRI Liga 1 (18:30 - 5 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17850&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
+
+
+#EXTINF:-1 group-title="#.LIVE TIMNAS SPORTSTAR" tvg-logo="https://thumbor.prod.vidiocdn.com/j3HrpXYUbjO_U5eW9CD7CPuz_Q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260445/c0614c.jpg", Persis vs Arema FC - BRI Liga 1 (19:00 - 5 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
+
 #EXTINF:-1 group-title="#.LIVE TIMNAS SPORTSTAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png",INDOSIAR BRI LIGA 1
 http://filex.tv:8080/shakeelmirza/4110440/302264
 
@@ -36437,6 +36454,15 @@ https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/TVRISPORT2
 
+#EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg", Jelang Kick Off - Persis vs Arema FC - BRI Liga 1 (18:30 - 5 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17850&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
+
+
 #EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://thumbor.prod.vidiocdn.com/j3HrpXYUbjO_U5eW9CD7CPuz_Q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260445/c0614c.jpg", Persis vs Arema FC - BRI Liga 1 (19:00 - 5 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -36445,10 +36471,3 @@ https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/TVRISPORT2
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 
-#EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg", Jelang Kick Off - Persis vs Arema FC - BRI Liga 1 (18:30 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17850&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
