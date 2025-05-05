@@ -36485,6 +36485,23 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://sangkatv.xyz/kode/lebah/index.m3u8?id=Sky_Sports_Main_Event
 
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-LIVE EVENT TGL  5-9 MEI", FA WSL-Brighton W vs Arsenal W (22:00 190958 * 05-05-2025)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://sangkatv.xyz/kode/lebah/index.m3u8?id=Sky_Sports_Main_Event_BU
+
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-LIVE EVENT TGL  5-9 MEI", FA WSL-Brighton W vs Arsenal W (22:00 190958 * 05-05-2025)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://sangkatv.xyz/kode/lebah/index.m3u8?id=Sky_Sports_Football_Live_TV
+
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-LIVE EVENT TGL  5-9 MEI" FA WSL-Brighton W vs Arsenal W (22:00 190958 * 05-05-2025)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://sangkatv.xyz/kode/lebah/index.m3u8?id=Sky_Sports_Football_BU
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-LIVE EVENT TGL  5-9 MEI", Premier League-Crystal Palace vs Nottingham Forest (02:00 190125 * 06-05-2025)
@@ -36500,21 +36517,6 @@ https://sangkatv.xyz/kode/lebah/index.m3u8?id=Sky_Sports_Premier_League_BU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
 https://sangkatv.xyz/kode/lebah/index.m3u8?id=Premier_Sports_1
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg", Jelang Kick Off - Persis vs Arema FC - BRI Liga 1 (18:30 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17850&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/j3HrpXYUbjO_U5eW9CD7CPuz_Q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260445/c0614c.jpg", Persis vs Arema FC - BRI Liga 1 (19:00 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/NosOGgExdpwgtKKZ0obpJfO-iOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262486/42c029.jpg", Genoa vs Milan - Serie A (01:45 - 6 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
