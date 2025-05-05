@@ -36479,23 +36479,10 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-LIVE EVENT TGL  5-9 MEI", FA WSL-Brighton W vs Arsenal W (22:00 190958 * 05-05-2025)
-#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
-#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://sangkatv.xyz/kode/lebah/index.m3u8?id=Sky_Sports_Main_Event
-
-#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-LIVE EVENT TGL  5-9 MEI", FA WSL-Brighton W vs Arsenal W (22:00 190958 * 05-05-2025)
-#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
-#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://sangkatv.xyz/kode/lebah/index.m3u8?id=Sky_Sports_Main_Event_BU
-
-#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-LIVE EVENT TGL  5-9 MEI", FA WSL-Brighton W vs Arsenal W (22:00 190958 * 05-05-2025)
-#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
-#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
-https://sangkatv.xyz/kode/lebah/index.m3u8?id=Sky_Sports_Football_Live_TV
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", FA WSL | brighton w vs arsenal w 1254864 [ 2025-05-05 22:00 WIB ]
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1254864
 
 #EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-LIVE EVENT TGL  5-9 MEI" FA WSL-Brighton W vs Arsenal W (22:00 190958 * 05-05-2025)
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
