@@ -36479,119 +36479,92 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 group-title="Soccer" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", 1.FA WSL | brighton w vs arsenal w 15-05 22:00 WIB ]254864 [ 2025-0 A
-#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1254864
-
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/NosOGgExdpwgtKKZ0obpJfO-iOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262486/42c029.jpg", 2.Genoa vs Milan - Serie A (01:45 - 6 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/j53gy4d7QSZa4nOxBblaL1xuPuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262485/b3aab4.jpg", Semifinal: Inter vs Barcelona - UEFA Champions League (01:40 - 7 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17938&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17938&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17883&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17883&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/z-OGHZDpQUxNxSThCAZlmNDJRZs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262341/b761be.jpg", 3.Crystal Palace vs Nott'm Forest - Premier League (02:00 - 6 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/F5zn4xZraftrYMzEoI0LOSUO8GU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4264040/20963c.jpg", Conference Semifinals - Game 2: Indiana Pacers vs Cleveland Cavaliers - NBA (06:00 - 7 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=9182&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6786&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/eeF7hC8CgEYAM6QhCiDIivfQkEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262342/07c620.jpg", 4.Girona vs Mallorca - LaLiga (02:00 - 6 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/itBHMHw25sgTHVmYG5vfnwmWemw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265516/592c7c.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Day 1 (16:00 - 7 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6317&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17875&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/SNCNL8YqrixmMrSFRT0TzbMwilU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-qualifiers-r32-court-1-5d51bc.jpg", 5.Chan Yin Chak/Ng Tsz Yau (HKG) vs Ho Wen-Hsun/Yu Hsuan Chen (TPE) - Mixed Doubles Qualification | Yonex Taipei Open 2025 (08:00 - 6 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/s3RWlexua5xcki5jF-J7fEg-vfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265311/1ca3a8.jpg", WTA 1000: Internazionali BNL d'Italia - Day 1 (16:00 - 7 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18249&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18249&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6786&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/XCu8O1SREOthPwMrB96J8nAwn28=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-taipei-open-2025-qualifiers-r32-court-2-571cc2.jpg", 6.Yonex Taipei Open 2025 - Qualifiers + R32 (Court 2) (08:00 - 6 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/9I15TNm0VlIueJNZdQ3GV9txemg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265456/b2923e.jpg", Al Raed vs Al Hilal - ROSHN Saudi League (23:00 - 7 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18250&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18250&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17140&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/c2dYU_xwh8q8n2aKCkVRwlv7HBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-taipei-open-2025-qualifiers-r32-court-3-677d56.jpg", 7.Chen Ze Ru/Zih Ling Huang (TPE) vs Chan Yueh Lin/ Chen Hsing Yu (TPE) - Mixed Doubles Qualification | Yonex Taipei Open 2025 (08:10 - 6 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/YRvb1OPCapzuZwBNanXzYQRMd0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265312/adbcbd.jpg", WTA 1000: Internazionali BNL d'Italia - Day 1 (00:00 - 8 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18252&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18252&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6786&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/IWKlXba31VIupehumPto2SK75UQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-taipei-open-2025-qualifiers-r32-court-4-0228a9.jpg", 8.Yonex Taipei Open 2025 - Qualifiers + R32 (Court 4) (08:10 - 6 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/sbFJD7wHgOHjbmjSKmutDI5zYRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262529/45b397.jpg", Semifinal: PSG vs Arsenal - UEFA Champions League (01:55 - 8 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18253&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18253&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6299&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/QW6dADWZy4q19HcCzvoFE9_QHWA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262506/70fec6.jpg", 9.Conference Semifinals - Game 1: Denver Nuggets vs Oklahoma City Thunder - NBA (08:30 - 6 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/x3kuCoQcE3imARGIDpN2WcYCJx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262530/6e9ee1.jpg", Semifinal: Chelsea vs Djurgarden - UEFA Conference League (01:55 - 9 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6786&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17875&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/E-RAHT-vDRCZPOyLkOGhbOdfSeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262485/aea1de.jpg", 10.Semifinal: Inter vs Barcelona - UEFA Champions League (01:40 - 7 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/-LvZhznDxE_DfBXKWYaPgp0cRWk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265388/05f001.jpg", Semifinal: Fiorentina vs Real Betis - UEFA Conference League (02:00 - 9 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17883&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17883&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18007&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18007&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/sbFJD7wHgOHjbmjSKmutDI5zYRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262529/45b397.jpg", 11.Semifinal: PSG vs Arsenal - UEFA Champions League (01:55 - 8 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/BXvHaVckijkP--skTlX6YDtMdTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265313/5b2c19.jpg", Semifinal: Man United vs Athletic Club - UEFA Europa League (02:00 - 9 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6299&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6299&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6299&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/x3kuCoQcE3imARGIDpN2WcYCJx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262530/6e9ee1.jpg", 12.Semifinal: Chelsea vs Djurgarden - UEFA Conference League (01:55 - 9 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/Xx7jsatVBhCwjleifrogARu4caE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265458/4ba45a.jpg", Semifinal: Bodo/Glimt vs Tottenham - UEFA Europa League (02:00 - 9 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17875&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
-
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", 13.Frauen Bundesliga | carl zeiss jena w vs bayern munich w 1251257 [ 2025-05-05 23:00 WIB ]
-#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1251257
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", 2b.Serie A | genoa vs ac milan 1223938 [ 2025-05-06 01:45 WIB ]
-#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1223938
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", 3b.Premier League | crystal palace vs nottingham forest 1208368 [ 2025-05-06 02:00 WIB ]
-#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208368
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", 4b.La Liga | girona vs mallorca 1208791 [ 2025-05-06 02:00 WIB ]
-#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208791
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18389&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18389&type=dash
 
 
