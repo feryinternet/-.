@@ -1,4 +1,3 @@
-
 #EXTINF:-1 group-logo="https://i.ibb.co.com/vk1GHy9/cat-sport.png",
 
 
@@ -3281,21 +3280,21 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2p
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.VOLLY PRO LIGA",MOJI (XTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1746348278~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=142888884~data=hdntl~hmac=a11828560b0ce740af9466a4d9057d457be75e93d526db6562c2203b68fc47e8/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="#.VOLLY PRO LIGA",ID: Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1746348278~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=142888884~data=hdntl~hmac=a11828560b0ce740af9466a4d9057d457be75e93d526db6562c2203b68fc47e8/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="#.VOLLY PRO LIGA",MOJI Proliga (EVENT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1746348278~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=142888884~data=hdntl~hmac=a11828560b0ce740af9466a4d9057d457be75e93d526db6562c2203b68fc47e8/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="#.VOLLY PRO LIGA",MOJI Proliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1746348278~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=142888884~data=hdntl~hmac=a11828560b0ce740af9466a4d9057d457be75e93d526db6562c2203b68fc47e8/index.m3u8
+http://xtv.ooo:8080/live/387546/200900/350997.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="#.VOLLY PRO LIGA",MOJI Proliga
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="#.VOLLY PRO LIGA",MOJI Proliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://filex.tv:8080/live/aftab123/004090/302279.ts
 
 #EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="FERY IPTV",FeryIptv
 https://youtube.com/@lga775iptv
@@ -3898,7 +3897,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-id="mncSports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png",Sportstars 3
+#EXTINF:-1 group-title="#.SPORT CHAMPION TV" tvg-id="mncSports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png",Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=114&type=drm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6297,6 +6296,38 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_6.png" group-title="#.SPORT CHAMPION TV",Champions TV 6 (Vid)
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
+#EXTINF:-1 group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", Champions TV 1 (Vidio) B
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938
+
+#EXTINF:-1 group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", Champions TV 2 (Vidio) B
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686
+
+
+#EXTINF:-1 group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", Champions TV 3 (Vidio) B
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786
+
+
+#EXTINF:-1 group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", Champions TV 5 (Vidio) B
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182
+
+
+#EXTINF:-1 group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", Champions TV 6 (Vidio) B
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9183
 
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="#.CHANNEL | SKY SPORT", Sky SPORT ARENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -12750,7 +12781,12 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/j53gy4d7QSZa4nOxBblaL1xuPuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262485/b3aab4.jpg", Semifinal: Inter vs Barcelona - UEFA Champions League (01:40 - 7 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", 1.UEFA Champions League | inter vs barcelona 1371733 [ 2025-05-07 02:00 WIB ]
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1371733
+ 
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/j53gy4d7QSZa4nOxBblaL1xuPuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262485/b3aab4.jpg", 2.Semifinal: Inter vs Barcelona - UEFA Champions League (01:40 - 7 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -12837,4 +12873,3 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18389&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18389&type=dash
-
