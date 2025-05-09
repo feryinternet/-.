@@ -36484,15 +36484,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/BZk2stEAnvoT0SBHauw8rdRgTIw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271133/93fcee.jpg", Persib vs PS. Barito Putera - BRI Liga 1 (18:30 - 9 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17623&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17623&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/zy65-MNlym9vbskRQgGY9WPzmRY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270727/729f53.jpg", Milan vs Bologna - Serie A (01:30 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/zy65-MNlym9vbskRQgGY9WPzmRY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270727/729f53.jpg", -2.Milan vs Bologna - Serie A (01:30 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36500,7 +36492,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17623&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17938&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/vcNJf09tzS81qSGKTKLhKQUfQMw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270793/81c929.jpg", Las Palmas vs Rayo Vallecano - LaLiga (01:55 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/vcNJf09tzS81qSGKTKLhKQUfQMw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270793/81c929.jpg", -3.Las Palmas vs Rayo Vallecano - LaLiga (01:55 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36508,7 +36500,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/y-tIqTzVpR6g3JHomnVLOnVscs8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270733/23afaa.jpg", Coventry City vs Sunderland - Semifinal Playoff Leg 1 - EFL Championship (01:55 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/y-tIqTzVpR6g3JHomnVLOnVscs8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270733/23afaa.jpg", -4.Coventry City vs Sunderland - Semifinal Playoff Leg 1 - EFL Championship (01:55 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36516,7 +36508,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6686&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/HbkFHiKW7kwnQIaiXVRkn_nX1ms=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-semifinals-court-1-6e3f58.jpg", Yonex Taipei Open 2025 - Semifinals (Court 1) (11:00 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/HbkFHiKW7kwnQIaiXVRkn_nX1ms=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-semifinals-court-1-6e3f58.jpg", -5.Yonex Taipei Open 2025 - Semifinals (Court 1) (11:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36524,21 +36516,14 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18249&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/ZZOAVf6ak8sUW43EGy5Gf43crwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273527/d814ef.jpg", Jelang Kick Off - PSM Makassar vs Malut United FC - BRI Liga 1 (15:00 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17850&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17850&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xSIsDnzINE9qlKNq09m6Wmry1YY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273324/c1f099.jpg", Madura United FC vs Borneo FC Samarinda - BRI Liga 1 (15:00 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xSIsDnzINE9qlKNq09m6Wmry1YY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273324/c1f099.jpg", -6.Madura United FC vs Borneo FC Samarinda - BRI Liga 1 (15:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=205&type=hls
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/n7u50rT6AelJQb-ife6JYsQNeZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273408/39d37d.jpg", PSM Makassar vs Malut United FC - BRI Liga 1 (15:24 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/n7u50rT6AelJQb-ife6JYsQNeZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273408/39d37d.jpg", -7.PSM Makassar vs Malut United FC - BRI Liga 1 (15:24 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36546,7 +36531,7 @@ https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=205&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17775&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17775&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/7pZ4drSn-XSmjhQXHlV9duOPPn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270748/9b831e.jpg", Gresik Petrokimia Pupuk Indonesia vs Jakarta Electric PLN - Perebutan Tempat ke-3 Putri - PLN Mobile Proliga (15:30 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/7pZ4drSn-XSmjhQXHlV9duOPPn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270748/9b831e.jpg", -8.Gresik Petrokimia Pupuk Indonesia vs Jakarta Electric PLN - Perebutan Tempat ke-3 Putri - PLN Mobile Proliga (15:30 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36554,7 +36539,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17775&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18234&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/veYuP0BHCbcJ3qr7X4aVEG5Ld64=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270795/df307c.jpg", Persija vs Bali United FC - BRI Liga 1 (18:30 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/veYuP0BHCbcJ3qr7X4aVEG5Ld64=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270795/df307c.jpg", -9.Persija vs Bali United FC - BRI Liga 1 (18:30 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36562,7 +36547,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17624&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17624&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xbFKD9Xcy5wlg9AKXtVV50sa9MA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270784/07ff20.jpg", Valencia vs Getafe - LaLiga (19:00 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xbFKD9Xcy5wlg9AKXtVV50sa9MA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270784/07ff20.jpg", -10.Valencia vs Getafe - LaLiga (19:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36570,7 +36555,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17624&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/6EDGErbvs1QLz83OD_5DSX2mTLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270749/76680e.jpg", Grand Final Putri: Jakarta Popsivo Polwan vs Jakarta Pertamina Enduro - PLN Mobile Proliga (19:00 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/6EDGErbvs1QLz83OD_5DSX2mTLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270749/76680e.jpg", -11.Grand Final Putri: Jakarta Popsivo Polwan vs Jakarta Pertamina Enduro - PLN Mobile Proliga (19:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36578,7 +36563,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18234&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/aAToim0LyCyBrNvkos7sOvymjnI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270728/ca42dc.jpg", Como vs Cagliari - Serie A (19:45 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/aAToim0LyCyBrNvkos7sOvymjnI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270728/ca42dc.jpg", -12.Como vs Cagliari - Serie A (19:45 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36586,7 +36571,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17938&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/Wn0IBGdKZwkn3P2xjoKU3ypVDkw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271130/552f4f.jpg", Southampton vs Man City - Premier League (20:30 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/Wn0IBGdKZwkn3P2xjoKU3ypVDkw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271130/552f4f.jpg", -13.Southampton vs Man City - Premier League (20:30 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36594,7 +36579,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9182&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/df6Bk3GROuexuAtwDdabEabqTCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271139/2eda46.jpg", Fulham vs Everton - Premier League (20:50 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/df6Bk3GROuexuAtwDdabEabqTCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271139/2eda46.jpg", -14.Fulham vs Everton - Premier League (20:50 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36602,7 +36587,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17638&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17638&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/OY4Y_3NQAacMFFJvBXtepFK8P0g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271140/30cb71.jpg", Ipswich vs Brentford - Premier League (20:50 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/OY4Y_3NQAacMFFJvBXtepFK8P0g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271140/30cb71.jpg", -15.Ipswich vs Brentford - Premier League (20:50 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36610,7 +36595,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17638&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17882&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17882&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/3RW43-xsq2fnE4LxhxvwVt_pGl4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271131/82acc5.jpg", Wolves vs Brighton - Premier League (21:00 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/3RW43-xsq2fnE4LxhxvwVt_pGl4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271131/82acc5.jpg", -16.Wolves vs Brighton - Premier League (21:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36618,7 +36603,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17882&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9183&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/yN3nyDWgZHko-8N1IkOkNxN5SsI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270785/a7bb46.jpg", Celta Vigo vs Sevilla - LaLiga (21:15 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/yN3nyDWgZHko-8N1IkOkNxN5SsI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270785/a7bb46.jpg", -17.Celta Vigo vs Sevilla - LaLiga (21:15 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36626,7 +36611,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/L9CDXM25ZuI5rdOYQSXh1ojZmo0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270729/3ff7d6.jpg", Lazio vs Juventus - Serie A (22:45 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/L9CDXM25ZuI5rdOYQSXh1ojZmo0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270729/3ff7d6.jpg", -18.Lazio vs Juventus - Serie A (22:45 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36634,7 +36619,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17938&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/JEo1WJBtHbUZqN3-h2rIuphW6Yc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271132/9057d0.jpg", Bournemouth vs Aston Villa - Premier League (23:00 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/JEo1WJBtHbUZqN3-h2rIuphW6Yc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271132/9057d0.jpg", -19.Bournemouth vs Aston Villa - Premier League (23:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36642,7 +36627,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9182&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/L29rOLNq5zglFbV0A_g1aMvQuoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270787/9a64b4.jpg", Mallorca vs Valladolid - LaLiga (23:30 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/L29rOLNq5zglFbV0A_g1aMvQuoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270787/9a64b4.jpg", -20.Mallorca vs Valladolid - LaLiga (23:30 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36650,7 +36635,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6299&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/-YDn1XGuDyjK-0SG_cYwe0tmZ_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270786/0f5b82.jpg", Girona vs Villarreal - LaLiga (23:30 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/-YDn1XGuDyjK-0SG_cYwe0tmZ_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270786/0f5b82.jpg", -21.Girona vs Villarreal - LaLiga (23:30 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36658,7 +36643,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/awhiTlk6nyLW8wZzGx_KNkUG_0k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270736/216bdb.jpg", Benfica vs Sporting - Liga Portugal (00:00 - 11 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/awhiTlk6nyLW8wZzGx_KNkUG_0k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270736/216bdb.jpg", -22.Benfica vs Sporting - Liga Portugal (00:00 - 11 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
