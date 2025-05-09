@@ -27525,41 +27525,22 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 https://cempedak-cdn-fly.mncnow.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
 
-#EXTINF:-1 group-title="#.LIVE TIMNAS SPORTSTAR" tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg", Jelang Kick Off - Persis vs Arema FC - BRI Liga 1 (18:30 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17850&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
 
-
-#EXTINF:-1 group-title="#.LIVE TIMNAS SPORTSTAR" tvg-logo="https://thumbor.prod.vidiocdn.com/j3HrpXYUbjO_U5eW9CD7CPuz_Q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260445/c0614c.jpg", Persis vs Arema FC - BRI Liga 1 (19:00 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 
 #EXTINF:-1 group-title="#.LIVE TIMNAS SPORTSTAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png",INDOSIAR BRI LIGA 1
-http://filex.tv:8080/shakeelmirza/4110440/302264
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 #EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="#.LIVE TIMNAS SPORTSTAR", INDOSIAR BRI LIGA A
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624
+https://link.zozotv.xyz:443/usez37/zxy921/45
 
 #EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", INDOSIAR B
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
-http://108.181.56.69:8070/live/test_acct/ohbo1veifa4AhD/162138.ts
+http://50.7.234.10:8278/Indosiar/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c9b27b4c7de9e1772c7e52cf40f7bd55
 
 #EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="#.LIVE TIMNAS SPORTSTAR", INDOSIAR BRI LIGA C
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=205
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=205
+
+https://phdown.serv00.net/stv-smartv.php?id=Indosiar
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="#.LIVE TIMNAS SPORTSTAR",Sportstars 1 HD RCTI+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
