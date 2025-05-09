@@ -12776,42 +12776,48 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/sbFJD7wHgOHjbmjSKmutDI5zYRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262529/45b397.jpg", Semifinal: PSG vs Arsenal - UEFA Champions League (01:55 - 8 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-11 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/BZk2stEAnvoT0SBHauw8rdRgTIw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271133/93fcee.jpg", Persib vs PS. Barito Putera - BRI Liga 1 (18:30 - 9 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6299&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17623&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17623&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/x3kuCoQcE3imARGIDpN2WcYCJx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262530/6e9ee1.jpg", Semifinal: Chelsea vs Djurgarden - UEFA Conference League (01:55 - 9 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-11 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/nuO3i1Ct4_ZNV3_RwARe7QCj2qM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271141/aaec3a.jpg", Jelang Kick Off - Persib vs PS. Barito Putera - BRI Liga 1 (18:30 - 9 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17875&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17850&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17850&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/-LvZhznDxE_DfBXKWYaPgp0cRWk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265388/05f001.jpg", Semifinal: Fiorentina vs Real Betis - UEFA Conference League (02:00 - 9 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-11 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/-95B0DAmk_e_kqUOOIWlXnACnpI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4268325/df0590.jpg", Moto2 Practice: MotogGP 2025 Round 6 - Michelin Grand Prix de France (18:55 - 9 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18007&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18007&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17140&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/BXvHaVckijkP--skTlX6YDtMdTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265313/5b2c19.jpg", Semifinal: Man United vs Athletic Club - UEFA Europa League (02:00 - 9 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-11 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/x323jRcXyDqMvmtv1_tjQJAe-Ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4271182/27b015.jpg", Rahmat Hidayat/Yeremia Erich Yoche Yacob Rambitan (INA) vs Takumi Nomura/Yuichi Shimogami (JPN) - Men’s Doubles Quarterfinals | Yonex Taipei Open 2025 (19:10 - 9 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6299&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18250&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18250&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-9 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/Xx7jsatVBhCwjleifrogARu4caE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265458/4ba45a.jpg", Semifinal: Bodo/Glimt vs Tottenham - UEFA Europa League (02:00 - 9 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-11 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/5UIFOOfYm1i9mvZszPfio7lX7JY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270693/efaef3.jpg", ONE Friday Fights 107 (19:30 - 9 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=16890&type=hls
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  5-11 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/TshAAR_RBFAh90CsZuJIzcnMEjs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4268326/0eb876.jpg", MotoGP Practice: MotoGP 2025 Round 6 - Michelin Grand Prix de France (19:50 - 9 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18389&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18389&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17140&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140&type=dash
