@@ -12755,30 +12755,6 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/zy65-MNlym9vbskRQgGY9WPzmRY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270727/729f53.jpg", -2.Milan vs Bologna - Serie A (01:30 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17938&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/vcNJf09tzS81qSGKTKLhKQUfQMw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270793/81c929.jpg", -3.Las Palmas vs Rayo Vallecano - LaLiga (01:55 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/y-tIqTzVpR6g3JHomnVLOnVscs8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270733/23afaa.jpg", -4.Coventry City vs Sunderland - Semifinal Playoff Leg 1 - EFL Championship (01:55 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6686&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686&type=dash
-
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/HbkFHiKW7kwnQIaiXVRkn_nX1ms=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-semifinals-court-1-6e3f58.jpg", -5.Yonex Taipei Open 2025 - Semifinals (Court 1) (11:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -12787,6 +12763,13 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18249&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249&type=dash
 
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/SW3Itd97CT9ADDDuQ_PG0pWsc74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273565/3b9494.jpg", -5.B Yuichi Shimogami/Sayaka Hobara (JPN) vs Dejan Ferdinansyah/Siti Fadia Silva Ramadhanti (INA) - Mixed Doubles Semifinals | Yonex Taipei Open 2025 (11:30 - 10 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18250&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18250&type=dash
 
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xSIsDnzINE9qlKNq09m6Wmry1YY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273324/c1f099.jpg", -6.Madura United FC vs Borneo FC Samarinda - BRI Liga 1 (15:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -12921,7 +12904,6 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6686&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686&type=dash
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@lga775iptv@lga775iptv
