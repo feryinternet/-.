@@ -36459,22 +36459,7 @@ https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/TVRISPORT2
 
-#EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg", Jelang Kick Off - Persis vs Arema FC - BRI Liga 1 (18:30 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17850&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
 
-
-#EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://thumbor.prod.vidiocdn.com/j3HrpXYUbjO_U5eW9CD7CPuz_Q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260445/c0614c.jpg", Persis vs Arema FC - BRI Liga 1 (19:00 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 
 
 
@@ -36506,16 +36491,16 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18250&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=205&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=205&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=205&type=dash
 
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/n7u50rT6AelJQb-ife6JYsQNeZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273408/39d37d.jpg", -7.PSM Makassar vs Malut United FC - BRI Liga 1 (15:24 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17775&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17775&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17775&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17775&type=dash
 
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/7pZ4drSn-XSmjhQXHlV9duOPPn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270748/9b831e.jpg", -8.Gresik Petrokimia Pupuk Indonesia vs Jakarta Electric PLN - Perebutan Tempat ke-3 Putri - PLN Mobile Proliga (15:30 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
