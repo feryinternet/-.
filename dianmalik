@@ -12755,53 +12755,13 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/HbkFHiKW7kwnQIaiXVRkn_nX1ms=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-semifinals-court-1-6e3f58.jpg", -5.Yonex Taipei Open 2025 - Semifinals (Court 1) (11:00 - 10 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/7pZ4drSn-XSmjhQXHlV9duOPPn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270748/9b831e.jpg", Gresik Petrokimia Pupuk Indonesia vs Jakarta Electric PLN - Perebutan Tempat ke-3 Putri - PLN Mobile Proliga (15:05 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18249&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/SW3Itd97CT9ADDDuQ_PG0pWsc74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273565/3b9494.jpg", -5.B Yuichi Shimogami/Sayaka Hobara (JPN) vs Dejan Ferdinansyah/Siti Fadia Silva Ramadhanti (INA) - Mixed Doubles Semifinals | Yonex Taipei Open 2025 (11:30 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18250&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18250&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xSIsDnzINE9qlKNq09m6Wmry1YY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273324/c1f099.jpg", -6.Madura United FC vs Borneo FC Samarinda - BRI Liga 1 (15:00 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=205&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=205&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/n7u50rT6AelJQb-ife6JYsQNeZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273408/39d37d.jpg", -7.PSM Makassar vs Malut United FC - BRI Liga 1 (15:24 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17775&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17775&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/7pZ4drSn-XSmjhQXHlV9duOPPn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270748/9b831e.jpg", -8.Gresik Petrokimia Pupuk Indonesia vs Jakarta Electric PLN - Perebutan Tempat ke-3 Putri - PLN Mobile Proliga (15:30 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18234&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/veYuP0BHCbcJ3qr7X4aVEG5Ld64=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270795/df307c.jpg", -9.Persija vs Bali United FC - BRI Liga 1 (18:30 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17624&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17624&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18234&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18234&type=dash
 
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xbFKD9Xcy5wlg9AKXtVV50sa9MA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270784/07ff20.jpg", -10.Valencia vs Getafe - LaLiga (19:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -12810,14 +12770,6 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17624&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/6EDGErbvs1QLz83OD_5DSX2mTLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270749/76680e.jpg", -11.Grand Final Putri: Jakarta Popsivo Polwan vs Jakarta Pertamina Enduro - PLN Mobile Proliga (19:00 - 10 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18234&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234&type=dash
 
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/aAToim0LyCyBrNvkos7sOvymjnI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270728/ca42dc.jpg", -12.Como vs Cagliari - Serie A (19:45 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -12906,6 +12858,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6686&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686&type=dash
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@lga775iptv@lga775iptv
