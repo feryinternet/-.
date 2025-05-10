@@ -36504,8 +36504,10 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18250&type=dash
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xSIsDnzINE9qlKNq09m6Wmry1YY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273324/c1f099.jpg", -6.Madura United FC vs Borneo FC Samarinda - BRI Liga 1 (15:00 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=205&type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=205&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=205&type=dash
 
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL  9-10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/n7u50rT6AelJQb-ife6JYsQNeZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273408/39d37d.jpg", -7.PSM Makassar vs Malut United FC - BRI Liga 1 (15:24 - 10 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
