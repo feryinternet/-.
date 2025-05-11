@@ -27026,7 +27026,7 @@ https://youtube.com/@lga775iptv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="REQ PLAYSLIST HUB/WA 085794973101",REQ PLAYLIST premiumHUB/WA 085794973101
 https://youtube.com/@lga775iptv
 
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="CHANNEL | INDONESIA 🇮🇩",YT  FERY IPTV
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="CHANNEL | INDONESIA 🇮🇩",YT  FERY IPTV
 https://youtube.com/@lga775iptv
 
 
@@ -27536,7 +27536,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 
 *SPORT PREMIUM
 
-#EXTINF:-1 group-title="#.SPORTS PREMIUM" tvg-logo="https://cdn.dribbble.com/users/1261007/screenshots/6557375/server.png",#0. PILIH SERVER LAIN JIKA SALAH SATU SERVER ER0R
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.SPORTS PREMIUM" tvg-logo="https://cdn.dribbble.com/users/1261007/screenshots/6557375/server.png",#0. PILIH SERVER LAIN JIKA SALAH SATU SERVER ER0R
 https://bit.ly/4fVtOcd
 
 #EXTINF:-1 group-title="#.SPORTS PREMIUM" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SportHD 1
@@ -35579,23 +35579,7 @@ https://zekonew.newkso.ru/zeko/premium763/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8
 
-#EXTINF:-1 tvg-id="yes.Movies.Action.il" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/yes-movies-action-israel.png" group-title="ISRAEL",Yes Movies Action Israel
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium543/mono.m3u8
 
-#EXTINF:-1 tvg-id="yes.Movies.Comedy.il" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/yes-movies-comedy-israel.png" group-title="ISRAEL",Yes Movies Comedy Israel
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium545/mono.m3u8
-
-#EXTINF:-1 tvg-id="yes.Movies.Kids.il" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/yes-movies-kids-israel.png" group-title="ISRAEL",Yes Movies Kids Israel
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium544/mono.m3u8
 
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/zdf-info-de.png" group-title="MIX SPORT",ZDF Info DE
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
