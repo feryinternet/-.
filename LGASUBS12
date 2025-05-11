@@ -36022,6 +36022,21 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17938&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
 
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/MImvJMs2BsE9Q-fpP5ZRVq0WhXI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270868/c9c641.jpg", Arema FC vs Persik Kediri - BRI Liga 1 (14:59 - 11 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17624&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17624&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/vzqpK3hXeNtSSNPGN5OTfhLMLTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4275204/9fdc78.jpg", Palembang Bank SumselBabel vs Surabaya Samator - Perebutan Tempat ke-3 Putra -PLN Mobile Proliga (15:00 - 11 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18234&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234&type=dash
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@lga775iptv@lga775iptv
