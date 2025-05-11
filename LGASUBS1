@@ -27467,13 +27467,18 @@ https://link.zozotv.xyz:443/usez37/zxy921/45
 https://phdown.serv00.net/stv-smartv.php?id=Indosiar
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="#.LIVE TIMNAS SPORTSTAR",Sportstars 1 HD RCTI+
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=112
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.LIVE TIMNAS SPORTSTAR",SPORTSTAR 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.LIVE TIMNAS SPORTSTAR",RCTI+ timnas
-http://xtv.ooo:8080/live/danyear12/am809100/351023.ts
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=112&type=dash
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="#.LIVE TIMNAS SPORTSTAR", RCTI•(ID)	
 http://xtv.ooo:8080/live/danyear12/am809100/351023.ts
