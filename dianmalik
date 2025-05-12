@@ -8831,101 +8831,13 @@ https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/gz8scbzwGnSQ1ucDcnmbkEMx6oM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-semifinals-court-1-80f29b.jpg", -1.Dejan Ferdinansyah/Siti Fadia Silva Ramadhanti (INA) vs Jafar Hidayatullah/Felisha Alberta Nathaniel Pasaribu (INA) - Mixed Doubles Final | Yonex Taipei Open 2025 (11:00 - 11 May 2025)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-LIVE EVENT TGL 10 MEI(A)" tvg-logo="https://thumbor.prod.vidiocdn.com/Zw0vn8DSnzWcYTELsKSNICmAqZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4277479/b57766.jpg", Venezia vs Fiorentina - Serie A (23:30 - 12 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18249&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/m3tTvl-fvuqq1it0Ci7PNfFrKrQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270867/0f1df1.jpg", -2.PSBS Biak vs Persis - BRI Liga 1 (13:24 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17625&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17625&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/vzqpK3hXeNtSSNPGN5OTfhLMLTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4275204/9fdc78.jpg", -3.Palembang Bank SumselBabel vs Surabaya Samator - Perebutan Tempat ke-3 Putra -PLN Mobile Proliga (15:30 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://link.zozotv.xyz:443/live/usez37/zxy921/475.ts
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/MImvJMs2BsE9Q-fpP5ZRVq0WhXI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270868/c9c641.jpg", -4.Arema FC vs Persik Kediri - BRI Liga 1 (15:30 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/Ygyy-oOyLe2GALmR0OeDvQJRNiQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273301/42743f.jpg", -5.Newcastle vs Chelsea - Premier League (17:30 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9182&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/cfLNoyfZRiKGGBJnLIVwhWyvnkA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4275207/bf3441.jpg", -6.Udinese vs Monza - Serie A (17:30 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17938&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/FgyWoGhMMn_1hDe35gJpA8hEOyY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270869/429390.jpg", -7.Persebaya Surabaya vs Semen Padang FC - BRI Liga 1 (18:30 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17624&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17624&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/-5mcWuGl0P-jY9LFe7fu7HuSjAw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273305/58b5dd.jpg", -8.Man United vs West Ham - Premier League (19:45 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9182&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg", -9.Barcelona vs Real Madrid - LaLiga (21:10 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/wYNBNsWgBQA7U_cXeI7RKaJ7tVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273307/45d462.jpg", -10.Liverpool vs Arsenal - Premier League (22:00 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9182&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/nhHrP2sCKloTmmyuTXYGD-s6wjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4275267/693eed.jpg", -11.Torino vs Inter - Serie A (23:00 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17938&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/MImvJMs2BsE9Q-fpP5ZRVq0WhXI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4270868/c9c641.jpg", Arema FC vs Persik Kediri - BRI Liga 1 (14:59 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17624&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17624&type=dash
-
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/vzqpK3hXeNtSSNPGN5OTfhLMLTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4275204/9fdc78.jpg", Palembang Bank SumselBabel vs Surabaya Samator - Perebutan Tempat ke-3 Putra -PLN Mobile Proliga (15:00 - 11 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18234&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17938&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17938&type=dash
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
-https://youtube.com/@lga775iptv@lga775iptv
+https://youtube.com/@lga775iptv
