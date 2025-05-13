@@ -8845,7 +8845,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18250&type=drm
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18250&type=dash
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/18250_stream.mpd?hdnts=exp=1747105830~acl=/drm/dash/18250*~id=142888884~hmac=92af4e87b260e8105935d5bee375b2089efc3f4a18070570938f575d796bd81b
 
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL 13 MEI(A)" tvg-logo="https://thumbor.prod.vidiocdn.com/LO5etYAE3D_mObrx9_hNTbfpyo8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282526/1c52f6.jpg", Mohit Jaglan/Lakshita Jaglan (IND) vs Chan Yin Chak/Ng Tsz Yau (HKG) - Mixed Doubles Qualification | Toyota Thailand Open 2025 (09:00 - 13 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
