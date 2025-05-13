@@ -8837,7 +8837,7 @@ https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18249&type=drm
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/18250_stream.mpd?hdntl=exp=1747105831~acl=%2fdrm%2fdash%2f18250*~id=142888884~data=hdntl~hmac=c9125c7d5485ce92e721faaab24b5c0f5a970ac0ae6fee89256438e9f49e5551
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/18249_stream.mpd?hdnts=exp=1747105738~acl=/drm/dash/18249*~id=142888884~hmac=ade0d87b171f4fe2a5c7ff35288916f6fe5a34ec7cb0f85d09561062787cbff9
 
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL 13 MEI(A)" tvg-logo="https://thumbor.prod.vidiocdn.com/8lYzSoBmqzv72SCbPCwVXv1GlvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282484/27c7fb.jpg", Phuttimeth Semkunta/Worakorn Chitcharoen (THA) vs Sittisak Nadee/Pichamon Phatcharaphisutsin (THA) - Mixed Doubles Qualification | Toyota Thailand Open 2025 (09:00 - 13 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
