@@ -35902,7 +35902,7 @@ https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/QoFm-m6VFH81jIEBB4QEod_2_M8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283699/4fb3e9.jpg", Rui Hirokami/Sayaka Hobara (JPN) vs Mizuki Otake/Miyu Takahashi (JPN) - Women's Doubles Round of 32 | Toyota Thailand Open 2025 (09:10 - 14 May 2025)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/QoFm-m6VFH81jIEBB4QEod_2_M8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283699/4fb3e9.jpg", 1.Rui Hirokami/Sayaka Hobara (JPN) vs Mizuki Otake/Miyu Takahashi (JPN) - Women's Doubles Round of 32 | Toyota Thailand Open 2025 (09:10 - 14 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35910,13 +35910,13 @@ https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18253&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18253&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/de5Pmo4-hoU4WTQzDYzvLCV9NNY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282683/46bdf5.jpg", Putra 109Kg - Grup A (17:55 - 14 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/de5Pmo4-hoU4WTQzDYzvLCV9NNY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282683/46bdf5.jpg", 2.Putra 109Kg - Grup A (17:55 - 14 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=18715&type=hls
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/dxcVH-T_wesbJi2Ohh5S3I86VAA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282685/2a7bf8.jpg", WTA 1000: Internazionali BNL d'Italia - Quarter Final (18:00 - 14 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/dxcVH-T_wesbJi2Ohh5S3I86VAA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282685/2a7bf8.jpg", 3.WTA 1000: Internazionali BNL d'Italia - Quarter Final (18:00 - 14 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35924,7 +35924,7 @@ https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=18715&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6786&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/3lZYrOEllGZxULLk1UoxZ-YKJNM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282688/94453d.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (19:00 - 14 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/3lZYrOEllGZxULLk1UoxZ-YKJNM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282688/94453d.jpg", 4.ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (19:00 - 14 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35932,7 +35932,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17875&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/Vyc0rjB6IA3HJNT25e7R78R8xGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283089/a0e3e6.jpg", Alaves vs Valencia - LaLiga (23:55 - 14 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/Vyc0rjB6IA3HJNT25e7R78R8xGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283089/a0e3e6.jpg", 5.Alaves vs Valencia - LaLiga (23:55 - 14 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35940,7 +35940,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6317&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/U5DQtwv9j9WFpVN-s2knr567Qec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282686/ba277e.jpg", WTA 1000: Internazionali BNL d'Italia - Quarter Final (00:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/U5DQtwv9j9WFpVN-s2knr567Qec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282686/ba277e.jpg", 6.WTA 1000: Internazionali BNL d'Italia - Quarter Final (00:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35948,7 +35948,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6786&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xcu9A9qOM37O_rSp-HRQSgUzwyw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283091/b2c394.jpg", Villarreal vs Leganes - LaLiga (00:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xcu9A9qOM37O_rSp-HRQSgUzwyw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283091/b2c394.jpg",7.Villarreal vs Leganes - LaLiga (00:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35956,7 +35956,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6299&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/1zXtvitWNo8p7XxsSH3AGTYAJeA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282694/463289.jpg", Feyenoord vs RKC Waalwijk - Eredivisie (00:50 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/1zXtvitWNo8p7XxsSH3AGTYAJeA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282694/463289.jpg", 8.Feyenoord vs RKC Waalwijk - Eredivisie (00:50 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35964,7 +35964,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17629&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17629&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/hcQuHSMyMwVhphH8y0B5ssKR6Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282693/e99a4d.jpg", PSV vs Heracles - Eredivisie (00:50 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/hcQuHSMyMwVhphH8y0B5ssKR6Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282693/e99a4d.jpg", 9.PSV vs Heracles - Eredivisie (00:50 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35972,7 +35972,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17629&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18356&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18356&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/LaTZoESzYYckw_rJAHDVlAhypc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285134/13e233.jpg", Twente vs AZ Alkmaar - Eredivisie (00:55 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/LaTZoESzYYckw_rJAHDVlAhypc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285134/13e233.jpg", 10.Twente vs AZ Alkmaar - Eredivisie (00:55 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35980,7 +35980,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18356&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6686&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/tJxjSBrMWm-HRDpZOcE9ZSjCqn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282691/8e8c89.jpg", FC Groningen vs Ajax - Eredivisie (01:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/tJxjSBrMWm-HRDpZOcE9ZSjCqn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282691/8e8c89.jpg", 11.FC Groningen vs Ajax - Eredivisie (01:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35988,7 +35988,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6685&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6685&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/vs_GVB2ovwbi-Q3fNtEtpHcB01I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282689/ae44e6.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (01:30 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/vs_GVB2ovwbi-Q3fNtEtpHcB01I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282689/ae44e6.jpg", 12.ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (01:30 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -35996,7 +35996,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17875&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/CX9B4Ow-hMFfdubaafUmNYF7Xp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283090/c77554.jpg", Real Madrid vs Mallorca - LaLiga (02:25 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/CX9B4Ow-hMFfdubaafUmNYF7Xp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283090/c77554.jpg", 13.Real Madrid vs Mallorca - LaLiga (02:25 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36004,7 +36004,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6317&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/ek5wlpimvDzabDBe7VJ6wZQAiHg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282687/9b2218.jpg", Conference Semifinals - Game 5: New York Knicks vs Boston Celtics - NBA (06:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/ek5wlpimvDzabDBe7VJ6wZQAiHg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282687/9b2218.jpg", 14.Conference Semifinals - Game 5: New York Knicks vs Boston Celtics - NBA (06:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36012,19 +36012,19 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6786&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/t5KshY6DdvP6Zt-RmtWCzqoZeEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284887/f0a1f2.jpg", Putri +87Kg - Grup A (11:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/t5KshY6DdvP6Zt-RmtWCzqoZeEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284887/f0a1f2.jpg", 15.Putri +87Kg - Grup A (11:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=18714&type=hls
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/HTsrgaBCz79v75xmLCJ6JxqMyHE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284888/7589d2.jpg", Putra +109Kg - Grup A (13:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/HTsrgaBCz79v75xmLCJ6JxqMyHE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284888/7589d2.jpg", 16.Putra +109Kg - Grup A (13:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=18714&type=hls
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/G_l3JMCZuU6ghwtGv3LY78Ou0G4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285453/0394da.jpg", Aqtobe VC vs Al-Rayyan Sports Club - AVC Men's Volleyball Champions League (13:05 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/G_l3JMCZuU6ghwtGv3LY78Ou0G4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285453/0394da.jpg", 17.Aqtobe VC vs Al-Rayyan Sports Club - AVC Men's Volleyball Champions League (13:05 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36032,7 +36032,7 @@ https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=18714&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18729&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18729&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/565s8gcym9uUIKOxeU_4zGEpe6Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285454/1c0bae.jpg", Suntory Sunbirds Osaka vs Al Muharraq - AVC Men's Volleyball Champions League (17:05 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/565s8gcym9uUIKOxeU_4zGEpe6Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285454/1c0bae.jpg", 18.Suntory Sunbirds Osaka vs Al Muharraq - AVC Men's Volleyball Champions League (17:05 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36040,7 +36040,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18729&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18729&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18729&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/iURw4yZG1is68ZrPpTwwoEv9xNc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282690/12f69e.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (18:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/iURw4yZG1is68ZrPpTwwoEv9xNc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282690/12f69e.jpg", 19.ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (18:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36048,7 +36048,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18729&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17875&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/nPbgvajsdykA2tfBEpWEF0hFvxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285455/5e17a1.jpg", WTA 1000: Internazionali BNL d'Italia - Semifinal (20:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/nPbgvajsdykA2tfBEpWEF0hFvxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285455/5e17a1.jpg", 20.WTA 1000: Internazionali BNL d'Italia - Semifinal (20:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36056,7 +36056,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6786&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/jXcbFlZuXAYRNnRKI5DukmCceTo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284892/760161.jpg", Osasuna vs Atletico Madrid - LaLiga (23:55 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/jXcbFlZuXAYRNnRKI5DukmCceTo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284892/760161.jpg", 21.Osasuna vs Atletico Madrid - LaLiga (23:55 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36064,7 +36064,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6299&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/1gXXpRH9wbw8Nzq5MEZ4aadDNVo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284894/2289da.jpg", Rayo Vallecano vs Real Betis - LaLiga (23:55 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/1gXXpRH9wbw8Nzq5MEZ4aadDNVo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284894/2289da.jpg", 22.Rayo Vallecano vs Real Betis - LaLiga (23:55 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36072,7 +36072,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6317&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/ZReCMBUyZPlonzYetHaMqtrgpSk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284889/edb645.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (00:00 - 16 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/ZReCMBUyZPlonzYetHaMqtrgpSk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284889/edb645.jpg", 23.ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (00:00 - 16 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36080,7 +36080,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17875&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/tdi9ClqoRRV7I-4spzXXBCl3H4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284896/f14e85.jpg", Al-Raed vs Al-Ittihad - Roshn Saudi League (00:45 - 16 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/tdi9ClqoRRV7I-4spzXXBCl3H4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284896/f14e85.jpg", 24.Al-Raed vs Al-Ittihad - Roshn Saudi League (00:45 - 16 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36088,7 +36088,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17139&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/9hQyR4LoOWqOJinUnh-XPTL26gc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285456/31d68b.jpg", WTA 1000: Internazionali BNL d'Italia - Semifinal (01:30 - 16 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/9hQyR4LoOWqOJinUnh-XPTL26gc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285456/31d68b.jpg", 25.WTA 1000: Internazionali BNL d'Italia - Semifinal (01:30 - 16 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36096,7 +36096,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6786&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/fru-nLEc1uo6B30GzlbDwUmpiys=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284893/8b0c41.jpg", Espanyol vs Barcelona - LaLiga (02:25 - 16 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/fru-nLEc1uo6B30GzlbDwUmpiys=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284893/8b0c41.jpg", 26.Espanyol vs Barcelona - LaLiga (02:25 - 16 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36104,7 +36104,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6299&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/3NM5HQQaGbUNRVVXM-L9bQCnS6w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284895/71573c.jpg", Getafe vs Athletic Club - LaLiga (02:25 - 16 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/3NM5HQQaGbUNRVVXM-L9bQCnS6w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284895/71573c.jpg", 27.Getafe vs Athletic Club - LaLiga (02:25 - 16 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36112,7 +36112,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6317&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/_J7JYP7Ms4ezuvj2ldF_7UAcYD4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284890/ab0b90.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Semifinal (20:30 - 16 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/_J7JYP7Ms4ezuvj2ldF_7UAcYD4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284890/ab0b90.jpg", 28.ATP 1000: Internazionali BNL d'Italia 2025 - Semifinal (20:30 - 16 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36120,7 +36120,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17875&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/K8iyBpYmB9sa4RAA-vdHNp4U52g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284897/ccf778.jpg", Al-Fateh vs Al-Hilal - Roshn Saudi League (22:40 - 16 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/K8iyBpYmB9sa4RAA-vdHNp4U52g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284897/ccf778.jpg", 29.Al-Fateh vs Al-Hilal - Roshn Saudi League (22:40 - 16 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36128,7 +36128,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17139&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/ompz-YF2UizJDIRswZS93OqCrlQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284898/e592dc.jpg", Al-Nassr vs Al-Taawoun - Roshn Saudi League (00:55 - 17 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/ompz-YF2UizJDIRswZS93OqCrlQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284898/e592dc.jpg", 30.Al-Nassr vs Al-Taawoun - Roshn Saudi League (00:55 - 17 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36136,40 +36136,296 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17139&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/0NILYHzgMr3VGOuoJ1a4qjApaf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284891/897027.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Semifinal (01:30 - 17 May 2025)
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/JtFb1Wj3fzvUGTkCax7Bv9xYjTk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283103/18f33c.jpg", Kunlavut Vitidsarn (THA) vs Lei Lan Xi (CHN) - Men's Singles Round of 32 | Toyota Thailand Open 2025 (09:00 - 14 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17875&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18249&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/9sFWjfqhxl-Q4rhr5l_-rgfnr9A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284899/b21300.jpg", Europe Play-offs: Standard Liege vs FC Dender - Belgian Pro League (23:15 - 17 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/nIe_HuZLyxakQyA-4z0lqL3J9Rw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283208/c7462d.jpg", Pruthvi Krishnamurthy Roy/Sai Pratheek.K (IND) vs Junaidi Arif/Roy King Yap (MAS) - Men's Doubles Round of 32 | Toyota Thailand Open 2025 (09:00 - 14 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18109&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18109&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18250&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18250&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/ZjpVieUzUiR_cJxss4oFxdgn0Oc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18707/hsn-bali-e65737.jpg", Don Phills vs Frans Hutajulu - Super Flyweight | HW Sport Night Bali (17:00 - 18 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/mwcdIsl2lFhPoNtNl36aWc5NQ2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283554/fdfa42.jpg", Jia Heng Jason Teh (SGP) vs Rasmus Gemke (DEN) - Men's Singles Round of 32 | Toyota Thailand Open 2025 (09:00 - 14 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18707&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18707&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18252&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18252&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/yc-ZVCNkcp1ibuRSFnhZQHLy_rY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18708/hsn-bali-5c6f3c.jpg", Deniel vs Krispinus Soleman - Super Bantamweight | HW Sport Night Bali (20:00 - 18 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/QoFm-m6VFH81jIEBB4QEod_2_M8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283699/4fb3e9.jpg", Rui Hirokami/Sayaka Hobara (JPN) vs Mizuki Otake/Miyu Takahashi (JPN) - Women's Doubles Round of 32 | Toyota Thailand Open 2025 (09:10 - 14 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18708&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18708&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18253&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18253&type=dash
 
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/de5Pmo4-hoU4WTQzDYzvLCV9NNY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282683/46bdf5.jpg", Putra 109Kg - Grup A (17:55 - 14 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=18715&type=hls
 
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/dxcVH-T_wesbJi2Ohh5S3I86VAA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282685/2a7bf8.jpg", WTA 1000: Internazionali BNL d'Italia - Quarter Final (18:00 - 14 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6786&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786&type=dash
 
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/3lZYrOEllGZxULLk1UoxZ-YKJNM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282688/94453d.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (19:00 - 14 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17875&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/Vyc0rjB6IA3HJNT25e7R78R8xGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283089/a0e3e6.jpg", Alaves vs Valencia - LaLiga (23:55 - 14 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/U5DQtwv9j9WFpVN-s2knr567Qec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282686/ba277e.jpg", WTA 1000: Internazionali BNL d'Italia - Quarter Final (00:00 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6786&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/xcu9A9qOM37O_rSp-HRQSgUzwyw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283091/b2c394.jpg", Villarreal vs Leganes - LaLiga (00:00 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6299&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/1zXtvitWNo8p7XxsSH3AGTYAJeA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282694/463289.jpg", Feyenoord vs RKC Waalwijk - Eredivisie (00:50 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17629&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17629&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/hcQuHSMyMwVhphH8y0B5ssKR6Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282693/e99a4d.jpg", PSV vs Heracles - Eredivisie (00:50 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18356&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18356&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/LaTZoESzYYckw_rJAHDVlAhypc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285134/13e233.jpg", Twente vs AZ Alkmaar - Eredivisie (00:55 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6686&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/tJxjSBrMWm-HRDpZOcE9ZSjCqn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282691/8e8c89.jpg", FC Groningen vs Ajax - Eredivisie (01:00 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6685&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6685&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/vs_GVB2ovwbi-Q3fNtEtpHcB01I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282689/ae44e6.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (01:30 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17875&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/CX9B4Ow-hMFfdubaafUmNYF7Xp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283090/c77554.jpg", Real Madrid vs Mallorca - LaLiga (02:25 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/ek5wlpimvDzabDBe7VJ6wZQAiHg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282687/9b2218.jpg", Conference Semifinals - Game 5: New York Knicks vs Boston Celtics - NBA (06:00 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6786&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/t5KshY6DdvP6Zt-RmtWCzqoZeEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284887/f0a1f2.jpg", Putri +87Kg - Grup A (11:00 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=18714&type=hls
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/HTsrgaBCz79v75xmLCJ6JxqMyHE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284888/7589d2.jpg", Putra +109Kg - Grup A (13:00 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tvkitastream.my.id/vidio/hls-tvkita.php/.m3u8?id=18714&type=hls
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/G_l3JMCZuU6ghwtGv3LY78Ou0G4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285453/0394da.jpg", Aqtobe VC vs Al-Rayyan Sports Club - AVC Men's Volleyball Champions League (13:05 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18729&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18729&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/565s8gcym9uUIKOxeU_4zGEpe6Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285454/1c0bae.jpg", Suntory Sunbirds Osaka vs Al Muharraq - AVC Men's Volleyball Champions League (17:05 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18729&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18729&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/iURw4yZG1is68ZrPpTwwoEv9xNc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282690/12f69e.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (18:00 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17875&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/nPbgvajsdykA2tfBEpWEF0hFvxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285455/5e17a1.jpg", WTA 1000: Internazionali BNL d'Italia - Semifinal (20:00 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6786&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/jXcbFlZuXAYRNnRKI5DukmCceTo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284892/760161.jpg", Osasuna vs Atletico Madrid - LaLiga (23:55 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6299&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/1gXXpRH9wbw8Nzq5MEZ4aadDNVo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284894/2289da.jpg", Rayo Vallecano vs Real Betis - LaLiga (23:55 - 15 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/ZReCMBUyZPlonzYetHaMqtrgpSk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284889/edb645.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (00:00 - 16 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17875&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/tdi9ClqoRRV7I-4spzXXBCl3H4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284896/f14e85.jpg", Al-Raed vs Al-Ittihad - Roshn Saudi League (00:45 - 16 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17139&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17139&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/9hQyR4LoOWqOJinUnh-XPTL26gc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285456/31d68b.jpg", WTA 1000: Internazionali BNL d'Italia - Semifinal (01:30 - 16 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6786&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/fru-nLEc1uo6B30GzlbDwUmpiys=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284893/8b0c41.jpg", Espanyol vs Barcelona - LaLiga (02:25 - 16 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6299&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/3NM5HQQaGbUNRVVXM-L9bQCnS6w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284895/71573c.jpg", Getafe vs Athletic Club - LaLiga (02:25 - 16 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6317&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/_J7JYP7Ms4ezuvj2ldF_7UAcYD4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284890/ab0b90.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Semifinal (20:30 - 16 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17875&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/K8iyBpYmB9sa4RAA-vdHNp4U52g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284897/ccf778.jpg", Al-Fateh vs Al-Hilal - Roshn Saudi League (22:40 - 16 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17139&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17139&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/ompz-YF2UizJDIRswZS93OqCrlQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284898/e592dc.jpg", Al-Nassr vs Al-Taawoun - Roshn Saudi League (00:55 - 17 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17139&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17139&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/0NILYHzgMr3VGOuoJ1a4qjApaf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284891/897027.jpg", ATP 1000: Internazionali BNL d'Italia 2025 - Semifinal (01:30 - 17 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17875&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/9sFWjfqhxl-Q4rhr5l_-rgfnr9A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284899/b21300.jpg", Europe Play-offs: Standard Liege vs FC Dender - Belgian Pro League (23:15 - 17 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18109&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18109&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/ZjpVieUzUiR_cJxss4oFxdgn0Oc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18707/hsn-bali-e65737.jpg", Don Phills vs Frans Hutajulu - Super Flyweight | HW Sport Night Bali (17:00 - 18 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18707&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18707&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI(B)" tvg-logo="https://thumbor.prod.vidiocdn.com/yc-ZVCNkcp1ibuRSFnhZQHLy_rY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18708/hsn-bali-5c6f3c.jpg", Deniel vs Krispinus Soleman - Super Bantamweight | HW Sport Night Bali (20:00 - 18 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18708&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18708&type=dash
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@lga775iptv
