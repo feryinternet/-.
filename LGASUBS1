@@ -35922,21 +35922,21 @@ https://dl.dropboxusercontent.com/scl/fi/pm0oal8re30j9azy9noio/Bwf2.m3u8?rlkey=w
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6786&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/sVlIwvE4-SLE8skjJelw_Vt3ye0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4286044/3d8e1d.jpg", 2.Amri Syahnawi/Nita Violina Marwah (INA) vs Guo Xin Wa/Chen Fang Hui (CHN) - Mixed Doubles Round of 16 | Toyota Thailand Open 2025 (23:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/sVlIwvE4-SLE8skjJelw_Vt3ye0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4286044/3d8e1d.jpg", 2B.Amri Syahnawi/Nita Violina Marwah (INA) vs Guo Xin Wa/Chen Fang Hui (CHN) - Mixed Doubles Round of 16 | Toyota Thailand Open 2025 (09:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18249&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18249&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18249&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/gmrzuTbPX-4SYpINIhftngE0kNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4286872/b4fa68.jpg", 3.Chang Ko-Chi/Po Li-Wei (TPE) vs Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani - Men's Doubles Round of 16 | Toyota Thailand Open 2025 (23:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/gmrzuTbPX-4SYpINIhftngE0kNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4286872/b4fa68.jpg", 3B.Chang Ko-Chi/Po Li-Wei (TPE) vs Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani - Men's Doubles Round of 16 | Toyota Thailand Open 2025 (09:00 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18252&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18252&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18252&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18252&type=dash
 
 #EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/NsWYbEGZxLPXU965Ed2ntam5GjY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4284892/58a27c.jpg", 4.Osasuna vs Atletico Madrid - LaLiga (23:55 - 15 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
