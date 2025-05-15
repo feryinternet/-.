@@ -9035,6 +9035,11 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 
 
+#EXTINF:-1 group-title="#.-LIVE EVENT BOLA LUAR " tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", 1.La Liga | osasuna vs atletico madrid 1208811 [ 2025-05-16 00:00 WIB ]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208811
+
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
