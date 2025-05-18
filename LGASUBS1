@@ -37700,6 +37700,14 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17139&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17139&type=dash
 
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/vdPWIP5PUn3Jc60LIcVIyCWNpzg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4290712/41f84c.jpg", 22b. WorldSSP300 Race 2 - WorldSBK Championship Round 5 Motul Czech Round (20:15 - 18 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17139&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17139&type=dash
+
 #EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/Iv1digwCRJByRZGSmPerTPiZnzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4287024/57746d.jpg", 23.Brentford vs Fulham - Premier League (20:30 - 18 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -37707,6 +37715,22 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=9183&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=9183&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/Iv1digwCRJByRZGSmPerTPiZnzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4287024/57746d.jpg", 23b. Brentford vs Fulham - Premier League (20:30 - 18 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/2R67R8m0nUDxOuz3EVtzFaE4SCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4287018/996533.jpg", 24b.Leicester vs Ipswich - Premier League (20:50 - 18 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17638&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17638&type=dash
 
 #EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/2R67R8m0nUDxOuz3EVtzFaE4SCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4287018/996533.jpg", 24.Leicester vs Ipswich - Premier League (20:50 - 18 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
