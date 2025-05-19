@@ -36866,8 +36866,21 @@ https://cdn4.turboviplay.com/data1/6790b7903b82a/6790b7903b82a720.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#-.LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/FM9Lu8AOO8OwWyyTpS-R0kl08uo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4292546/9e53a5.jpg", ATP 500: Bitpanda Hamburg Open 2025 - Day 2 (17:00 - 19 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17875&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
 
-
+#EXTINF:-1 group-title="#-.LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/6PcT_Pia5edF11uZ9YOk1a1gb5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4294894/7fcfa2.jpg", Brighton vs Liverpool - Premier League (01:30 - 20 May 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=9182&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=9182&type=dash
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@lga775iptv
