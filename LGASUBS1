@@ -36879,6 +36879,29 @@ https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1223971
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208828
 
+#EXTINF:-1 group-title="#-.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Serie A | napoli vs cagliari 2025-05-24 01:45 WIB B
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://sangkatv.xyz/kode/lebah/index.m3u8?id=TNT_Sports_1
+
+#EXTINF:-1 group-title="#-.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Serie A | napoli vs cagliari 2025-05-24 01:45 WIB C
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://sangkatv.xyz/kode/lebah/index.m3u8?id=TNT_Sports_1_BU
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#-.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Serie A | como vs inter 2025-05-24 01:45 WIB B
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://sangkatv.xyz/kode/lebah/index.m3u8?id=TNT_Sports_2
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#-.LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Serie A | como vs inter 2025-05-24 01:45 WIB C
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36                               
+
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@lga775iptv
