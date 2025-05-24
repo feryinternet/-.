@@ -5253,12 +5253,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 
-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.NASIONAL",YT  FERY IPTV
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="CHANNEL | INDONESIA 🇮🇩",YT  FERY IPTV
 https://youtube.com/@lga775iptv
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indosiar.png" group-title="#.NASIONAL",INDOSIAR (D)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indosiar.png" group-title="CHANNEL | INDONESIA 🇮🇩",INDOSIAR (D)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -5268,7 +5267,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
 
-#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mnctv.png" group-title="#.NASIONAL",MNCTV (V+)
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mnctv.png" group-title="CHANNEL | INDONESIA 🇮🇩",MNCTV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
@@ -5277,14 +5276,14 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 #http://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968=6.m3u8
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.NASIONAL" tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/antv.png",ANTV (D)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/antv.png",ANTV (D)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sctv.png" group-title="#.NASIONAL",SCTV (D)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sctv.png" group-title="CHANNEL | INDONESIA 🇮🇩",SCTV (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 https://raw.githubusercontent.com/eepunx/cancan/main/sc
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
@@ -5292,7 +5291,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/sctv
 
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/rcti.png" group-title="#.NASIONAL",RCTI (V+)
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/rcti.png" group-title="CHANNEL | INDONESIA 🇮🇩",RCTI (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -5301,7 +5300,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 #http://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
 
 
-#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/gtv.png" group-title="#.NASIONAL",GTV (V+)
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/gtv.png" group-title="CHANNEL | INDONESIA 🇮🇩",GTV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
@@ -5310,7 +5309,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.NASIONAL" tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/transtv.png",Trans TV HD (*)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/transtv.png",Trans TV HD (*)
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b744100_sleng.m3u8
 #https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
@@ -5321,7 +5320,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b744100_sl
 #https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.NASIONAL" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/trans7.png",Trans 7 HD (*)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/trans7.png",Trans 7 HD (*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #https://raw.githubusercontent.com/jawaionline/dailymotion_to_m3u/main/trans7.m3u
@@ -5335,7 +5334,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 #https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
 
-#EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mdtv.png" group-title="#.NASIONAL",MDTV (D)
+#EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mdtv.png" group-title="CHANNEL | INDONESIA 🇮🇩",MDTV (D)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
@@ -5344,14 +5343,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
 
 
-#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/rtv.png" group-title="#.NASIONAL",RTV (D)
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/rtv.png" group-title="CHANNEL | INDONESIA 🇮🇩",RTV (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
 
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.NASIONAL" tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/tvri-nasional.png",TVRI Nasional (*)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/tvri-nasional.png",TVRI Nasional (*)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -5361,11 +5360,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.NASIONAL" tvg-id="TVRIWorld.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/tvri-world.png",TVRI World (*)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="TVRIWorld.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/tvri-world.png",TVRI World (*)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 
-#EXTINF:0 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/inews.png" group-title="#.NASIONAL",iNewsTV (V+)
+#EXTINF:0 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/inews.png" group-title="CHANNEL | INDONESIA 🇮🇩",iNewsTV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
@@ -5375,7 +5374,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 #http://cempedak-cdn-fly.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7.m3u8
 
 
-#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/tvone.png" group-title="#.NASIONAL",tvOne HD (D)
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/tvone.png" group-title="CHANNEL | INDONESIA 🇮🇩",tvOne HD (D)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #http://210.210.155.35/session/080fd6c6-44b8-11ed-b03c-b82a72d63267/qwr9ew/s/s105/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
@@ -5384,7 +5383,7 @@ https://raw.githubusercontent.com/eepunx/cancan/main/tvon
 
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/kompastv.png" group-title="#.NASIONAL",Kompas TV (D)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/kompastv.png" group-title="CHANNEL | INDONESIA 🇮🇩",Kompas TV (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
@@ -5395,13 +5394,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=777&type=drm
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/metrotv.png" group-title="#.NASIONAL",Metro TV (Vid)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/metrotv.png" group-title="CHANNEL | INDONESIA 🇮🇩",Metro TV (Vid)
 https://sweet-night-1d1d.worst.workers.dev/?id=777&type=hls
 
 
 
 
-#EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png" group-title="#.NASIONAL",Berita Satu (*)
+#EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png" group-title="CHANNEL | INDONESIA 🇮🇩",Berita Satu (*)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
@@ -5413,11 +5412,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=drm
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.NASIONAL" tvg-id="Mentari TV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mentaritv.png",Mentari TV (Vid)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="Mentari TV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mentaritv.png",Mentari TV (Vid)
 https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.NASIONAL" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/moji.png",Moji HD (D)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/moji.png",Moji HD (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #https://bit.ly/playlist-moji
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
@@ -5431,28 +5430,28 @@ https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=drm
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="NusantaraTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/nusantaratv.png" group-title="#.NASIONAL" tvg-logo="",Nusantara TV (Vid)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="NusantaraTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/nusantaratv.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="",Nusantara TV (Vid)
 https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=hls
 
 
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="CNNIndonesia.id" tvg-logo="https://logo.iptveditor.com/cnnindonesia.png" group-title="#.NASIONAL",CNN Indonesia (*)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="CNNIndonesia.id" tvg-logo="https://logo.iptveditor.com/cnnindonesia.png" group-title="CHANNEL | INDONESIA 🇮🇩",CNN Indonesia (*)
 #https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880834
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="#.NASIONAL",CNBC Indonesia (*)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="CHANNEL | INDONESIA 🇮🇩",CNBC Indonesia (*)
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="MetroGlobeNetwork.id" group-title="#.NASIONAL" tvg-id="metroglobenetwork.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/metro-globe-network.png",Metro Globe Network (*)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="MetroGlobeNetwork.id" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="metroglobenetwork.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/metro-globe-network.png",Metro Globe Network (*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="MNCNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/1197px-SindoNewsTV_2023.png?" group-title="#.NASIONAL",SindoNewsTV (V+)
+#EXTINF:0 tvg-id="MNCNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/1197px-SindoNewsTV_2023.png?" group-title="CHANNEL | INDONESIA 🇮🇩",SindoNewsTV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
@@ -5460,7 +5459,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="#.NASIONAL",Garuda TV (*)
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="CHANNEL | INDONESIA 🇮🇩",Garuda TV (*)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
@@ -5472,12 +5471,12 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 #https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GarudaTV.m3u8
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.NASIONAL" tvg-id="IndonesianaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indonesianatv.png",Indonesiana TV
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="IndonesianaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indonesianatv.png",Indonesiana TV
 #https://tvstreamcast.com/indonesiana.m3u8
 #https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 
-#EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/btv.png" group-title="#.NASIONAL",BTV (V+)
+#EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/btv.png" group-title="CHANNEL | INDONESIA 🇮🇩",BTV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
