@@ -16983,6 +16983,17 @@ https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208397
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1629443650
 
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-1.[ LIVE EVENT ]", J1 League-Tokyo Verdy vs Kyoto Sanga 13:00 25-05-2025
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-origin=https://p.m82xg4z0cdbz7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+https://sangkatv.xyz/kode/lebah/index.m3u8?id=210583
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/Test/refs/heads/main/BEE1.png" group-title="#.-1.[ LIVE EVENT ]", J1 League-Tokyo Verdy vs Kyoto Sanga 13:00 25-05-2025 B
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=210583
+
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@lga775iptv
