@@ -60,9 +60,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS",SOCCER CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="SPORTS",Soccer Channel ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
@@ -6664,11 +6665,12 @@ https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="CHANNEL | SPORTSTAR",Sportstar 4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="CHANNEL | SPORTSTAR",Soccer Channel-HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
@@ -7966,11 +7968,11 @@ https://terabit.web.id/media.mpd?id=112&type=dash
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=113
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="LIVE TIMNAS SPORTSTAR",Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
@@ -8046,11 +8048,11 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_sport
 https://bit.ly/4fVtOcd
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://static.mncnow.id/images/channel/05b3aa2f-b6d.jpg" tvg-id="SoccerChannel.id" tvg-name="ID: Soccer Channel" group-title="SPORTS PREMIUM",Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SPORTS PREMIUM",ID: SpoTV
@@ -8080,10 +8082,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="SPORTS PREMIUM",Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="SPORTS PREMIUM",Soccer Channel ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
  
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-logo="https://iili.io/JjzVLl9.png" group-title="SPORTS PREMIUM",TVRI Sport
@@ -8119,10 +8122,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="SPORTS PREMIUM",Soccer channel
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Okey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="SPORTS PREMIUM",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="SPORTS PREMIUM" ,  NBC SPORTS 
@@ -10231,6 +10231,14 @@ https://7pal.short.gy/ssportsnw
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd  
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="LIGA GERMAN", SOCCER CHANNEL
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" group-title="LIGA GERMAN", SPORTSTARS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
