@@ -5483,7 +5483,7 @@ https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=112
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.LIVE TIMNAS SPORTSTAR",SPORTSTAR 1
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIVE TIMNAS SPORTSTAR",SPORTSTAR 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
@@ -7843,7 +7843,7 @@ http://iptvtree.net:8080/F25093/29838750/304771
 #EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="#.LIGA INGGRIS",BEINSPORTS 1 EPL HD  
 http://bmudnfh.megahdtv.xyz:900/live/0032829421/5272592091/191529.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.LIGA INGGRIS",Diema Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA INGGRIS",Diema Sport 2
 http://iptvtree.net:8080/F25093/29838750/9180
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7962,13 +7962,13 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.LIGA ITALIA",Max Sport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA ITALIA",Max Sport 1
 http://iptvtree.net:8080/F25093/29838750/20448
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.LIGA ITALIA",Max Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA ITALIA",Max Sport 2
 http://iptvtree.net:8080/F25093/29838750/20449
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.LIGA ITALIA",Max Sport 3 B
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA ITALIA",Max Sport 3 B
 http://iptvtree.net:8080/F25093/29838750/16431
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.LIGA ITALIA",Max Sport 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA ITALIA",Max Sport 4
 http://iptvtree.net:8080/F25093/29838750/16433
 
 
@@ -13954,33 +13954,52 @@ https://cdn4.turboviplay.com/data1/6790b7903b82a/6790b7903b82a720.m3u8
 
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
-
 #EXTM3U
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", La Liga | real madrid vs real sociedad 2025-05-24 21:15 WIB
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", La Liga | girona vs atletico madrid 1208832 [ 2025-05-25 19:00 WIB ]
 #EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208829
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208832
 
-#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Serie A | bologna vs genoa 2025-05-24 23:00 WIB
+#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", villarreal vs sevilla 2025-05-25 21:15 WIB
 #EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1223966                        
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208835
 
-#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", La Liga | leganes vs valladolid 2025-05-24 23:30 WIB
+#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", southampton vs arsenal 2025-05-25 22:00 WIB
 #EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208831
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208400
 
-#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", La Liga | espanyol vs las palmas 2025-05-24 23:30 WIB
+#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", tottenham vs brighton 2025-05-25 22:00 WIB
 #EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1212947
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208401
 
-#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Serie A | ac milan vs monza 2025-05-25 01:45 WIB
+#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", ipswich vs west ham 2025-05-25 22:00 WIB
 #EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1223970
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208395
 
+#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", nottingham forest vs chelsea 2025-05-25 22:00 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208399
+
+#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", liverpool vs crystal palace 2025-05-25 22:00 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208396
+
+#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", manchester united vs aston villa 2025-05-25 22:00 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208397
+
+#EXTINF:-1 group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", formula 1 grand prix de monaco 2025 or race 2025-05-25 20:00 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1629443650
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
