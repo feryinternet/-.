@@ -453,37 +453,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
 
 
-
-#EXTINF:-1 group-title="-SPORTS" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
-
-
-
-#EXTINF:-1 group-title="-SPORTS" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%202.m3u8
-
-
-
-#EXTINF:-1 group-title="-SPORTS" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%203.m3u8
-
-
-
-#EXTINF:-1 group-title="-SPORTS" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%204.m3u8
-
-
-
-#EXTINF:-1 group-title="-SPORTS" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205.m3u8
-
-
-
-#EXTINF:-1 group-title="-SPORTS" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="-SPORTS", LFC TV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
 
@@ -6679,41 +6648,6 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="ChampionsTV6.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_6.png" group-title="#.SPORT CHAMPION TV",Champions TV 6 (Vid)
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", Champions TV 1 (Vidio) B
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", Champions TV 2 (Vidio) B
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", Champions TV 3 (Vidio) B
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", Champions TV 5 (Vidio) B
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.SPORT CHAMPION TV"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", Champions TV 6 (Vidio) B
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9183
-
-
-
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="HBO movie",HBO Transvision (OS9)
@@ -8396,6 +8330,49 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+
+---------------------------------------------------------------LIGA PORTUGAL---------------------------------------------------------------------
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA PORTUGAL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117725
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA PORTUGAL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117728
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA PORTUGAL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117730
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA PORTUGAL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117732
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA PORTUGAL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117734
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.LIGA PORTUGAL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117736
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Sky Sport F1.it" tvg-logo="https://iili.io/JpwIXfe.jpg" group-title="-F1 DAN MOTOGP", Sky SPORT F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
