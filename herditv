@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/NETFLIX.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.SEDIA AKUN NETFLIX 35rb/Bulan",HUB/WA 085794973101
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/NETFLIX.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.SEDIA AKUN NETFLIX ",HUB/WA 085794973101
 https://youtube.com/@lga775iptv
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png",
@@ -4869,30 +4869,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="CHANNEL | HBO",HBO Transvision (OS9)
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0" group-title="CHANNEL | HBO",HBO Hits Transvision (OS9)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropbox.com/scl/fi/huvb654fboyfnebvnzghn/hbo_family.png?rlkey=sr0deor1pxp0bxgm3x6wve1cz&dl=0" group-title="CHANNEL | HBO",HBO Family Transvision (OS9)
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0" group-title="CHANNEL | HBO",HBO Signature Transvision (OS9)
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropbox.com/scl/fi/zsbacg5t7lorej9vx5lsa/Cinemax-hometv.png?rlkey=pe3s86fk2p7k4q9w0eoij7jzl&dl=0" group-title="CHANNEL | HBO",Cinemax Transvision (OS9)
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="CHANNEL | HBO" , HBO (OS7+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -4967,188 +4944,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b53
 
 
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | HBO",HBO (AFLAX)
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/306484.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="CHANNEL | HBO",HBO 1080 (AFLAX)
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/197972.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | HBO",HBO Family (AFLAX)
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/306485.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="CHANNEL | HBO",HBO Family 1080  (AFLAX)
-https://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/197055.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | HBO",HBO Hits (AFLAX)
-https://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/306486.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="CHANNEL | HBO",HBO Hits 1080 (AFLAX)
-https://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/196480.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | HBO"0,HBO Signature (AFLAX)
-https://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/306483.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="CHANNEL | HBO",HBO Signature 1080 (AFLAX)
-https://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/221948.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="CHANNEL | HBO",Cinemax (AFLAX)
-https://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/197964.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="CHANNEL | HBO",Warner TV (AFLAX)
-https://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/157594.ts
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cinemax-ph.png" group-title="CHANNEL | HBO",Cinemax
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="CHANNEL | HBO",HBO
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="CHANNEL | HBO",HBO Hits
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.ts
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="CHANNEL | HBO",HBO Family
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="CHANNEL | HBO",HBO Signature
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | HBO",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/306484.ts
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="CHANNEL | HBO",HBO 1080
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/197972.ts
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | HBO",HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/306485.ts
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="CHANNEL | HBO",HBO Family 1080
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/197055.ts
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | HBO",HBO Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/306486.ts
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="CHANNEL | HBO",HBO Hits 1080
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/196480.ts
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | HBO",HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/306483.ts
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="CHANNEL | HBO",HBO Signature 1080
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/221948.ts
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="CHANNEL | HBO",Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/197964.ts
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="CHANNEL | HBO",Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/157594.ts
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cinemax-ph.png" group-title="CHANNEL | HBO",Cinemax (NON SUB)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
