@@ -328,65 +328,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 ##http://xtv.ooo:80/Kashif1980/03042368432/350997
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62212
 
-//========================================================================
-//MAYTOKO2 CHANNEL | SPORTS"Astro Sports
-//========================================================================
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="CHANNEL | Astro Sports", Astro Premiere League
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="CHANNEL | Astro Sports",Astro Premiere League 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="CHANNEL | Astro Sports",Astro Grandstand
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="CHANNEL | Astro Sports",Astro Football
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="CHANNEL | Astro Sports",Astro WSports
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="CHANNEL | Astro Sports",AstroArena1
-https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="CHANNEL | Astro Sports",AstroArena2
-https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="CHANNEL | Astro Sports",AstroBadminton1
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" group-title="CHANNEL | Astro Sports",AstroBadminton2
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="CHANNEL | Astro Sports",AstroSportPlus1
-https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="CHANNEL | Astro Sports",AstroSportPlus2
-https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="CHANNEL | Astro Sports",BeinSports 1
-https://wahyu1ptv.pages.dev/AstroBein1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="CHANNEL | Astro Sports",BeinSports 2
-https://wahyu1ptv.pages.dev/AstroBein2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="CHANNEL | Astro Sports",BeinSports 3
-https://wahyu1ptv.pages.dev/AstroBein3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="CHANNEL | Astro Sports", ASTRO CRICKET
-https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-
-#EXTINF:-1 group-title="CHANNEL | Astro Sports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s",SukanRTM TV
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
-
-##EXTINF:-1 group-title="CHANNEL | Astro Sports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s",Sukan TV 2
-##https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/UnifiSport.png" group-title="CHANNEL | Astro Sports",Unifi Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X;Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://WahyuIPTV.short.gy/UnifiSport.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WWE-Astro.png" group-title="CHANNEL | Astro Sports",WWE Network
-https://smart.pendy.dpdns.org/Smart.php?id=Wwe
-
-
-
-//========================================================================
-//MAYTOKO2 CHANNEL | SPORTS"Sony & TNT Sports
 //========================================================================
 
 
@@ -9924,7 +9866,55 @@ https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="CHANNEL | ASTRO SPORT",AstroSportPlus2
 https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="CHANNEL | ASTRO SPORTS", Astro Premiere League
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="CHANNEL | ASTRO SPORTS",Astro Premiere League 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="CHANNEL | ASTRO SPORTS",Astro Grandstand
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="CHANNEL | ASTRO SPORTS",Astro Football
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="CHANNEL | ASTRO SPORTS",Astro WSports
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="CHANNEL | ASTRO SPORTS",AstroArena1
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="CHANNEL | ASTRO SPORTS",AstroArena2
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="CHANNEL | ASTRO SPORTS",AstroBadminton1
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" group-title="CHANNEL | ASTRO SPORTS",AstroBadminton2
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="CHANNEL | ASTRO SPORTS",AstroSportPlus1
+https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="CHANNEL | ASTRO SPORTS",AstroSportPlus2
+https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="CHANNEL | ASTRO SPORTS",BeinSports 1
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="CHANNEL | ASTRO SPORTS",BeinSports 2
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="CHANNEL | ASTRO SPORTS",BeinSports 3
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="CHANNEL | ASTRO SPORTS", ASTRO CRICKET
+https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+
+#EXTINF:-1 group-title="CHANNEL | ASTRO SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s",SukanRTM TV
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
+
+##EXTINF:-1 group-title="CHANNEL | ASTRO SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s",Sukan TV 2
+##https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/UnifiSport.png" group-title="CHANNEL | ASTRO SPORTS",Unifi Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X;Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://WahyuIPTV.short.gy/UnifiSport.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WWE-Astro.png" group-title="CHANNEL | ASTRO SPORTS",WWE Network
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 
 
 
