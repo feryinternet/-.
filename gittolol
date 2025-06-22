@@ -9730,6 +9730,12 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF: -1 tvg-id="611" tvg-chno="16" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="CHANNEL | TAMIL", Sirippoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | TAMIL", SUN TV
+https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/SUN%20TV.m3u8
+
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | TAMIL", KTV
+https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/sg_KTV%20TAMIL.m3u8
+
 #EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="https://i.ibb.co/NFZZBJF/aadtha.png" group-title="CHANNEL | TAMIL", Aastha Tamil
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="392" tvg-chno="30" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="CHANNEL | TAMIL", Makkal TV
