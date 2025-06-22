@@ -9631,6 +9631,9 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | TAMIL", SUN TV
 https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/SUN%20TV.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
 #EXTINF: -1 tvg-id="380" group-title="CHANNEL | TAMIL" tvg-logo="https://tatalogo.pages.dev/380.png", KTV HD
 https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
 
