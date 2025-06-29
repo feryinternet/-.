@@ -3258,7 +3258,7 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/40940765921542e0bcd3518195d4
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="CHANNEL | INDONESIA 🇮🇩",MNCTV (R+)
-#http://opplex.tv:8080/mohsin655/4969292/350996
+https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/mnctv.m3u8
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" group-title="CHANNEL | INDONESIA 🇮🇩",INEWS (R+)
@@ -3272,10 +3272,7 @@ https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c0131a4c400d429fb870ed033ec90e8e/index.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" tvg-id="MNCTV.id" tvg-name="ID: MNC TV" group-title="CHANNEL | INDONESIA 🇮🇩",MNC TV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
+https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/mnctv.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" tvg-id="iNews.id" tvg-name="ID: iNews " group-title="CHANNEL | INDONESIA 🇮🇩",iNews 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -3382,9 +3379,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg", MNC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/mnctv.m3u8
 
 
 
@@ -3414,9 +3409,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mnctv.png" group-title="CHANNEL | INDONESIA 🇮🇩",MNCTV (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/mnctv.m3u8
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/antv.png",ANTV (D)
