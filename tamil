@@ -1,231 +1,306 @@
-{
-		"name": "JAPAN TV",
-		"author": "TIM",
-		"image":"https://media.tenor.com/NYeiGpoajYQAAAAC/masatoshi-hamada-japan.gif",
-		"url": "https://github.com/atim2515/ATIM_BOSTON/edit/main/JAPAN%20TV",
-		 
- 
-		"stations":[
+{"name":"AdultIPTV.net MILF",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/milf.m3u8"},
+
+{"name":"AdultIPTV.net Big Dick",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/bigdick.m3u8"},
+
+{"name":"AdultIPTV.net Big Tits",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/bigtits.m3u8"},
+
+{"name":"AdultIPTV.net Fetish",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/fetish.m3u8"},
+
+{"name":"AdultIPTV.net Pornstar",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/pornstar.m3u8"},
+
+{"name":"AdultIPTV.net Big Ass",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/bigass.m3u8"},
+
+{"name":"AdultIPTV.net Interracial",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/interracial.m3u8"},
+
+{"name":"AdultIPTV.net Latina",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/latina.m3u8"},
+
+{"name":"AdultIPTV.net POV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/pov.m3u8"},
+
+{"name":"AdultIPTV.net Blowjob",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/blowjob.m3u8"},
+
+{"name":"AdultIPTV.net Teen",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/teen.m3u8"},
+
+{"name":"AdultIPTV.net Hardcore",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/hardcore.m3u8"},
+
+{"name":"AdultIPTV.net Cuckold",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/cuckold.m3u8"},
+
+{"name":"AdultIPTV.net Threesome",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/threesome.m3u8"},
+
+{"name":"AdultIPTV.net Russian",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/russian.m3u8"},
+
+{"name":"AdultIPTV.net Lesbian",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/lesbian.m3u8"},
+
+{"name":"AdultIPTV.net Rough",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/rough.m3u8"},
+
+{"name":"AdultIPTV.net Gangbang",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/gangbang.m3u8"},
+
+{"name":"AdultIPTV.net Anal",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/anal.m3u8"},
+
+{"name":"AdultIPTV.net Compilation",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/compilation.m3u8"},
+
+{"name":"AdultIPTV.net Brunette",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/brunette.m3u8"},
+
+{"name":"AdultIPTV.net Blonde",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/blonde.m3u8"},
+
+{"name":"AdultIPTV.net Gay",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/gay.m3u8"},
+
+{"name":"AdultIPTV.net Asian",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/asian.m3u8"},
+
+{"name":"AdultIPTV.net Live Cams",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZ3BTZUJcoNM3IVTWeXBws_aBpOpKFrnVbQCFeEQmkZCPvCcl4S0nUmolXrYC2k40ut4&usqp=CAU","url": "http://cdn.adultiptv.net/livecams.m3u8"},
+
+{"name":"XXL TV",image:"https://domaineduprieure.fr/wp-content/uploads/2017/03/xxl-tv.jpeg","url": "http://ero-tv.org/xxl-tv-live/"},
+
+{"name":"Miami TV",image:"http://okteve.com/wp-content/uploads/media/1f397c13f176bf77fb8079b85563902b-520x293.jpeg","url": "https://miamitvhd.com/?channel="},
+
+{"name":"Miami TV México",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4FWcSMVm5_V84M3Uo-tvT1iisEQ1-rVvQOIhXSE1fA1UK9lQ3fRyU5jKz2fReG2LOcA&usqp=CAU","url": "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8"},
+
+{"name":"Miami TV Latino",image:"https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png","url": "https://miamitvhd.com/?channel=miamitv2"},
+
+{"name":"Jenny Live",image:"https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png","url": "https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"},
+
+{"name":"Visit-X TV",image:"https://pbs.twimg.com/profile_images/727414680801710080/suh81uar.jpg","url": "http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8"},
+
+{"name":"Weak",image:"https://www.pngitem.com/pimgs/m/110-1100190_file-under18-under-18-not-allowed-hd-png.png","url": "http://live-1.otcnet.ru/shelkhdmts/index.m3u8"},
+
+{"name":"OX-AX HD",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQ3gk-W-dl9-V-RPH-TFaJv1Eg6IbtRb3ENCiHdUXihMU0Qg-9IUMyUJV8_RtlT9LSY8&usqp=CAU","url": "http://oxax.tv/oh-ah.html"},
+
+{"name":"Brazzers TV Europe",image:"https://vpnpick.com/wp-content/uploads/2019/05/Unblock-Brazzers-TV.jpg","url": "http://oxax.tv/brazzers-tv-europe.html"},
+
+{"name":"XY Plus HD",image:"https://1.bp.blogspot.com/-a_cEapx6Kn8/XCmysO6lFsI/AAAAAAAAGUA/tYPpA4natrUSP9TzOcYEq9hntj6F6I1uQCLcBGAs/s1600/XYPlus.png","url": "http://oxax.tv/xy-plus-hd.html"},
+
+{"name":"XY Max HD",image:"https://tvonline.bg/wp-content/uploads/XY-Max-tv.png","url": "http://oxax.tv/xy-max-hd.html"},
+
+{"name":"XY Mix HD",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqBz7zcnA_-3Uzc5tyziaXHYHXRKQzCbiUsBVHlMoelOkDoWubhvc58JIwTwquwhhKBhw&usqp=CAU","url": "http://oxax.tv/xy-mix-hd.html"},
+
+{"name":"SL HOT HD1",image:"https://yt3.ggpht.com/ytc/AKedOLR8CSuliVmhPyo9nxofgZWCI9fZKrqL-PFki3b8=s900-c-k-c0x00ffffff-no-rj","url": "http://oxax.tv/superone-hd.html"},
+
+{"name":"SL HOT HD2",image:"https://yt3.ggpht.com/ytc/AKedOLR8CSuliVmhPyo9nxofgZWCI9fZKrqL-PFki3b8=s900-c-k-c0x00ffffff-no-rj","url": "http://oxax.tv/sl-hot2.html"},
+
+{"name":"KinoXXX",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7KHiV3wAZTd3fxOPdRhiwsaIV_Rseyhetw&usqp=CAU","url": "http://oxax.tv/kino-xxx.html"},
+
+{"name":"Vivid Red HD",image:"https://www.videosatservice.eu/wp-content/uploads/2017/01/VIVID-EUROPE-TOUCH-FINAL-1.png","url": "http://oxax.tv/vivid-red.html"},
+
+{"name":"Erox HD",image:"http://okporntv.com/wp-content/uploads/e8e83fc0ec61b284c54d5ac01a282145-321x211.jpeg","url": "http://oxax.tv/erox-hd.html"},
+
+{"name":"Penthouse Quickies",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdOI0kcO2OwMdiy_TaWnwO7b4VuYh7H4HNxObeZz7fQ5NOXNLfWmj6F9PpYdb5KkS8Fo&usqp=CAU","url": "http://oxax.tv/penthouse-2.html"},
+
+{"name":"Blue Hustler",image:"https://static.wikia.nocookie.net/tvfanon6528/images/8/80/Blue_Hustler_%282001-.n.v.%29.png/revision/latest?cb=20180312091828","url": "http://oxax.tv/blue-hustler.html"},
+
+{"name":"Barely legal",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtEzEFznJo6dHBs6xljoBEYDUOFvFS29f3nthDqB0qbNVUCBMxE2CaUgdtgaBQbut7Bc&usqp=CAU","url": "http://oxax.tv/barely-legal.html"},
+
+{"name":"Playboy TV",image:"https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png","url": "http://oxax.tv/playboy-tv.html"},
+
+{"name":"Eroxxx HD",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVg050bKmSjWZ5SARnx7qseE2UibjbnI3QAZC0BIKAI2Oiu6BewbQKFBRyjUIv54dvRVA&usqp=CAU","url": "http://oxax.tv/eroxxx-hd.html"},
+
+{"name":"Hustler HD",image:"https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png","url": "http://oxax.tv/hustler-hd.html"},
+
+{"name":"Babes TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNRbMyt8e8auGhD8bWHBrsGbQxLdaWbQe7H6cM5GNmmHtksLqxZyapdmncJt_f3moNdA&usqp=CAU","url": "http://oxax.tv/babes-tv.html"},
+
+{"name":"Penthouse Gold HD",image:"https://penthousegold.com/images/logo_phGold.png","url": "http://oxax.tv/penthouse-gold.html"},
+
+{"name":"Extasy HD",image:"https://new.strah.tv/uploads/posts/2019-02/medium/1549285137_extasy_big.png","url": "http://oxax.tv/extasyhd.html"},
+
+{"name":"Red Lips",image:"https://s.tmimgcdn.com/scr/1200x750/172200/red-lips-logo-template_172226-original.jpg","url": "http://oxax.tv/red-lips.html"},
+
+{"name":"Redlight HD",image:"https://adult-tv-channels.com/wp-content/uploads/2021/09/redlight-hd-logo.png","url": "http://oxax.tv/redlight-hd.html"},
+
+{"name":"Exxxotica HD",image:"https://www.lyngsat.com/logo/tv/ee/exxxotica-ru.png","url": "http://oxax.tv/hot-pleasure.html"},
+
+{"name":"Dorcel TV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/2560px-Dorcel_TV.svg.png","url": "http://oxax.tv/dorcel-tv.html"},
+
+{"name":"FAP TV 2",image:"https://i.pinimg.com/474x/60/99/76/609976515a6060808317d4652ac63a3e.jpg","url": "http://oxax.tv/fap-tv-2.html"},
+
+{"name":"FAP TV 3",image:"http://okteve.com/wp-content/uploads/media/1cfd26a1b4f7dfb8023ff3d4c7f36ec5-520x293.jpeg","url": "http://oxax.tv/fap-tv-3.html"},
+
+{"name":"FAP TV 4",image:"http://okteve.com/wp-content/uploads/media/cd1153aece771a6d5c6be0dcfe188245-520x293.jpeg","url": "http://oxax.tv/fap-tv-4.html"},
+
+{"name":"FAP TV Parody",image:"https://i.pinimg.com/236x/95/36/54/953654df639272bbce26ccaad434644a.jpg","url": "http://oxax.tv/fap-tv-parody.html"},
+
+{"name":"FAP TV Compilation",image:"http://okteve.com/wp-content/uploads/media/59eb09001a388f2d691a9b1c83c0f088-520x293.jpeg","url": "http://oxax.tv/fap-tv-compilation.html"},
+
+{"name":"FAP TV Anal",image:"http://okteve.com/wp-content/uploads/media/df180a1f2f441b6282ce427ecfc7ff3a-520x293.jpeg","url": "http://oxax.tv/fap-tv-anal.html"},
+
+{"name":"FAP TV Teens",image:"https://i.pinimg.com/236x/20/87/bb/2087bb0876b99a08fe7a122ab9c0ba6f.jpg","url": "http://oxax.tv/fap-tv-teens.html"},
+
+{"name":"FAP TV Lesbian",image:"http://okteve.com/wp-content/uploads/media/c449b41987c74cf9cc0dea2ab692b893-520x293.jpeg","url": "http://oxax.tv/fap-tv-lesbian.html"},
+
+{"name":"FAP TV BBW",image:"data:image/png;base64,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","url": "http://oxax.tv/fap-tv-bbw.html"},
+
+{"name":"FAP TV Trans",image:"https://adult-tv-channels.com/wp-content/uploads/2021/09/Fap-TV-logo.png","url": "http://oxax.tv/fap-tv-trans.html"},
+
+{"name":"FAP TV Gay",image:"https://i.pinimg.com/170x/7b/5f/f4/7b5ff433fd8d4042170d1c68a5dbe8a9.jpg","url": "http://oxax.tv/fap-tv-gey.html"},
+
+{"name":"BabeStation 24",image:"https://pbs.twimg.com/profile_images/769175859169206272/ugxmAzTp.jpg","url": "https://www.babestation24.com/"},
+
+{"name":"AST TV 1",image:"https://i.imgur.com/KmokZz8.jpg","url": "https://www.ast.tv/stream/1/ultra.m3u8"},
+
+{"name":"AST TV 2",image:"https://i.imgur.com/KmokZz8.jpg","url": "https://www.ast.tv/stream/2/ultra.m3u8"},
+
+{"name":"MyCamTV Teen Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/teen.m3u8"},
+
+{"name":"MyCamTV MILF",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/milf.m3u8"},
+
+{"name":"MyCamTV Young Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/young.m3u8"},
+
+{"name":"MyCamTV Mature",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/bigtits.m3u8"},
+
+{"name":"MyCamTV Arab Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/arab.m3u8"},
+
+{"name":"MyCamTV Ebony Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/ebony.m3u8"},
+
+{"name":"MyCamTV Asian Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/asian.m3u8"},
+
+{"name":"MyCamTV Brunette Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/brunette.m3u8"},
+
+{"name":"MyCamTV Latina Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/latina.m3u8"},
+
+{"name":"MyCamTV White Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/white.m3u8"},
+
+{"name":"MyCamTV Blonde Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/blonde.m3u8"},
+
+{"name":"MyCamTV Anal",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/anal.m3u8"},
+
+{"name":"MyCamTV Big Ass Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/bigass.m3u8"},
+
+{"name":"MyCamTV Girls Squirt",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/squirt.m3u8"},
+
+{"name":"MyCamTV Skinny Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/skinny.m3u8"},
+
+{"name":"MyCamTV Medium Girls",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/medium.m3u8"},
+
+{"name":"MyCamTV Blowjob",image:"https://yt3.ggpht.com/ytc/AKedOLRwth1M8d1lHfGBb2sNhLiSZyhpShIDHdgxUB1W=s900-c-k-c0x00ffffff-no-rj","url": "http://live.mycamtv.com/blowjob.m3u8"},
+
+{"name":"4K EVILANGEL CUM",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296695"},
+
+{"name":"4K EVILANGEL CUSTOMS",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296694"},
+
+{"name":"4K LIBERTY",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/297027"},
+
+{"name":"AMATEUR BOXXX",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/297029"},
+
+{"name":"ATK Galleria",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/291229"},
+
+{"name":"Adult Channel 1",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/290567"},
+
+{"name":"Adult Channel 2",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296955"},
+
+{"name":"Adult Channel 3",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296956"},
+
+{"name":"Adult Channel 4",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296948"},
+
+{"name":"Adult Channel 5",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296954"},
+
+{"name":"babes",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296234"},
+
+{"name":"BALKAN EROTIC",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3320"},
+
+{"name":"BANG U",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3330"},
+
+{"name":"BANG U +1",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296951"},
+
+{"name":"BARELY LEGAL",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/92037"},
+
+{"name":"BEATE UHSE",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3341"},
+
+{"name":"BRAZZERS",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/291234"},
+
+{"name":"BRAZZERS Europe",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/79"},
+
+{"name":"BRAZZERS Espanol",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/291241"},
+
+{"name":"BRAZZERS 2",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296072"},
+
+{"name":"BRAZZERS 3",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296073"},
+
+{"name":"Blue Hustler",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/37296"},
+
+{"name":"DORCEL TV",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3283"},
+
+{"name":"DUSK",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/75"},
+
+{"name":"Dream Porn",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3288"},
+
+{"name":"erotic",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/37153"},
+
+{"name":"erotic 2",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/76"},
+
+{"name":"erotic 3",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3317"},
+
+{"name":"erotic 4",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/52"},
+
+{"name":"erotic 5",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/35814"},
+
+{"name":"erotic 6",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/77"},
+
+{"name":"erotic 7",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3318"},
+
+{"name":"erotic 8",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3319"},
+
+{"name":"EROX",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3796"},
+
+{"name":"EROXXX",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/37276"},
+
+{"name":"EVIL ANGEL 2",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296962"},
+
+{"name":"EVIL ANGEL 4",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/295995"},
+
+{"name":"EVIL ANGEL 5",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/291237"},
+
+{"name":"EVIL ANGEL",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/146259"},
+
+{"name":"EXPO EROX",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296949"},
+
+{"name":"EXTASY +1",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/297093"},
+
+{"name":"EXTASY",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/195567"},
+
+{"name":"EXTREME",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3329"},
+
+{"name":"Exxxotica TV",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3345"},
+
+{"name":"Fantazzy TV",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296374"},
+
+{"name":"French Lover",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3334"},
+
+{"name":"HARDX",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296965"},
+
+{"name":"HOT GUYS FUCK",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296975"},
+
+{"name":"HOT Gold",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/291250"},
+
+{"name":"HOT XXL",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/15844"},
+
+{"name":"HUSTLER HD",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/6028"},
+
+{"name":"KINK",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296976"},
+
+{"name":"Lust Pur TV",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/290294"},
+
+{"name":"Luxure TV",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296950"},
+
+{"name":"mano job",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/297088"},
+
+{"name":"MILF TV",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3327"},
+
+{"name":"Meiden Van Holland",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3311"},
+
+{"name":"NET XX",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3324"},
+
+{"name":"O.La.La",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/36535"},
+
+{"name":"OX-AX",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296984"},
+
+{"name":"PENTHOUSE Gold",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/32056"},
+
+{"name":"PENTHOUSE Passion",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/172382"},
+
+{"name":"PENTHOUSE REALITY TV",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/296983"},
+
+{"name":"PINKO CLUB",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/3342"},
+
+{"name":"PLAYBOY Latino",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/290309"},
+
+{"name":"PLAYBOY",image:"https://aktifanonymous.files.wordpress.com/2021/01/disclaimer-fbi-adult-warning-01.gif?w=419","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/14222"},
     
-    
-{"name":"NHK WORLD JAPAN",image:"https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
-
-{"name":"NHK World Premium",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1280px-NHK_logo_2020.svg.png","url": "https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8"},
-
-{"name":"NHK-G",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"NHK-G OSAKA",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06"},
-
-{"name":"NHK-E",image:"https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"NHK BS",image:"https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"NHK BSP4K",image:"https://static.wikia.nocookie.net/logopedia/images/6/64/NHK_BS4K.svg/revision/latest/scale-to-width-down/250?cb=20231124144931","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Nippon TV",image:"https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"TBS",image:"https://pm1.narvii.com/6407/6e1e57d4050dbb922e177bf07f3ba9ef23ae497e_hq.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Fuji TV",image:"https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Fuji TV Next",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26"},
-
-{"name":"TV Asahi",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"TV Tokyo",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"ABC",image:"https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02"},
-
-{"name":"MBS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01"},
-
-{"name":"Kansai TV",image:"https://i1.wp.com/test-bucket-dfn.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/11/25110216/Kansai-TV-Logo-358x292-ORIGINAL.png?ssl=1","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03"},
-
-{"name":"TV Osaka",image:"https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05"},
-
-{"name":"YTV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/1200px-Yomiuri_Telecasting_Corporation_Logo.svg.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04"},
-
-{"name":"SUN TV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Suntv_logo.svg/440px-Suntv_logo.svg.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07"},
-
-{"name":"MONDO TV",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21"},
-
-{"name":"TABI Channel",image:"https://s3-ap-northeast-1.amazonaws.com/s3.tabichan.jp/extension/jictabichan/design/sp/images/common/logo.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12"},
-
-{"name":"BS Asahi",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7cyWxyUUfn8XAeTVL6iYTXSqKR2mXsdNU14e33svP9FRPPGCCKG4RZtP2SstET37aQo&usqp=CAU","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"BS Fuji TV",image:"https://i0.wp.com/www.audioworkshop.jp/wordpress/wp-content/uploads/2020/03/22-BS-FUJI-770x480.jpg?fit=770%2C480","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"BS Nippon TV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"BS TV Tokyo",image:"https://static.wikia.nocookie.net/logopedia/images/d/d8/BS_TV_Tokyo_logo.png/revision/latest?cb=20190207020731","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"BS-TBS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"BS 11",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/1200px-BS11_logo.svg.png","url": "http://for-testonly.ra1n.lol/bs11/index.m3u8"},
-
-{"name":"BS 12",image:"https://cms.with-casa.com/files/bgeditor/img/1/13__NjlfX1luTXhNZy1ELQ-D-.jpg","url": "http://for-testonly.ra1n.lol/bs12/index.m3u8"},
-
-{"name":"BS Shochiku Tokyu",image:"https://www.screens-lab.jp/wp-content/uploads/20220121/01fe60c1fc682a9bd51918d6f8ddbde5.jpg","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31"},
-
-{  
-name:"GEM",
-image:"https://www.gemtvasia.com/sites/gemtvasia.com/files/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg",
-url:"https://wacthstream.com/stream_live/244_GEM/playlist.m3u8",
-"referer": "https://wacth.tv/"
-},
-
-{"name":"Star 1",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Star 2",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Star 3",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"WOWOW Prime",image:"https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"WOWOW Cinema",image:"https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest?cb=20200215065013","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"WOWOW Live",image:"https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Movie Plus",image:"https://www.lyngsat.com/logo/tv/mm/movie_plus_jp.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Channel Neco",image:"https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Nippon Eiga Senmon Channel",image:"https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Jidaigeki Senmon Channel",image:"https://www.lyngsat.com/logo/tv/jj/jidaigeki.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Family Gekijo",image:"https://static.wikia.nocookie.net/drama/images/5/54/Family_gekijo.jpg/revision/latest/scale-to-width-down/400?cb=20190809211640&path-prefix=es","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Toei Channel",image:"https://www.lyngsat.com/logo/tv/tt/toei_channel.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Eisei Gekijo",image:"https://yt3.ggpht.com/ytc/AKedOLTWtgi3q9gvKvamzONVCLyAiDHGFMC9UO2Rhvzk=s900-c-k-c0x00ffffff-no-rj","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22"},
-
-{"name":"Gaki no Tsukai",image:"https://media.tenor.com/QQmxaa5pRpsAAAAC/shocked-gaki.gif","url": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8"},
-
-{"name":"Channel Ginga",image:"https://www.lyngsat.com/logo/tv/cc/channel_ginga.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Lala TV",image:"https://www.lala.tv/assets/images/common/ogp.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Home Drama Channel",image:"https://www.homedrama-ch.com/images/hdc_fb_logo.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Super! Drama TV",image:"http://www.superdramatv.com/assets/img/og_image.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"FOX Japan",image:"https://upload.wikimedia.org/wikipedia/en/5/5d/Fox_HD_wordmark_%28Asia%29.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Action Channel",image:"https://notices.jcom.co.jp/sites/default/files/notices/common/img/10338.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Discovery",image:"https://yt3.googleusercontent.com/ytc/AMLnZu-HfLSP2mJWFvepfcW_kff_-EgyIUdPAlFFkBhNJA=s900-c-k-c0x00ffffff-no-rj","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08"},
-
-{"name":"National Geographic Japan",image:"https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10"},
-
-{"name":"History",image:"https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/812.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09"},
-
-{"name":"Animal Planet",image:"https://prtimes.jp/i/27683/51/resize/d27683-51-325482-5.jpg","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24"},
-
-{"name":"MTV Japan",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/280px-MTV_2021_%28brand_version%29.svg.png","url": "http://jp.vthanhnetwork.com/MTV/index.m3u8"},
-
-{"name":"Music On! TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT11URHTnat0Zr16guKVxxVCq7kSDHVmd2LsJyqLfgDbG5gWRy_y8C4mTQGlo3bNm5_tk&usqp=CAU","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Music Japan",image:"https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_400x400.jpg","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06"},
-
-{"name":"SPACE SHOWER TV",image:"https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/650.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26"},
-
-{"name":"Kayo Pops",image:"https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Mnet",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Music_Makes_One_Mnet_Logo.png/799px-Music_Makes_One_Mnet_Logo.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"TAKARAZUKA SKY STAGE",image:"https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28"},
-
-{"name":"AT-X",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png","url": "https://neetball.net/live/neet3.m3u8"},
-
-{"name":"BS Animax",image:"https://i3.gamebiz.jp/media/14956665-536d-457c-ad23-900d816d9c86.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Disney Channel Japan",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24"},
-
-{"name":"Disney Junior Japan",image:"https://i.ytimg.com/vi/XRxfAW9VsCQ/maxresdefault.jpg","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23"},
-
-{"name":"Cartoon Network Japan",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLihUKjkRaVOuxu3NV2-YoxOLR2_NG3SLgYqPaimaF45uD90VhThB87xXmFK_4jpe34g&usqp=CAU","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25"},
-
-{"name":"Kids Station",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykVkJwIKWix3HlsmdWKmzjNnLb3A-ypFDZ8Zn-vN9f3lGnifZHXOA9EiEa-JkkUBsUl0&usqp=CAU","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Anime TV",image:"https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png","url": "https://stmv1.srvif.com/animetv/animetv/chunklist_w66921402.m3u8"},
-
-{"name":"J Sports 1",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"J Sports 2",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"J Sports 3",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"J Sports 4",image:"https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Nittere G+",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo.svg/1652px-Nittele_G%2B_logo.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Sky A",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg/500px-%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Gaora Sports",image:"https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Golf Network",image:"https://www.golfnetwork.co.jp/assets/img/og_img1.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Green Channel",image:"https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/iwumbyvpeslmassnufui","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14"},
-
-{"name":"BS Tsuri Vision",image:"https://www.broadmedia.co.jp/broadcast/fishing-tv/img/bro_01.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"Igo Shogi Channel",image:"https://www.igoshogi.net/common/images/og_image.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"CNN J",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/CNN_j_logo.svg/1200px-CNN_j_logo.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
-
-{"name":"BBC World News Japan",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15"},
-
-{"name":"Nippon TV News 24",image:"https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_n03.png","url": "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"},
-
-{"name":"TBS NEWS",image:"https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11"},
-
-{"name":"朝日新聞 NEWS",image:"https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ","url": "https://ythls-v2.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8"},
-
-{"name":"HBC 北海道NEWS",image:"https://i.imgur.com/vcGsZVD.png","url": "https://ythls-v2.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8"},
-
-{"name":"HTB北海道テレビ NEWS",image:"https://i.imgur.com/yqUItvM.png","url": "https://ythls-v2.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8"},
-
-{"name":"STV札幌テレビ放送 NEWS",image:"https://i.imgur.com/oyQ2FnC.jpg","url": "https://ythls-v2.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8"},
-
-{"name":"UHB北海道文化放送 NEWS",image:"https://i.imgur.com/G8lAJYc.png","url": "https://ythls-v2.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8"},
-
-{"name":"テレビ静岡 NEWS",image:"https://i.imgur.com/HxBu6ce.png","url": "https://ythls-v2.onrender.com/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8"},
-
-{"name":"SATV静岡朝日テレビ NEWS",image:"https://i.imgur.com/PxFcRh9.jpg","url": "https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8"},
-
-{"name":"NST新潟総合テレビ NEWS",image:"https://yt3.googleusercontent.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6KbdegwKO-9Q=s900-c-k-c0x00ffffff-no-rj","url": "https://ythls-v2.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8"},
-
-{"name":"メ〜テレ名古屋テレビ NEWS",image:"https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc","url": "https://ythls-v2.onrender.com/video/-C6FE2m7kX8.m3u8"},
-
-{"name":"MBS毎日放送 NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/140px-Mainichi_Broadcasting_System_logo.svg.png?20110904042013","url": "https://ythls-v2.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8"},
-
-{"name":"ABC朝日放送テレビ NEWS",image:"https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0","url": "https://ythls-v2.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8"},
-
-{"name":"RKB毎日放送 NEWS",image:"https://i.imgur.com/SHmYLML.jpg","url": "https://ythls-v2.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8"},
-
-{"name":"TOS News",image:"https://yt3.googleusercontent.com/aiB1WALywZi2Lx5MxF2pQRQm_HUHTj19Of-2HARuzCNmlMHi-2ejmyucJEwL9EmBFWjQMUdIZQ=s900-c-k-c0x00ffffff-no-rj","url": "https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8"},
-
-{"name":"Weathernews",image:"https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png","url": "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8"},
-
-{"name":"TOKYO MX 1",image:"https://s.mxtv.jp/images/yumelion_200x200.jpg","url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek="},
-
-{"name":"TOKYO MX 2",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAHhB3ldEkCyYlHcbXez55MT0SmZ5kL9W-w&usqp=CAU","url": "https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8"},
-
-{"name":"TV Shizuoka",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sut_logo.svg/1200px-Sut_logo.svg.png","url": "https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8"},
-
-{"name":"TVS",image:"https://www.teletama-app.jp/view/images/tvs.png","url": "http://for-testonly.ra1n.lol/teletama/index.m3u8"},
-
-{"name":"TUF",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png","url": "http://for-testonly.ra1n.lol/tuf/index.m3u8"},
-
-{"name":"CGNTV Japan",image:"https://pds.exblog.jp/pds/1/201606/12/12/c0193512_7112354.jpg","url": "https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8"},
-
-{"name":"Jupiter Shop Channel",image:"https://seeklogo.com/images/S/shop-channel-logo-B05C72F34A-seeklogo.com.png","url": "http://stream1.shopch.jp/HLS/out1/prog_index.m3u8"},
-
-{"name":"QVC Japan",image:"https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png","url": "http://cdn-live1.qvc.jp/iPhone/800/800.m3u8"},
-
-{"name":"GSTV",image:"https://photos.live-tv-channels.org/tv-logo/jp-gstv-7333.jpg","url": "https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest"},
-
-{"name":"Iwate Menkoi Television",image:"https://static.wikia.nocookie.net/logopedia/images/d/df/Mit_1991_logo.svg/revision/latest/scale-to-width-down/250?cb=20220802075621","url": "https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8"},
-
 ]
 }
