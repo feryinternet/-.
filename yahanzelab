@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VE-1" tvg-logo="http://ve.francomedia.net:8872/ve/stream1/logo.png" group-title="YAHANZEL",VE-Network 1 4K
+#EXTVLCOPT:http-referrer=http://ve.francomedia.net
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://ve.francomedia.net:8872/ve/stream1/index.m3u8|User-Agent=VLC%20media%20player

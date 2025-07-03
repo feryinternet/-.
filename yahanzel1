@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="VE-1" tvg-logo="http://ve.francomedia.net:8872/ve/stream1/logo.png" group-title="YAHANZEL",VE-Network 1 4K (HD)
-http://ve.francomedia.net:8872/ve/stream1/index.m3u8|User-Agent=VLC%20media%20player
