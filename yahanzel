@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" type="" group-title="VOD" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg", YAHANZEL FILM
-http://ve.francomedia.net:8872/ve/stream1/live1.m3u
+#EXTINF:-1 tvg-id="VE-1" tvg-logo="http://ve.francomedia.net:8872/ve/stream1/logo.png" group-title="YAHANZEL",VE-Network 1 4K (HD)
+http://ve.francomedia.net:8872/ve/stream1/index.m3u8
