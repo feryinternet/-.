@@ -4851,174 +4851,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 
-****************KIDS********
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png",
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",KIDS TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+<=============== Kids Channels =====================>
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",KIDS TV 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
-https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBseQKR6er6JiSIzo2Jyz7BVU.png" group-title="KIDS",MYKIDZ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="CHANNEL | KIDS",MENTARI TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBseQKR6er6JiSIzo2Jyz7BVU.png" group-title="KIDS",MYKIDZ 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
-https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/5de5d18c8d3bc029402d167a/1580885249914/" group-title="KIDS",ZOOMOO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/5de5d18c8d3bc029402d167a/1580885249914/" group-title="KIDS", ZOO MOO 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJju1XL61W5Y7CxcChPZtraXBb6iwP0qNkaDcX2AwXpxq4G6YLWO_W9uMC1JX64Lc5Y.png" group-title="KIDS",CBEEBIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJju1XL61W5Y7CxcChPZtraXBb6iwP0qNkaDcX2AwXpxq4G6YLWO_W9uMC1JX64Lc5Y.png" group-title="KIDS",CBEEBIES 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
-https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",BIZNET KIDS HD
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",BIZNET KIDS 1 HD
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/dftmwp8-8a21a25c-5d5b-4f2a-a12a-8b51584fed4e.png/v1/fill/w_1280,h_417/new_cartoonito_logo_by_abfan21_dftmwp8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDE3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZnRtd3A4LThhMjFhMjVjLTVkNWItNGYyYS1hMTJhLThiNTE1ODRmZWQ0ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RA8ZK18Zamsl3uyYcqwYJkT-H-ptwwY1_JdaFOeK7K4" group-title="KIDS",CARTOONITO
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10" group-title="KIDS",DREAMWORKS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10" group-title="KIDS",DREAMWORKS 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
-https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10" group-title="KIDS",DREAMWORKS IP
-#http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505829
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10" group-title="KIDS",DREAMWORKS IP 1
-https://mantul.biz.id:443/inetwork/gayanet12/224
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10" group-title="KIDS",DREAMWORKS INDI
-#http://indihome.ikitv.live/joss/133/dreamworks/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj_epL6OaN4pBtIOJ9ReXfrc.png" group-title="KIDS",NICKELODEON
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj_epL6OaN4pBtIOJ9ReXfrc.png" group-title="KIDS" tvg-id="Nickelodeon - [Channel 49].id", NICKELODEON 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
-https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id
- 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj6sz-iPAf7Uy54ObYgfmEok.png" group-title="KIDS",NICK JR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj6sz-iPAf7Uy54ObYgfmEok.png" group-title="KIDS" , NICK JR 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|Referer=https://www.visionplus.id
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Cinemachi-kids.png/revision/latest/scale-to-width-down/1200?cb=20250228035421" group-title="KIDS",CINEMACHI KIDS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajwjp5TybWi39hDq4Rs9XIAg.png" group-title="KIDS",CARTOON NETWORK TRV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajwjp5TybWi39hDq4Rs9XIAg.png" group-title="KIDS",CARTOON NETWORK INDI
-https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-https://cdn09jtedge.indihometv.com/dassdvr/194/cartoonnetwork/index.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajwjp5TybWi39hDq4Rs9XIAg.png" group-title="KIDS",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yotrLZ6QVtL0hSPKxu1Tkkl1R57bZclJrJA1MZlCXBJvg.png" group-title="KIDS",DISNEY JUNIOR IP
-http://iptv12k.com:35461/654321/123456/2092
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yotrLZ6QVtL0hSPKxu1Tkkl1R57bZclJrJA1MZlCXBJvg.png" group-title="KIDS",DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
-https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumstUULNajvRQABtQws-liP8eUO4Yy-6f-NSqREGE0l9-w.png" group-title="KIDS",DISNEY CHANNEL IP
-http://iptv12k.com:35461/654321/123456/2090
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumstUULNajvRQABtQws-liP8eUO4Yy-6f-NSqREGE0l9-w.png" group-title="KIDS",DISNEY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png" group-title="KIDS",HOREE!
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png/revision/latest?cb=20210117102858" group-title="KIDS",MENTARI TV V
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png/revision/latest?cb=20210117102858" group-title="KIDS",MENTARI TV INDI
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="CHANNEL | KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -5027,31 +4868,94 @@ https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZupuxt6FVWGqZ-47HIKi6LKSM8aWYag5UsAClHi3eSTQEk5q_C0se-xQ&s=10", HIP HIP HOREE!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="CHANNEL | KIDS",VTV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
+
+#EXTINF:-1 group-title="CHANNEL | KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440",Horee!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+
+#EXTINF:-1 group-title="CHANNEL | KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440",Horee!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=7052&type=hls
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="cartoon network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsCs3YkqZQQwSAi20mBlBO0Wc1IMJ3sbj_eIy_8JzcLl2KNIzrDSKpCBt3&s=10" group-title="KIDS",BABY TV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/4040
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="cartoon network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsCs3YkqZQQwSAi20mBlBO0Wc1IMJ3sbj_eIy_8JzcLl2KNIzrDSKpCBt3&s=10" group-title="KIDS",BABY TV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/64399
+#EXTINF:-1 group-title="CHANNEL | KIDS"  tvg-logo="https://i.ibb.co.com/L0gjZdq/funplanet.png",FUN PLANET
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdngb196.indihometv.com/atm/DASH/indikids/manifest.mpd
+#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-FunPlanet.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/Q6WFRc7/Boi-astro-ceria.jpg" group-title="KIDS", ASTRO CERIA
-http://opplex.tv:8080/mother/mother/388726
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34590
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/994/49994-SNAPSHOT-l.png" group-title="CHANNEL | KIDS",Kids TV V+
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yenxklEBP7HEKyxOfs0CiUfxdsJeMDcMgGq_sBqQ_s3nEA.png" group-title="KIDS",DUNIA ANAK
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/995/49995-SNAPSHOT-l.png" group-title="CHANNEL | KIDS",Cbeebies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+
+
+
+#EXTINF:-1 group-title="CHANNEL | KIDS" tvg-id="Animax.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/991/49991-SNAPSHOT-l.png",Animax
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
+#EXTINF:-1 group-title="CHANNEL | KIDS" tvg-id="Animax.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/991/49991-SNAPSHOT-l.png",Animax 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="CHANNEL | KIDS" tvg-id="Cartoon Network" , Cartoon Network
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
+
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/6NXNR4F/mykidz.png" group-title="CHANNEL | KIDS",MYKIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/6NXNR4F/mykidz.png" group-title="CHANNEL | KIDS",MYKIDS
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1  group-title="CHANNEL | KIDS" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.ibb.co.com/q0xKr36/aniplus.png", ANIPLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yenxklEBP7HEKyxOfs0CiUfxdsJeMDcMgGq_sBqQ_s3nEA.png" group-title="KIDS",DUNIA ANAK INDI
+#EXTINF:-1  group-title="CHANNEL | KIDS" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.ibb.co.com/q0xKr36/aniplus.png", ANIPLUS
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Aniplus.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_QZLBFbK9CpK24p82voEY5kBhAbjccrBuw&s" group-title="CHANNEL | KIDS",DUNIA ANAK INDI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-DuniaAnak.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -5061,74 +4965,101 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/697b28ad881037abe6fad5f3ea312564.png" group-title="KIDS",MOONBUG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
-https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="KIDS" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekzUKW8zMTWp6gqvPnfSXnv3N3qscaT0eR4Kdk4jNqDwQ.png",ANIMAX
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" group-title="CHANNEL | KIDS",MYKIDZ DENS
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzImUoWRrbED6TsCBuLt3IINBohuQX4d_HQ&s" group-title="CHANNEL | KIDS",ZOOMOO V+
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltEXMZMIQR4bLtcC9ESqtNzhoF-D4ud3ecg&s" group-title="CHANNEL | KIDS",BIZNET KIDS HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltEXMZMIQR4bLtcC9ESqtNzhoF-D4ud3ecg&s" group-title="CHANNEL | KIDS",BIZNET KIDS HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/character/images/0/0f/Cartoonito_Logo_2018-2022.webp/revision/latest?cb=20230106210114" group-title="CHANNEL | KIDS",CARTOONITO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
-#EXTINF:-1  group-title="KIDS" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yeke_vceChrJjIrBtIyF-AZH9Qdfwx7TfqgIs6hLcBKsGA.png", ANIPLUS
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Aniplus.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d108d4ed6d37f059df3c338a0cc92544.png" group-title="KIDS",VIVA TV
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTkCqWmuGhM885nbpI1CIiFbWmhCtkIpbxg&s" group-title="CHANNEL | KIDS",DREAMWORKS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
+https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="KIDS"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png",SPACETOON
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1  group-title="KIDS" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29AjyS6IFQdqIibPuCoXfcf93c.png",BOOMERANG TRV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTkCqWmuGhM885nbpI1CIiFbWmhCtkIpbxg&s" group-title="CHANNEL | KIDS",DREAMWORKS
 
-#EXTINF:-1  group-title="KIDS" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29AjyS6IFQdqIibPuCoXfcf93c.png",BOOMERANG INDI
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="CHANNEL | KIDS",NICKELODEON
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
+https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="CHANNEL | KIDS",NICK JR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
+https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1mgVMiosa7QfrmHsWAYSQxz-pjxiSh3sjQ&s" group-title="CHANNEL | KIDS",BUDDY STAR
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/2019_Disney_Junior_logo.png" group-title="CHANNEL | KIDS",DISNEY JUNIOR IP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
+https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZO60yGul_PBd8JqWhcE8vXczJqkbuVEhaMQSjn-I3WLbwsRv0j27bDU0fbIImFX6ZXA&usqp=CAU" group-title="CHANNEL | KIDS",DISNEY Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1Fyrupe1tmI0H9_8rrX4Y8KQUIeW8L3MxA&s" group-title="CHANNEL | KIDS",MOONBUG
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1Fyrupe1tmI0H9_8rrX4Y8KQUIeW8L3MxA&s" group-title="CHANNEL | KIDS",MOONBUG V+
+
+#EXTINF:-1 group-title="CHANNEL | KIDS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",SPACETOON ARAB
+#https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+
+#EXTINF:-1  group-title="CHANNEL | KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/600px-Boomerang_2014_logo.svg.png",BOOMERANG INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://encrypted-tbn0.gstatic.com/imaages?q=tbn:ANd9GcQpjNAghHhndJ-7xgFFiF5gOv5DvihjPoOdWjqJOCA1vQ&s" group-title="KIDS",INDI KIDS
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdngb196.indihometv.com/atm/DASH/indikids/manifest.mpd
-#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-FunPlanet.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="KIDS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2dc1634a0140bf76d3e0f76f1c1fa085.png",DA VINCI ASIA INDI
+#EXTINF:-1 group-title="CHANNEL | KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9z2PLWICAnC_6Z1lBsmtl_nyJ3l6D_m2n7A&s",DA VINCI ASIA INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Davinci.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/tsmRZVP/MIAOMI.jpg" group-title="KIDS", MIAOMI
-http://opplex.tv:8080/mother/mother/350991
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/4prY0Hw/Lego.jpg" group-title="KIDS",LEGO CHANNEL
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
-https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-https://i.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
-https://legochannel-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/vYZFv5d/Boi-pbs-kids.jpg" group-title="KIDS", PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8a
 
 #EXTM3U
 #EXTM3U billed-msg="FERY IPTV WA 085794973101"* Connection #0 to host google.com left intact
@@ -10748,7 +10679,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://iili.io/JmoBluj.png" group-title="CHANNEL | VISION+", Nick 🔵
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-logo="https://i.ibb.co.com/XX9gHq7/buddystr.png" group-title="KIDS", BUDDY STAR 🔵
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-logo="https://i.ibb.co.com/XX9gHq7/buddystr.png" group-title="CHANNEL | KIDS", BUDDY STAR 🔵
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11450,32 +11381,19 @@ https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Indonesia All-Stars vs Arema 8 Juli 2025 15:30 WIB 
+https://drive.google.com/uc?export=download&id=1gHID3FZ0rL_MwJJFVEwdJX13jfQ1sHa2&usp
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Persib vs Dewa United 8 Juli 2025 19:30 WIB 
+https://drive.google.com/uc?export=download&id=1gHID3FZ0rL_MwJJFVEwdJX13jfQ1sHa2&usp
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Piala Presiden 
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/jjdu60DGyvGluVQ6I2YShA/Fv2lucGIbhPi2caWYvF5Lg/1751825590835/live/caSD/chunklist.m3u8
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", LIGA BRI A
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://faiqtv.my.id/percobaanvidio/drm.php?id=19035&type=drm
-https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash 
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", LIGA BRI B
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://faiqtv.my.id/percobaanvidio/drm.php?id=19035&type=drm
-https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash 
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", LIGA BRI C
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://faiqtv.my.id/percobaanvidio/drm.php?id=19035&type=drm
-https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash 
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", LIGA BRI D
 #EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
