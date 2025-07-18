@@ -23814,44 +23814,60 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"  group-title="CHANNEL | AFF U23" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/ASEAN_mandiri_Cup_2025_Logo.svg/1200px-ASEAN_mandiri_Cup_2025_Logo.svg.png", AFF U-23 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/8nX2xSCb34YobOawVJRFKA/Fv2lucGIbhPi2caWYvF5Lg/1752859085980/live/may101/chunklist.m3u8
+
+#EXTINF:-1  group-title="CHANNEL | AFF U23" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/ASEAN_mandiri_Cup_2025_Logo.svg/1200px-ASEAN_mandiri_Cup_2025_Logo.svg.png", AFF U-23 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/Q1J4kiXW_XFhUlcw313w4A/Fv2lucGIbhPi2caWYvF5Lg/1752864037476/live/daSD/chunklist.m3u8
+
+#EXTINF:-1  group-title="CHANNEL | AFF U23" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/ASEAN_mandiri_Cup_2025_Logo.svg/1200px-ASEAN_mandiri_Cup_2025_Logo.svg.png", AFF U-23 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF:-1  group-title="CHANNEL | AFF U23" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/ASEAN_mandiri_Cup_2025_Logo.svg/1200px-ASEAN_mandiri_Cup_2025_Logo.svg.png", AFF U-23 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
+#EXTINF:-1  group-title="CHANNEL | AFF U23" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/ASEAN_mandiri_Cup_2025_Logo.svg/1200px-ASEAN_mandiri_Cup_2025_Logo.svg.png", AFF U-23 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1  group-title="CHANNEL | AFF U23" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/ASEAN_mandiri_Cup_2025_Logo.svg/1200px-ASEAN_mandiri_Cup_2025_Logo.svg.png", AFF U-23 BC1
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://twnx2-cf.boblcfwudz421.com/auth%3D3b64d75304dee73fbb4ce8ac97f80d32c949779d57a37a9794ebe4ae509937b1d71f7a8a519175d063b196dd84702e1f6c49649347cce15071920568316ecec0218e7c44dbc6db7d3a9a7978f20b14ed9ac03cc9dc1866acd17adc29ebbefef6d7c0506018836225464029aedafc67b5d7472b6153d7a86e489733e2a4ee6d1cc5f260af47fb6441e6379a634a21ef43ab9f71da98bc9a0de47f992917116c99bdb7096d245f29e5b29eac08363b7c68cc50d10daf0a287f04ba5e57690c2f5b%26cid%3DdGf1sye7mQXK_YiwgnoKM250718%26_v%3D2%26_r%3D-WJBpI%26_vis%3D470466d899992a984600fd569761a464aeb7839336ebe324c287e532374007fe%26_vvs%3Dddd9110fec73c0fd9394151d0598348859554c5f0757ae5f85914ebd2dc7c2c2/transcode/c360372_480p.m3u8
+
+#EXTINF:-1  group-title="CHANNEL | AFF U23" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/ASEAN_mandiri_Cup_2025_Logo.svg/1200px-ASEAN_mandiri_Cup_2025_Logo.svg.png", AFF U-23 BC2
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://fhlsport121.fjs40b8.xyz/token-cEYunuaRLPSG5TcvwPY6nT%2BBlMDUh3%2Fjb3f7laAbETKm4OPPHUFdD4gkqBFAWURJBCeIxjFjk%2Fo%3Da/cfall/s2001/v3b/04s00151nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_609550.m3u8
+
+
+
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
 #EXTM3U 
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Indonesia All-Stars vs Arema 8 Juli 2025 15:30 WIB 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://faiqtv.my.id/percobaanvidio/drm.php?id=19035&type=drm
-https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", MMA ufc 318 holloway vs poirier 3 2025-07-19 04:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1629450940
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", INDOSIAR live bola
-https://zhangqun1818.serv00.net/0425smt.php?id=Indosiar
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", INDOSIAR
-https://iptv543.com/smt.php?id=Indosiar
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", AFF U-23 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", AFF U-23 3
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/obCvYhEYWqYM_3ouVK-aHg/Fv2lucGIbhPi2caWYvF5Lg/1752681027769/live/may10/chunklist.m3u8
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", AFF U-23 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@lga775iptv
