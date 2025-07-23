@@ -23573,6 +23573,66 @@ https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 #EXTVLCOPT:http-reconnect=true
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298550
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", VOLLEYBALL NATIONS LEAGUE 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", VOLLEYBALL NATIONS LEAGUE 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/GTw4YpifNm0jTIwcTSEu4Q/Fv2lucGIbhPi2caWYvF5Lg/1753029646867/live/oldSD/chunklist.m3u8
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", VOLLEYBALL NATIONS LEAGUE 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/g21LsqgXjGYZ8fUx4q462g/Fv2lucGIbhPi2caWYvF5Lg/1753029423773/live/kienSD/chunklist.m3u8
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", VOLLEYBALL NATIONS LEAGUE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Badminton China Open 2025 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Badminton China Open 2025 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Badminton China Open 2025 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Badminton China Open 2025 4
+https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Badminton China Open 2025 5
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ", SELAMAT NONTON
 https://youtube.com/@lga775iptv
 "https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
