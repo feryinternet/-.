@@ -22974,9 +22974,12 @@ https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", MOJI AFF FHD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", MOJI AFF FHD
