@@ -22993,6 +22993,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWYnHW68kzWG96p0COPRl_21l9Csm4dRlyHxQqc4DAteQS8_Y6nO8jbzM&s=10" group-title="CHANNEL | MANCING MANIA MANTAP",Wired 2 Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="20240402T134311SQUARE" tvg-name="" group-title="CHANNEL | MANCING MANIA MANTAP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20240402T134311SQUARE.png",Italian Fishing TV
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images-tm.tempo.co/all/2023/11/04/845913/845913_1200.jpg" group-title="CHANNEL | MANCING MANIA MANTAP", FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://images-tm.tempo.co/all/2023/11/04/845913/845913_1200.jpg" group-title="CHANNEL | MANCING MANIA MANTAP", JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+
+
 
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
