@@ -290,38 +290,6 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TenSports.png" group-title="CHANNEL | MIX SPORTS", TenSports
 https://wahyu1ptv.pages.dev/TenSports-HD.m3u8
 
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="CHANNEL | MIX SPORTS",TNT SPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:0 tvg-id="TNT 2" tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="CHANNEL | MIX SPORTS",TNT SPORTS 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:0 tvg-id="TNT 3" tvg-logo="https://i.ibb.co.com/xCZT9xz/tntsports3.jpg" group-title="CHANNEL | MIX SPORTS",TNT SPORTS 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:0 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/mFZwwBN/tntsports4.jpg" group-title="CHANNEL | MIX SPORTS",TNT SPORTS 4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="CHANNEL | MIX SPORTS", DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
 
@@ -434,26 +402,6 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/325610
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="FUBO SPORTS 5" tvg-logo="https://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="CHANNEL | MIX SPORTS",FUBO SPORTS 5
 http://bestp55.xyz:80/A7FC77529786/519C32219872/325609
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Digi.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-1.png" group-title="CHANNEL | MIX SPORTS",Digi Sport 1
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAwL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Digi.Sport.2.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-2.png" group-title="CHANNEL | MIX SPORTS",Digi Sport 2
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAxL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Digi.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-3.png" group-title="CHANNEL | MIX SPORTS",Digi Sport 3
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAyL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-4.png" group-title="CHANNEL | MIX SPORTS",Digi Sport 4
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAzL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="CHANNEL | MIX SPORTS",RO: DIGI SPORT 1
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/3174
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://docdog.top/logo/countries/romania/digisport2.png" group-title="CHANNEL | MIX SPORTS",RO: DIGI SPORT 2
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/3175
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://docdog.top/logo/countries/romania/digisport3.png" group-title="CHANNEL | MIX SPORTS",RO: DIGI SPORT 3
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/3176
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://docdog.top/logo/countries/romania/digisport4.png" group-title="CHANNEL | MIX SPORTS",RO: DIGI SPORT 4
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/3177
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-usa.png" group-title="CHANNEL | MIX SPORTS",NBA TV
@@ -462,8 +410,6 @@ https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sky-sport-f1-it.png" group-title="CHANNEL | MIX SPORTS",Sky Sport F1 FHD
 https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNTc3L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="CHANNEL | MIX SPORTS",SkySportF1 HD
-https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Sky.Sport.Max.it" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sky-sport-football-it.png" group-title="CHANNEL | MIX SPORTS",Sky Sport Max
 https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNDYwL21vbm8ubTN1OA==.m3u8
@@ -471,8 +417,6 @@ https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sky-sport-motogp-it.png" group-title="CHANNEL | MIX SPORTS",Sky Sport MotoGP HD
 https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNTc1L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="CHANNEL | MIX SPORTS",SkySportMotoGP FHD
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sky-sport-tennis-it.png" group-title="CHANNEL | MIX SPORTS",Sky Sport Tennis
 https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NzYvbW9uby5tM3U4.m3u8
@@ -483,56 +427,7 @@ https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sky-sport-calcio-it.png" group-title="CHANNEL | MIX SPORTS",Sky Sport Calcio FHD
 https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NzAvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportCalcio.png" group-title="CHANNEL | MIX SPORTS",SkySportCalcio HD
-https://wahyu1ptv.pages.dev/SkySportCalcio-HD.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportFootball.png" group-title="CHANNEL | MIX SPORTS",SkySportsFootball
-https://wahyu1ptv.pages.dev/SkySportFootball-HD.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportBundesliga.png" group-title="CHANNEL | MIX SPORTS",SkySportBundesliga1
-https://wahyu1ptv.pages.dev/SkySportBundesliga1-HD.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportBundesliga2.png" group-title="CHANNEL | MIX SPORTS",SkySportBundesliga2
-https://wahyu1ptv.pages.dev/SkySportBundesliga2-HD.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportsLaliga.png" group-title="CHANNEL | MIX SPORTS",SkySportsLaliga
-https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/M%2BLaliga-picsay.png" group-title="CHANNEL | MIX SPORTS",M+Laliga
-https://wahyu1ptv.pages.dev/MLaliga-HD.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga1.png" group-title="CHANNEL | MIX SPORTS",DaznLaliga1
-https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga2.png" group-title="CHANNEL | MIX SPORTS",DaznLaliga2
-https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CbsSports.png" group-title="CHANNEL | MIX SPORTS",CBSSportsNetwork
-https://wahyu1ptv.pages.dev/CBSSportsNetwork-HD.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC1.png" group-title="CHANNEL | MIX SPORTS",SSC1
-https://wahyu1ptv.pages.dev/SSC1-HD.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC2.png" group-title="CHANNEL | MIX SPORTS",SSC2
-https://wahyu1ptv.pages.dev/SSC2-HD.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC3.png" group-title="CHANNEL | MIX SPORTS",SSC3
-https://wahyu1ptv.pages.dev/SSC3-HD.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC4.png" group-title="CHANNEL | MIX SPORTS",SSC4
-https://wahyu1ptv.pages.dev/SSC4-HD.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC5.png" group-title="CHANNEL | MIX SPORTS",SSC5
-https://wahyu1ptv.pages.dev/SSC5-HD.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSCEXTRA1.png" group-title="CHANNEL | MIX SPORTS",SSCEXTRA1
-https://wahyu1ptv.pages.dev/SSCExtra1-HD.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSCEXTRA2.png" group-title="CHANNEL | MIX SPORTS",SSCEXTRA2
-https://wahyu1ptv.pages.dev/SSCExtra2-HD.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSCEXTRA3.png" group-title="CHANNEL | MIX SPORTS",SSCEXTRA3
-https://wahyu1ptv.pages.dev/SSCExtra3-HD.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="CHANNEL | MIX SPORTS",ArenaPremium1
-https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="CHANNEL | MIX SPORTS",ArenaPremium2
-https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="CHANNEL | MIX SPORTS",ArenaPremium3
-https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="CHANNEL | MIX SPORTS" ,Prima Sport 1 
@@ -562,56 +457,7 @@ https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium
 https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Hub Premier 1 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112231
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Hub Premier 2 UHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112230
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Hub Premier 2 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112229
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Hub Premier 3 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112228
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Hub Premier 4 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112227
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Hub Premier 5 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112226
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Hub Premier 6 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112225
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Hub Premier 7 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112224
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now HK Now Sports 4K FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112209
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now HK Sports 4K 1 UHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112208
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now Sports 1 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112207
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now Sports 2 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112206
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now Sports 3 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112205
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now Sports 4 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112204
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now Sports 5 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112203
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now Sports 6 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112202
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now Sports 7 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112201
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now HK Premier Sports 1 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112200
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now HK Premier Sports 2 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112194
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now HK Premier Sports 3 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112199
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now HK Premier Sports 4 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112198
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now HK Premier Sports 5 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112197
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now HK Premier Sports 6 FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112196
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | MIX SPORTS" tvg-logo="",Now HK Sports Prime FHD 
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/112195
 
 //========================================================================
 //MAYTOKO2 CHANNEL | SPORTS"Bein Sports
@@ -1337,159 +1183,11 @@ http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/128996
 
 
 //========================================================================
-//MAYTOKO2 CHANNEL | SPORTS"DAZN SPORTS
-//========================================================================
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DAZN_1.png" group-title="CHANNEL | MIX SPORTS",DAZN 1
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/128980
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DAZN_1.png" group-title="CHANNEL | MIX SPORTS",DAZN 1 HD
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/128989
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DAZN_2.png" group-title="CHANNEL | MIX SPORTS",DAZN 2
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/128990
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DAZN_3.png" group-title="CHANNEL | MIX SPORTS",DAZN 3
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/128991
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DAZN_4.png" group-title="CHANNEL | MIX SPORTS",DAZN 4
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/128992
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DAZN_5.png" group-title="CHANNEL | MIX SPORTS",DAZN 5
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/128993
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 1 AR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466408
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 2 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 2 AR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466409
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 3 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 3 AR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466410
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 4 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 4 AR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466411
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 5 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 5 AR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466412
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 6 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 6 AR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466413
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1 AR BK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 1 AR BK
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466414
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 2 AR BK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 2 AR BK
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466415
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 3 AR BK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 3 AR BK
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466416
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 4 AR BK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 4 AR BK
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466417
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 5 AR BK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 5 AR BK
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466418
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 6 AR BK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 6 AR BK
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466419
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 1 EN
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466420
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 2 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 2 EN
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466421
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 3 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 3 EN
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466422
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 4 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 4 EN
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466423
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 5 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 5 EN
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466424
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 6 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 6 EN
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466425
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 1 ES
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466426
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 2 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 2 ES
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466427
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 3 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 3 ES
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466428
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 4 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 4 ES
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466429
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 5 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 5 ES
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466430
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 6 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 6 ES
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466431
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 1 FR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466432
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 2 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 2 FR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466433
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 3 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 3 FR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466434
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 4 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 4 FR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466435
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 5 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 5 FR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466436
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 6 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 6 FR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466437
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 1 GR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466438
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 2 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 2 GR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466439
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 3 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 3 GR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466440
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 4 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 4 GR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466441
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 5 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 5 GR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466442
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 6 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 6 GR
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466443
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 1 IT
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466444
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 2 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 2 IT
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466445
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 3 IT
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466446
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 4 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 4 IT
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466447
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 5 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 5 IT
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466448
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 6 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 6 IT
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466449
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN F1®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN F1®
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466450
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 1 JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 1 JP
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466451
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 2 JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 2 JP
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466452
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 3 JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 3 JP
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466453
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 4 JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 4 JP
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466454
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 5 JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 5 JP
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466455
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="DAZN 6 JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="CHANNEL | MIX SPORTS",DAZN 6 JP
-http://aromatv.co:80/Enjy3637/4JFEBAs359/466456
-
-
-
-//========================================================================
 //MAYTOKO2 CHANNEL | SPORTS"SKY SPORTS DAN RMC
 //========================================================================
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://docdog.top/logo/countries/uk/skysportsf1.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS F1
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1668
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="https://docdog.top/logo/countries/uk/skysportsgolf.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS GOLF
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1669
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS MIX" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmix.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS MIX
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1670
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://docdog.top/logo/countries/uk/skysportsfootball.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS FOOTBALL
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1671
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-premier-league-uk.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS PREMIER LEAGUE
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1672
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-cricket-uk.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS CRICKET
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1673
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS ARENA" tvg-logo="https://docdog.top/logo/countries/uk/skysportsarena.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS ARENA
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1674
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS ACTION" tvg-logo="https://docdog.top/logo/countries/uk/skysportsaction.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS ACTION
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1675
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS RACING" tvg-logo="https://docdog.top/logo/countries/uk/skysportsracing.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS RACING
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1676
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmainevent.png" group-title="CHANNEL | MIX SPORTS",SKY SPORTS MAIN EVENT
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1677
 
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="TF1" tvg-name="RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="CHANNEL | MIX SPORTS",RMC SPORT 1
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/388
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="RMC SPORT 2" tvg-name="RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="CHANNEL | MIX SPORTS",RMC SPORT 2
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/389
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="RMC SPORT 3" tvg-name="RMC SPORT 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png" group-title="CHANNEL | MIX SPORTS",RMC SPORT 3
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/390
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="TF1" tvg-name="RMC SPORT 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-4-fr.png" group-title="CHANNEL | MIX SPORTS",RMC SPORT 4
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/391
 
 
 
@@ -23021,6 +22719,67 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png"
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 19:30 WIB India vs Indonesia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18994
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18994
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 6 Agustus 2025 19:30 WIB India vs Indonesia AFC Women's Asian Cup 2026
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18994
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18994
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", ASEAN MISG Serenity Cup 2025 [6-19 Agustus 2025]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Sea V League Putri [1-10 Agustus 2025] 1
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/oKn6NxgYm89aw02D3ir9tA/Fv2lucGIbhPi2caWYvF5Lg/1753966171647/live/daoSD/chunklist.m3u8
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Sea V League Putri [1-10 Agustus 2025] 2
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/mcB4X8OWatSo0fETLpMbzA/Fv2lucGIbhPi2caWYvF5Lg/1754149280794/live/chimSD/chunklist.m3u8
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Sea V League Putri [1-10 Agustus 2025] 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Sea V League Putri [1-10 Agustus 2025] 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Sea V League Putri [1-10 Agustus 2025] 5
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
+
+##EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Sea V League Putri [1-10 Agustus 2025] 6
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
+
+
 #EXTINF:-1 group-title="IM SPORTS" tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3 - [Channel 99].id" tvg-logo="https://bmeidch.github.io/bemu/chlogo/sportstars3.gif",Sportstars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -23030,29 +22789,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", bri liga 1 sprotstar
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", AFF mandiri cup
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", AFF mandiri cup indo vs viet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", AFF mandiri cup U-23 3
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/Y9HKgIKQMyfZ2FH9f3A5HA/Fv2lucGIbhPi2caWYvF5Lg/1753046252760/live/thuSD/chunklist.m3u8
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", INDOSIAR FHD
-https://hakim45.serv00.net/smarttv.php?id=Indosiar
 
 
 
@@ -23065,13 +22801,6 @@ https://hakim45.serv00.net/smarttv.php?id=Indosiar
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", MOJI AFFVOLY B
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
-
-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", VOLLEYBALL NATIONS LEAGUE A
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -23079,15 +22808,6 @@ http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", VOLLEYBALL NATIONS LEAGUE B
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
-
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Badminton China Open 2025 1
