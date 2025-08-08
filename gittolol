@@ -22719,40 +22719,34 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png"
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 16:30 WIB Indonesia vs Myanmar 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 17:00 WIB Mexico vs Croatia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18994&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://seprai.jasoncreak8.workers.dev/play.mpd?id=18994&type=dash
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 19:30 WIB Philippines (w) vs Timor Leste (w) U23
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 19:00 WIB Tunisia vs Thailand
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 20:00 WIB Brazil vs Chile
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 19:00 WIB Japan vs Chile
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 17:00 WIB Egypt vs Czechia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 20:00 WIB Tunisia vs Bulgaria
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
 
 
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 19:00 WIB Indonesia vs Vietnam
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 20:00 WIB Indonesia vs Canada
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -22760,19 +22754,39 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 23:30 WIB Bayern Munchen vs Tottenham Hotspur
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 17:00 WIB Japan vs Thailand
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19347&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19347&type=dash
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 16:00 WIB Indonesia vs Thailand
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/pW45yzjedVABRqXt-8_Ehw/Fv2lucGIbhPi2caWYvF5Lg/1753637205292/live/Z2SD/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/Ux4IbF7nO5QhfANDUGN-rg/Fv2lucGIbhPi2caWYvF5Lg/1754664862319/live/may17/chunklist.m3u8
 
-<=================== EVENT 2 =============================>
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 02:00 WIB Rio Ave vs Al Nassr
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 15:30 WIB Borneo FC Samarinda vs Bhayangkara Presisi Lampung FC
+#EXTVLCOPT:http-origin=https://play.926003.tv
+#EXTVLCOPT:http-referrer=https://play.926003.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/gs71B72SMhLsknAw1mI5tA/Fv2lucGIbhPi2caWYvF5Lg/1752579190597/live/mySD/chunklist.m3u8
+https://pl10.chinefore.com/live/1f6b94c224cba1e3.m3u8?txSecret=464328741e4ceaf0bd21c8872e5dc4f5&txTime=6895B4D5
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 15:30 WIB Borneo FC Samarinda vs Bhayangkara Presisi Lampung FC
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://twnx3-cf.boblcfwudz421.com/auth%3De3ef768d5356edd4a59f5933f77ea5c740584d10d0e3204919e90130b6eea6b7fdbd2eb125d6ab88c20974da04c9941e550ec5271041c406318c30b5fb2deaa121bac164ace225163db848805d2c7474dd9bab35b21e122a10caf30e611ed7e2f9e6a6c0b827437ced09748e9827dbaee9bc6cb90eb2ac004e8323b2580f796e8c52c30354c464464f63272cff42e2e0b15825a7d64b2f6e0f719cb1c5befaa1e41af9f439b58f127fec210b3a5b0019ca3049eb421cfaf8aa30322a11db8a1b%26cid%3DV7s1axnAqZDPTAvIEYiZW250806%26_v%3D2%26_r%3DstZGQv%26_vis%3Dca24d7004864d2f132bf231e371eb9c3573714145eaf03a37b1b6ff3f9f39070%26_vvs%3D0b1ac2fedbcce7d389f76812cb56cfec0ebf3cfe4d8ca4654c96a37dca31ba33/transcode/c363500_480p.m3u8
 
 
 
@@ -22788,25 +22802,35 @@ https://hotlivezz179602324.akainu.xyz/gs71B72SMhLsknAw1mI5tA/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", bri liga 1 sprotstar
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 16:00 WIB Singapore (w) U20 vs Kyrgyzstan U20 (W) 
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/paS8MyrwK320r4gMQKl1cg/Fv2lucGIbhPi2caWYvF5Lg/1753478146483/live/mapSD/chunklist.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", afc woman
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 19:00 WIB Hong Kong U20 (w) vs Việt Nam U20 (w)
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/gs71B72SMhLsknAw1mI5tA/Fv2lucGIbhPi2caWYvF5Lg/1752579190597/live/mySD/chunklist.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", afc woman 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 01:00 WIB Chelsea vs Bayer Leverkusen
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/MuQF-kEj_D3LNss97T4OUg/Fv2lucGIbhPi2caWYvF5Lg/1754650862142/live/trauSD/chunklist.m3u8
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 01:30 WIB Newcastle United vs RCD Espanyol
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/Zinn54M0Y85B5M_Hk4gIgw/Fv2lucGIbhPi2caWYvF5Lg/1753814401563/live/may1SD/chunklist.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", Myanmar w vs Australia w
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=1c3a8c5097e8325ad79145483ba59dc5&wsABSTime=1754601229
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT ]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png", 01:30 WIB Newcastle United vs RCD Espanyol
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/5lz0C_9xbD88Rm6hCIolKQ/Fv2lucGIbhPi2caWYvF5Lg/1754298968222/live/xienSD/chunklist.m3u8
 
 
 
