@@ -16786,23 +16786,16 @@ https://starlord.web.id/tv_baru/vidio/master.mpd?id=6685&token=IKRB9Cm1jr6v0TLMp
 #https://spacetv.my.id/index.mpd?id=19268&type=dash|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19312&type=drm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://cdn1-production-images-kly.akamaized.net/iUfdC5Tnfw-WKuEP_N50ZPS5GgE=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5310067/original/059379200_1754653627-ATK_BOLA_HSN_BALI_Vol_8_Fight_Card.jpg", HSS Bali Sport Night
-#https://spacetv.my.id/index.mpd?id=19312&type=dash|User-Agent=VidioPlayer/6.31.6#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/GRgxIftzShG6s4BE2j9_T_CQLYw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488446/23e94a.jpg", Arema FC vs PSBS Biak - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19354&type=dash|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19355&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/Y1lXrpQZWsjz_5XyFSqRX7OPKXw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488592/f4c651.jpg", Jelang Kick Off - Arema FC vs PSBS Biak - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19355&type=dash|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/GRgxIftzShG6s4BE2j9_T_CQLYw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488446/23e94a.jpg" ch-number="1", Arema FC vs PSBS Biak - BRI Super League - BRI Liga 1 LIVE
+https://spacetv.my.id/index.mpd?id=19354&type=dash|User-Agent=VidioPlayer/6.31.6
 
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ", SELAMAT NONTON
 https://youtube.com/@lga775iptv
 "https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
+
 
 
 
