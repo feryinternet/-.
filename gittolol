@@ -1,3 +1,5 @@
+
+audio/x-mpegurl subscriber.m3u ( M3U playlist, UTF-8 Unicode text, with very long lines, with CRLF line terminators )
 #EXTM3U
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png"
@@ -4362,6 +4364,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="CHANNEL | LIGA BRI dan AFF" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png",INDOSIAR BRI LIGA 1 coy
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
+
+
 
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="CHANNEL | LIGA BRI dan AFF", LIGA BRI A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -16707,117 +16714,45 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png",INDOSIAR BRI LIGA 1
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/u6glcpKCFcMDE8ovSP-NEVFNjfU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488475/4bc981.jpg" ch-number="1", Serbia vs Canada - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19332&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/jVIhRkXfDwzWMeIE0TmBNRfLL9s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488471/c9e1c5.jpg" ch-number="2", Italy vs Turkey - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19331&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/56LI-kv8x1_HI7aF9D-JTuo9Zr4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488467/63d02a.jpg" ch-number="3", Mexico vs Korea - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19332&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/OCVHWN0MEhvNdenmdapy5YlBDZY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488472/e57125.jpg" ch-number="4", Egypt vs Algeria - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/O-M9He1cTpt7BW3qp6FiI-ILN9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488476/61a68a.jpg" ch-number="5", Puerto Rico vs Vietnam - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/vzKSevKPV2ErvmuqVqazEFDocNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488477/6e06eb.jpg" ch-number="6", Thailand vs Bulgaria - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19332&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/LJxgT-BdLo-cgDdF-88AdMNqVzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488473/899ed0.jpg" ch-number="7", Poland vs Czechia - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19331&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/KxaSh4jPHXJNFBv_ynTYnaflkeo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488469/898f00.jpg" ch-number="8", Dominican Republic vs Croatia - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19367&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/2ctZu3758rAtyeS3Zp8Cl959qoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492988/ad44aa.jpg" ch-number="9", Indonesia vs Tajikistan - Piala Kemerdekaan
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19367&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19331&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/ccjkAekoMkGeoD9lYKB3Oilno3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488470/90335c.jpg" ch-number="10", Brazil vs Japan - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/lgWC5G8Dg6hqWMgPu52IRkmw4J4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488478/c6bbf6.jpg" ch-number="11", Indonesia vs Argentina - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19332&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/aqZeljNRieBu4vrEfvoC_JZ30L4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488474/21788c.jpg" ch-number="12", Tunisia vs Chile - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17875&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/dUO7l-OuepnmsEfPBEinXPbPsxI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4479804/f2988c.jpg" ch-number="13", ATP 1000: Cincinnati Open 2025 - Day 6
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=17875&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17505&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/q051QgotHdsaEiJpcNilWxDr0gI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492902/bf65d2.jpg" ch-number="14", WTA 1000: Cincinnati Open 2025 - Day 4
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=17505&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6685&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/yI7-e7W5HB72jyfyKg3oCgv3v3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492758/06bde0.jpg" ch-number="15", Viktoria Plzen vs Rangers - UEFA Champions League Third Qualifying Round
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=6685&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f2d8d482bff4e52b77b805535e5b594:a88bd0d6a5b9f350a4d263cd524d6ac4
-#EXTINF:-1 tvg-name="Mewatch 7" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/250px-Mewatch_2023.svg.png",Mewatch 7
-#https://tglmp04.akamaized.net/out/v1/50094f781438411dbf1fb7d6a9a1477d/manifest.mpd
-
-#EXTINF:-1 tvg-name="Mewatch 7" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",Live Man UTD
-#http://cdn.apigateway.web.id:1999/stream/hub/tes/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e599a4fe53fc5f8491d14f138c63f5fc:74571eb98b6e1053af9b27e254e046c1
-#EXTINF:-1 tvg-name="Mewatch 7" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://cdn-icons-png.freepik.com/512/2765/2765058.png",SuperStar Knockout
-#https://spacetv.my.id/index.mpd?id=19268&type=dash|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19312&type=drm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://cdn1-production-images-kly.akamaized.net/iUfdC5Tnfw-WKuEP_N50ZPS5GgE=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5310067/original/059379200_1754653627-ATK_BOLA_HSN_BALI_Vol_8_Fight_Card.jpg" ch-number="5", HSS Bali Sport Night
-#https://spacetv.my.id/index.mpd?id=19312&type=dash|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="#.-1.[ LIVE EVENT Upcoming]" tvg-logo="https://thumbor.prod.vidiocdn.com/GRgxIftzShG6s4BE2j9_T_CQLYw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488446/23e94a.jpg" ch-number="1", Arema FC vs PSBS Biak - BRI Super League - BRI Liga 1 LIVE
-https://spacetv.my.id/index.mpd?id=19354&type=dash|User-Agent=VidioPlayer/6.31.6
-
-
-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ", SELAMAT NONTON
 https://youtube.com/@lga775iptv
 "https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
-
-
-
-
-
-
-
+# ===== Update 2025-08-12 17:06:02 =====
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/vzKSevKPV2ErvmuqVqazEFDocNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488477/6e06eb.jpg" ch-number="1", Thailand vs Bulgaria - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/KxaSh4jPHXJNFBv_ynTYnaflkeo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488469/898f00.jpg" ch-number="2", Dominican Republic vs Croatia - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/LJxgT-BdLo-cgDdF-88AdMNqVzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488473/899ed0.jpg" ch-number="3", Poland vs Czechia - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lgWC5G8Dg6hqWMgPu52IRkmw4J4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488478/c6bbf6.jpg" ch-number="4", Indonesia vs Argentina - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2ctZu3758rAtyeS3Zp8Cl959qoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492988/ad44aa.jpg" ch-number="5", Indonesia vs Tajikistan - Piala Kemerdekaan
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19367&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ccjkAekoMkGeoD9lYKB3Oilno3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488470/90335c.jpg" ch-number="6", Brazil vs Japan - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aqZeljNRieBu4vrEfvoC_JZ30L4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488474/21788c.jpg" ch-number="7", Tunisia vs Chile - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/q051QgotHdsaEiJpcNilWxDr0gI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492902/bf65d2.jpg" ch-number="8", WTA 1000: Cincinnati Open 2025 - Day 4
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=17505&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dUO7l-OuepnmsEfPBEinXPbPsxI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4479804/f2988c.jpg" ch-number="9", ATP 1000: Cincinnati Open 2025 - Day 6
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=17875&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yI7-e7W5HB72jyfyKg3oCgv3v3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492758/06bde0.jpg" ch-number="10", Viktoria Plzen vs Rangers - UEFA Champions League Third Qualifying Round
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=6685&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oUrtertiM6bwwwFNdzAOjiwLzow=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492762/51d7a4.jpg" ch-number="11", Club Brugge vs RB Salzburg - UEFA Champions League Third Qualifying Round
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19327&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tCqb_cp3raZNZx2Gul1BCzJaiNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4494864/e59d8d.jpg" ch-number="12", Oxford United vs Colchester - Carabao Cup
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19370&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jKApunUlJt1FQ9kn0n5WBxgQHF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4491807/035b7c.jpg" ch-number="13", WTA 1000: Cincinnati Open 2025 - Day 4
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/53eU5Fwdt-FMXbehUDeLW7w6JEo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4479805/2e8d90.jpg" ch-number="14", ATP 1000: Cincinnati Open 2025 - Day 7
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=17875&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S3S6TI9goDsKCDCUI3nfng8ZTv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492769/41883b.jpg" ch-number="15", WTA 1000: Cincinnati Open 2025 - Day 5
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 tvg-name="Mewatch 7" group-title="📁 Event LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/250px-Mewatch_2023.svg.png",Mewatch 7
+#https://tglmp04.akamaized.net/out/v1/50094f781438411dbf1fb7d6a9a1477d/manifest.mpd
+#EXTINF:-1 tvg-name="Mewatch 7" group-title="📁 Event LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",Live Man UTD
+#http://cdn.apigateway.web.id:1999/stream/hub/tes/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+#EXTINF:-1 tvg-name="Mewatch 7" group-title="📁 Event LIVE" tvg-logo="https://cdn-icons-png.freepik.com/512/2765/2765058.png",SuperStar Knockout
+#https://spacetv.my.id/index.mpd?id=19268&type=dash|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://cdn1-production-images-kly.akamaized.net/iUfdC5Tnfw-WKuEP_N50ZPS5GgE=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5310067/original/059379200_1754653627-ATK_BOLA_HSN_BALI_Vol_8_Fight_Card.jpg" ch-number="5", HSS Bali Sport Night
+#https://spacetv.my.id/index.mpd?id=19312&type=dash|User-Agent=VidioPlayer/6.31.6
