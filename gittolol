@@ -1,5 +1,3 @@
-
-audio/x-mpegurl subscriber.m3u ( M3U playlist, UTF-8 Unicode text, with very long lines, with CRLF line terminators )
 #EXTM3U
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png"
