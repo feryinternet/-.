@@ -6,355 +6,6 @@
 https://youtube.com/@lga775iptv
 
 
-#EXTINF:-1 tvg-name="Astro Premier League" group-logo="http://qtvid.pw/glogo/astro.png" group-title="📁zCHANNEL | Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 1
-http://stream1.amtv.my.id:1999/stream/hub/aspl1/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-name="Astro Premier League" group-logo="http://qtvid.pw/glogo/astro.png" group-title="📁zCHANNEL | Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 2
-http://stream1.amtv.my.id:1999/stream/hub/aspl2/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-name="Astro Premier League" group-logo="http://qtvid.pw/glogo/astro.png" group-title="📁zCHANNEL | Astro Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Astro_Premier_League_3.svg/revision/latest/scale-to-width-down/1200?cb=20241016164008",Astro Premier League 3
-#http://stream1.amtv.my.id:1999/stream/hub/aspl3/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
-#EXTINF:-1 tvg-name="Astro Premier League" group-logo="http://qtvid.pw/glogo/astro.png" group-title="📁zCHANNEL | Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Astro_Sports_UHD_1_%282024%29.png/960px-Astro_Sports_UHD_1_%282024%29.png",Astro Sports UHD
-http://stream1.amtv.my.id:1999/stream/hub/uhd/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 group-title="📁zCHANNEL | Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/43dbf582e2834008b6ced52440cf6edc/version/0/width/500/height/280",Astro Grandstand
-http://stream1.amtv.my.id:1999/stream/hub/astrograndstand/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 group-title="📁zCHANNEL | Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/ecb4eeb258334f80a99eadeffa6f5340/version/0/width/500/height/280",Astro Football
-http://stream1.amtv.my.id:1999/stream/hub/astrofootball/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="📁zCHANNEL | Astro Sports",Astro Arena Bola HD
-http://stream1.amtv.my.id:1999/stream/hub/arenabola/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/800px-Astro_Arena_Bola_2_%282024%29.png" group-title="📁zCHANNEL | Astro Sports",Astro Arena Bola 2 HD
-http://stream1.amtv.my.id:1999/stream/hub/arenabola2/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="📁zCHANNEL | Astro Sports",SPOTV 2
-http://stream1.amtv.my.id:1999/stream/hub/spotv2/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/810b87e829e94c0fa9fc0c6b5155b39d/version/0/width/500/height/280" group-title="📁zCHANNEL | Astro Sports",Astro Sport Plus
-http://stream1.amtv.my.id:1999/stream/hub/asstrosportplus/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-name "Astro Badminton" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6f26f4541ae64829b291c723a41ad6ee/version/0/width/500/height/280" group-title="📁zCHANNEL | Astro Sports",Astro Badminton 1
-http://stream1.amtv.my.id:1999/stream/hub/astrobadminton/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-name "Astro Badminton" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6f26f4541ae64829b291c723a41ad6ee/version/0/width/500/height/280" group-title="📁zCHANNEL | Astro Sports",Astro Badminton 2
-#http://stream1.amtv.my.id:1999/stream/hub/astrobadminton2/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
-#EXTINF:-1 tvg-name="Astro Arena HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="📁zCHANNEL | Astro Sports",Astro Arena
-http://stream1.amtv.my.id:1999/stream/hub/astroarena/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-name="Astro Arena 2 HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png" group-title="📁zCHANNEL | Astro Sports",Astro Arena 2
-http://stream1.amtv.my.id:1999/stream/hub/astroarena2/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-name "Astro Cricket" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/c7372a9e1fa84734b8dce345fa0b3f84/version/0/width/500/height/280" group-title="📁zCHANNEL | Astro Sports",Astro Cricket
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#http://content.qtv.my.id:1234/stream/astro/astrocricket/master.m3u8?u=qtvid&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
-#EXTINF:-1 tvg-logo="http://www.spotv.net/images/intro/intro_logo.png" group-title="📁zCHANNEL | Astro Sports",SPOTV
-http://stream1.amtv.my.id:1999/stream/hub/spotv/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
-#EXTINF:-1 tvg-id="beINSportsHD" tvg-name="beIN Sports HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁zCHANNEL | Astro Sports",beIN Sports 1 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁zCHANNEL | Astro Sports",beIN Sports 2 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
-#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁zCHANNEL | Astro Sports",beIN Sports 3
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/YXGaqbBcWaGuuharMuSqU5g91_s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-088191.jpg" ch-number="1",Champions TV 5
-https://starlord.web.id/pidio/master.mpd?id=9182&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9183&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/By38AnRK-9FEAVaWm3VTSDbjedA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-1fb2ff.jpg" ch-number="2",Champions TV 6
-https://starlord.web.id/pidio/master.mpd?id=9183&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9353&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" ch-number="3",Premier League TV
-https://starlord.web.id/pidio/master.mpd?id=9353&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6685&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" ch-number="4",Champions TV 1
-https://starlord.web.id/pidio/master.mpd?id=6685&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6686&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/6cpTxOAd9oaP5yOaKInfkE7mybc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg" ch-number="5",Champions TV 2
-https://starlord.web.id/pidio/master.mpd?id=6686&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6786&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" ch-number="6",Champions TV 3
-https://starlord.web.id/pidio/master.mpd?id=6786&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=17139&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/1cUTXlCSzstGfFXuRkOqCajuaV8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg" ch-number="7",SPOTV
-https://starlord.web.id/pidio/master.mpd?id=17139&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=17140&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" ch-number="8",SPOTV 2
-https://starlord.web.id/pidio/master.mpd?id=17140&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/dBMf_WAWW0JVeB5hVsaXQbYSxv4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" ch-number="9",Bein 1
-https://starlord.web.id/pidio/master.mpd?id=6299&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=17875&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/ISNhueISzA_MA5mdtCYkQxVYE3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg" ch-number="10",Bein 2
-https://starlord.web.id/pidio/master.mpd?id=17875&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6317&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/57EvfUwIGo03MdOsFiN6ff6Jczw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg" ch-number="11",Bein 3
-https://starlord.web.id/pidio/master.mpd?id=6317&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6717&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/g4QRpSrB8bwZRxKeiZbOwowYoWA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-8dbf5a.jpg" ch-number="12",NBA TV
-https://starlord.web.id/pidio/master.mpd?id=6717&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=18189&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/k-XDZv0GC0thY6AoQKHNSJewh9s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg" ch-number="13",Champions Golf 1
-https://starlord.web.id/pidio/master.mpd?id=18189&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=18190&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/w4WsztctnAXWF36OBxRmc5lt87E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg" ch-number="14",Champions Golf 2
-https://starlord.web.id/pidio/master.mpd?id=18190&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6685&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/uefa.png" group-title="📁zCHANNEL | Liga Champions" tvg-logo="https://thumbor.prod.vidiocdn.com/yI7-e7W5HB72jyfyKg3oCgv3v3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492758/06bde0.jpg" ch-number="1", Viktoria Plzen vs Rangers - UEFA Champions League Third Qualifying Round
-<br />
-<b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/ucl.php</b> on line <b>86</b><br />
-https://starlord.web.id/pidio/master.mpd?id=6685&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=19327&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/uefa.png" group-title="📁zCHANNEL | Liga Champions" tvg-logo="https://thumbor.prod.vidiocdn.com/oUrtertiM6bwwwFNdzAOjiwLzow=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492762/51d7a4.jpg" ch-number="2", Club Brugge vs RB Salzburg - UEFA Champions League Third Qualifying Round
-<br />
-<b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/ucl.php</b> on line <b>86</b><br />
-https://starlord.web.id/pidio/master.mpd?id=19327&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/uefa.png" group-title="📁zCHANNEL | Liga Champions" tvg-logo="https://thumbor.prod.vidiocdn.com/y1WPs9PVVtrEsv9F-xcx0zOlD1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492821/2c86de.jpg" ch-number="3", PSG vs Tottenham - UEFA Super Cup
-<br />
-<b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/ucl.php</b> on line <b>86</b><br />
-https://starlord.web.id/pidio/master.mpd?id=6299&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="📁 Timnas Women",Sportstars 2
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="📁zCHANNEL | Sports Lokal",Sportstars
-https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-l.png" ch-number="113", Sportstars 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://qtvid.pw/kvdrm.php?id=114&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="📁zCHANNEL | Sports Lokal",Sportstars 3
-http://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|User-Agent=mozilla/89 ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTINF:-1 tvg-id="1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="📁zCHANNEL | Sports Lokal",Sportstars 4
-http://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-l.png" ch-number="115", Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=115&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-l.png" ch-number="119", SpoTV 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=119&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-l.png" ch-number="120", SpoTV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=120&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" ch-number="122", beIN SPORTS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=122&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=122&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-l.png" ch-number="123", beIN SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=123&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=123&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" ch-number="124", beIN SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=124&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=124&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-l.png" ch-number="125", beIN SPORTS 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=125&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=125&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-l.png" ch-number="126", beIN SPORTS 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=126&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=126&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁zCHANNEL | Liga Champions",beIN Sports 2 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
-#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁zCHANNEL | Liga Champions",beIN Sports 3 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
-#EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sports 4" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁zCHANNEL | Liga Champions",beIN Sports 4 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
-#EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sports 5" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁zCHANNEL | Liga Champions",beIN Sports 5 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="SONY TEN 1" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="📁zCHANNEL | Liga Champions",SONY TEN 1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-id="SonyTen2.in" tvg-name="SONY TEN 2" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="📁zCHANNEL | Liga Champions",SONY TEN 2
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-id="SonyTen3.in" tvg-name="SONY TEN 3" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="📁zCHANNEL | Liga Champions",SONY TEN 3
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-id="SonyTen4.in" tvg-name="SONY TEN 4" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="📁zCHANNEL | Liga Champions",SONY TEN 4
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#EXTINF:-1 tvg-id="SonyTen5.in" tvg-name="SONY TEN 5" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="📁zCHANNEL | Liga Champions",SONY TEN 5
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Liga Champions" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" ch-number="122", beIN SPORTS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=122&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=122&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Liga Champions" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-l.png" ch-number="123", beIN SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=123&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=123&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Liga Champions" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" ch-number="124", beIN SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=124&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=124&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Liga Champions" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-l.png" ch-number="125", beIN SPORTS 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=125&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=125&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📁zCHANNEL | Liga Champions" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-l.png" ch-number="126", beIN SPORTS 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=126&type=drm&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://terabit.web.id/media.mpd?id=126&type=dash&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
@@ -14509,44 +14160,78 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="📁z#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ", SELAMAT NONTON
 https://youtube.com/@lga775iptv
 "https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
-# ===== Update 2025-08-12 17:06:02 =====
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/vzKSevKPV2ErvmuqVqazEFDocNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488477/6e06eb.jpg" ch-number="1", Thailand vs Bulgaria - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/KxaSh4jPHXJNFBv_ynTYnaflkeo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488469/898f00.jpg" ch-number="2", Dominican Republic vs Croatia - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/LJxgT-BdLo-cgDdF-88AdMNqVzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488473/899ed0.jpg" ch-number="3", Poland vs Czechia - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lgWC5G8Dg6hqWMgPu52IRkmw4J4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488478/c6bbf6.jpg" ch-number="4", Indonesia vs Argentina - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2ctZu3758rAtyeS3Zp8Cl959qoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492988/ad44aa.jpg" ch-number="5", Indonesia vs Tajikistan - Piala Kemerdekaan
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19367&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ccjkAekoMkGeoD9lYKB3Oilno3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488470/90335c.jpg" ch-number="6", Brazil vs Japan - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aqZeljNRieBu4vrEfvoC_JZ30L4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4488474/21788c.jpg" ch-number="7", Tunisia vs Chile - FIVB Women's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/q051QgotHdsaEiJpcNilWxDr0gI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492902/bf65d2.jpg" ch-number="8", WTA 1000: Cincinnati Open 2025 - Day 4
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=17505&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dUO7l-OuepnmsEfPBEinXPbPsxI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4479804/f2988c.jpg" ch-number="9", ATP 1000: Cincinnati Open 2025 - Day 6
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=17875&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yI7-e7W5HB72jyfyKg3oCgv3v3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492758/06bde0.jpg" ch-number="10", Viktoria Plzen vs Rangers - UEFA Champions League Third Qualifying Round
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=6685&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oUrtertiM6bwwwFNdzAOjiwLzow=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492762/51d7a4.jpg" ch-number="11", Club Brugge vs RB Salzburg - UEFA Champions League Third Qualifying Round
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19327&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tCqb_cp3raZNZx2Gul1BCzJaiNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4494864/e59d8d.jpg" ch-number="12", Oxford United vs Colchester - Carabao Cup
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19370&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jKApunUlJt1FQ9kn0n5WBxgQHF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4491807/035b7c.jpg" ch-number="13", WTA 1000: Cincinnati Open 2025 - Day 4
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/53eU5Fwdt-FMXbehUDeLW7w6JEo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4479805/2e8d90.jpg" ch-number="14", ATP 1000: Cincinnati Open 2025 - Day 7
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=17875&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S3S6TI9goDsKCDCUI3nfng8ZTv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492769/41883b.jpg" ch-number="15", WTA 1000: Cincinnati Open 2025 - Day 5
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=FDhFmSY1efGWjjdhBKrLvaG4gOcQXbH1|User-Agent=VidioPlayer/6.31.6
+# ===== Update 2025-08-13 17:00:05 =====
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/QFYpiMzx38yn0owZs-WNnT7It2E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496792/006539.jpg" ch-number="1", Serbia vs Turkey - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19331&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/NiHwRypcRUzQ3TfA6TyR-cvW4uY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496738/ad4817.jpg" ch-number="2", Dominican Republic vs Tunisia - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19332&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/BcuHsE69zvsi29Zy8LpvPclYATU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496739/3ba95a.jpg" ch-number="3", United States vs Bulgaria - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mim4b3gp1-cWhhZ0LwiOYc80n3w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496797/fef7e6.jpg" ch-number="4", Italy vs Indonesia - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19331&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/M9Mj3j0IHNQImbMSz9rs_5SO1wM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496795/a37e77.jpg" ch-number="5", Chile vs Mexico - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19332&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WpKfuIjh-gs3iNSakiuj8T0q4Uw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496793/c40e13.jpg" ch-number="6", Japan vs Croatia - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VgE5ukmBTiBvaDFxaQ6dpMdU3-c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496798/1403dd.jpg" ch-number="7", Poland vs Puerto Rico - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6786&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S3S6TI9goDsKCDCUI3nfng8ZTv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492769/41883b.jpg" ch-number="8", WTA 1000: Cincinnati Open 2025 - Day 5
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17875&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/53eU5Fwdt-FMXbehUDeLW7w6JEo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4479805/2e8d90.jpg" ch-number="9", ATP 1000: Cincinnati Open 2025 - Day 7
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=17875&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19371&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O5lURC5WXQcWYqWy1ALGWzUWIvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4495121/762d06.jpg" ch-number="10", Birmingham vs Sheffield United - Carabao Cup
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19371&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6299&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/y1WPs9PVVtrEsv9F-xcx0zOlD1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492821/2c86de.jpg" ch-number="11", PSG vs Tottenham - UEFA Super Cup
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=6299&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6786&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CIZzEk2W1CTprZ8w4zF9fRstPqI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492770/29fd3b.jpg" ch-number="12", WTA 1000: Cincinnati Open 2025 - Day 5
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6786&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QvZEwUefUJLi4_NHJ5fTrd4w9JU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492771/30156d.jpg" ch-number="13", WTA 1000: Cincinnati Open 2025 - Day 6
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=18189&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rkYyxmjmdNdImZdQgLZkBbd2laU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496741/e61a49.jpg" ch-number="14", BMW Championship - Round 1
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=18189&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17875&type=drm&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_ojJ9mFsJ9iZf4DkpkVAVy8LjJk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4479806/598d73.jpg" ch-number="15", ATP 1000: Cincinnati Open 2025 - Quarter Final
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=17875&token=HR67OIqC7PNFM8HlZcEIi9Riz0ghZCpL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f2d8d482bff4e52b77b805535e5b594:a88bd0d6a5b9f350a4d263cd524d6ac4
 #EXTINF:-1 tvg-name="Mewatch 7" group-title="📁 Event LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/250px-Mewatch_2023.svg.png",Mewatch 7
 #https://tglmp04.akamaized.net/out/v1/50094f781438411dbf1fb7d6a9a1477d/manifest.mpd
 #EXTINF:-1 tvg-name="Mewatch 7" group-title="📁 Event LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",Live Man UTD
 #http://cdn.apigateway.web.id:1999/stream/hub/tes/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e599a4fe53fc5f8491d14f138c63f5fc:74571eb98b6e1053af9b27e254e046c1
 #EXTINF:-1 tvg-name="Mewatch 7" group-title="📁 Event LIVE" tvg-logo="https://cdn-icons-png.freepik.com/512/2765/2765058.png",SuperStar Knockout
 #https://spacetv.my.id/index.mpd?id=19268&type=dash|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19312&type=drm
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://cdn1-production-images-kly.akamaized.net/iUfdC5Tnfw-WKuEP_N50ZPS5GgE=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5310067/original/059379200_1754653627-ATK_BOLA_HSN_BALI_Vol_8_Fight_Card.jpg" ch-number="5", HSS Bali Sport Night
 #https://spacetv.my.id/index.mpd?id=19312&type=dash|User-Agent=VidioPlayer/6.31.6
-
-
