@@ -14010,62 +14010,42 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="📁z#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ", SELAMAT NONTON
 https://youtube.com/@lga775iptv
 "https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
-# ===== Update 2025-08-16 02:00:05 =====
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6786&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/6fVJAzmWQSgrYPOqIWCUSi2P--Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492773/c3117f.jpg" ch-number="1", WTA 1000: Cincinnati Open 2025 - Quarter Final
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/q34I5NGqZjhML9UA9Akmmxy4izI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499122/43b98e.jpg" ch-number="2", Girona vs Rayo Vallecano - LaLiga
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=18189&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/DFQpdxN_CHoyzmu1wCakZBes1eI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496742/4b38be.jpg" ch-number="3", BMW Championship - Round 2
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=18189&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=9182&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/jTSc9azFxveYdrYn8SSxk7z7k38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496794/f42084.jpg" ch-number="4", Liverpool vs Bournemouth - Premier League
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=9182&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17875&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AHznmWG5Ybedzgnu7TC9QWmXWkU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4479809/58f7ea.jpg" ch-number="5", ATP 1000: Cincinnati Open 2025 - Quarter Final
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=17875&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k09_UZCKAXSbng_1RD847PgZOP0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499130/aa4b49.jpg" ch-number="6", Villarreal vs Oviedo - LaLiga
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6786&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AIgg4_h_JrvFfHhHk_n3_yL7Sfw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492774/f992b3.jpg" ch-number="7", WTA 1000: Cincinnati Open 2025 - Quarter Final
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=18190&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zrdD6pmlbPtusIlG0Q0ZXS7VUTU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499159/cc8970.jpg" ch-number="8", The Standard Portland Classic - Round 3
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=18190&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17875&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2HtOwCWgtnRVzpmC3_crU6CusQs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4479808/fda3a8.jpg" ch-number="9", ATP 1000: Cincinnati Open 2025 - Quarter Final
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=17875&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=6786&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FPeIfzF82b7J0vnWq8fPmpAXof4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492775/400a24.jpg" ch-number="10", WTA 1000: Cincinnati Open 2025 - Quarter Final
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=6786&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
+# ===== Update 2025-08-16 13:52:27 =====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=18832&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nSYbSGPqhKqHjkaGCl2mGRYTzDE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4494860/0915de.jpg" ch-number="11", Sirkuit Nasional Bulutangkis 2025 - Yogyakarta: Final
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=18832&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/nSYbSGPqhKqHjkaGCl2mGRYTzDE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4494860/0915de.jpg" ch-number="1", Sirkuit Nasional Bulutangkis 2025 - Yogyakarta: Final
+http://starlord.web.id/tv_baru/vidio/index.m3u8?id=18832&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/9r0Eir-P1bQ_QMKzrhj6pgSQ5L0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4503744/f4bf5a.jpg" ch-number="2", Semifinal: Brazil vs Italy - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19332&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/racFIrlVAokHN1AH2Rf9Qmmyd98=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4503749/7ba3a5.jpg" ch-number="3", Tunisia vs Egypt - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19331&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/0cEcy0483PVx7oZBAr8Bk_2JJ-Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4503753/63895c.jpg" ch-number="4", Czechia vs Thailand - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17140&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Z-UGDfe2FER091uRXIYP5F72dI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496714/7f183b.jpg" ch-number="12", Moto3 Free Practice 2: MotoGP 2025 Round 13 - Grand Prix of Austria
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/Z-UGDfe2FER091uRXIYP5F72dI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496714/7f183b.jpg" ch-number="5", Moto3 Free Practice 2: MotoGP 2025 Round 13 - Grand Prix of Austria
 https://starlord.web.id/tv_baru/vidio/master.mpd?id=17140&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17140&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IlcdHXrO-I2-UwXVo5Yk9WcVHLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496715/e80830.jpg" ch-number="13", Moto2 Free Practice 2: MotoGP 2025 Round 13 - Grand Prix of Austria
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IlcdHXrO-I2-UwXVo5Yk9WcVHLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496715/e80830.jpg" ch-number="6", Moto2 Free Practice 2: MotoGP 2025 Round 13 - Grand Prix of Austria
 https://starlord.web.id/tv_baru/vidio/master.mpd?id=17140&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17140&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QIJkluool_vvSFGJsinqEYJlUIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496716/7348ae.jpg" ch-number="14", MotoGP Free Practice 2: MotoGP 2025 Round 13 - Grand Prix of Austria
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QIJkluool_vvSFGJsinqEYJlUIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496716/7348ae.jpg" ch-number="8", MotoGP Free Practice 2: MotoGP 2025 Round 13 - Grand Prix of Austria
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=17140&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1GStJRgYUsvb4tmHCuGtsCfocTs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4503746/00643d.jpg" ch-number="14", Semifinal: Bulgaria vs Japan - FIVB Women's U21 World Championship
+https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=17140&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fMWzS3zwuB-6nlnnIIxjyzxXdDY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496717/4f1828.jpg" ch-number="15", MotoGP Qualifying: MotoGP 2025 Round 13 - Grand Prix of Austria
 https://starlord.web.id/tv_baru/vidio/master.mpd?id=17140&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f2d8d482bff4e52b77b805535e5b594:a88bd0d6a5b9f350a4d263cd524d6ac4
@@ -14081,29 +14061,29 @@ https://starlord.web.id/tv_baru/vidio/master.mpd?id=17140&token=oadqjNZgJgfCl7Nn
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19312&type=drm
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://cdn1-production-images-kly.akamaized.net/iUfdC5Tnfw-WKuEP_N50ZPS5GgE=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5310067/original/059379200_1754653627-ATK_BOLA_HSN_BALI_Vol_8_Fight_Card.jpg" ch-number="5", HSS Bali Sport Night
 #https://spacetv.my.id/index.mpd?id=19312&type=dash|User-Agent=VidioPlayer/6.31.6#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/KL3cqSkgtoi2NIrkq4DhEtVY_Vw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499141/76d961.jpg" ch-number="1", PERSITA vs PERSEBAYA Surabaya - BRI Super League - BRI Liga 1 Upcoming (Soon)
+https://spacetv.my.id/index.mpd?id=19354&type=dash|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19355&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/WqzNyyMhcAugQPR3VQ7vdJwglbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499142/eabb45.jpg" ch-number="1", Jelang Kick Off - PERSITA vs PERSEBAYA Surabaya - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19355&type=dash|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/WqzNyyMhcAugQPR3VQ7vdJwglbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499142/eabb45.jpg" ch-number="2", Jelang Kick Off - PERSITA vs PERSEBAYA Surabaya - BRI Super League - BRI Liga 1 Upcoming (Soon)
+https://spacetv.my.id/index.mpd?id=19355&type=dash|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19383&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/rKJdkpgWG283nkuTZgNPHTTCB40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501326/38332a.jpg" ch-number="2", Jelang Kick Off - PSIM Jogja vs Arema FC - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19383&type=dash|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/rKJdkpgWG283nkuTZgNPHTTCB40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501326/38332a.jpg" ch-number="3", Jelang Kick Off - PSIM Jogja vs Arema FC - BRI Super League - BRI Liga 1 Upcoming (Soon)
+https://spacetv.my.id/index.mpd?id=19383&type=dash|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19386&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/V2cw5o-gFXgE40vWRu1Ov4TSP-c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501347/cbf04a.jpg" ch-number="3", Bhayangkara Presisi Lampung FC vs PSM Makassar - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19386&type=dash|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/V2cw5o-gFXgE40vWRu1Ov4TSP-c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501347/cbf04a.jpg" ch-number="4", Bhayangkara Presisi Lampung FC vs PSM Makassar - BRI Super League - BRI Liga 1 Upcoming (Soon)
+https://spacetv.my.id/index.mpd?id=19386&type=dash|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19385&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/9rE3xhF4-jMpoLFZjDf84yJQpGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501538/96ee54.jpg" ch-number="4", PERSIK Kediri vs Madura United FC - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19385&type=dash|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/KL3cqSkgtoi2NIrkq4DhEtVY_Vw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499141/76d961.jpg" ch-number="5", PERSITA vs PERSEBAYA Surabaya - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19354&type=dash|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/9rE3xhF4-jMpoLFZjDf84yJQpGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501538/96ee54.jpg" ch-number="5", PERSIK Kediri vs Madura United FC - BRI Super League - BRI Liga 1 Upcoming (Soon)
+https://spacetv.my.id/index.mpd?id=19385&type=dash|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19384&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/aPPmW1_4evxhzTorDecdCNYJtp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501329/f3833f.jpg" ch-number="6", PSIM Jogja vs Arema FC - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19384&type=dash|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/aPPmW1_4evxhzTorDecdCNYJtp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501329/f3833f.jpg" ch-number="6", PSIM Jogja vs Arema FC - BRI Super League - BRI Liga 1 Upcoming (Soon)
+https://spacetv.my.id/index.mpd?id=19384&type=dash|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19355&type=drm
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/XUVpLyxP4bQs3D0JaGqfj46RoWo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4502154/59a0d0.jpg" ch-number="7", Jelang Kick Off - PERSIS vs PERSIJA - BRI Super League - BRI Liga 1 Upcoming
@@ -14111,6 +14091,18 @@ https://starlord.web.id/tv_baru/vidio/master.mpd?id=17140&token=oadqjNZgJgfCl7Nn
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/KlG6eNz5hSn6C5brHOMGHtta-tg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501933/dc8177.jpg" ch-number="8", PERSIS vs PERSIJA - BRI Super League - BRI Liga 1 Upcoming
+#https://spacetv.my.id/index.mpd?id=19354&type=dash|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19385&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/zLQBnQoPb2urhj-sxFYqON-dptU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4503849/d7764e.jpg" ch-number="9", PSBS Biak vs Borneo FC Samarinda - BRI Super League - BRI Liga 1 Upcoming
+#https://spacetv.my.id/index.mpd?id=19385&type=dash|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19355&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/UFWdIQ_PiTKNh7wwxi_5_1HmFH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4503850/05f188.jpg" ch-number="10", Jelang Kick Off - PERSIJAP vs PERSIB - BRI Super League - BRI Liga 1 Upcoming
+#https://spacetv.my.id/index.mpd?id=19355&type=dash|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 BRI Liga 1" tvg-logo="https://thumbor.prod.vidiocdn.com/1kWVkM4-b8R3mrTrkkTbwKIs_10=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4503851/b65047.jpg" ch-number="11", PERSIJAP vs PERSIB - BRI Super League - BRI Liga 1 Upcoming
 #https://spacetv.my.id/index.mpd?id=19354&type=dash|User-Agent=VidioPlayer/6.31.6
 #EXTM3U
 #EXTINF:-1 tvg-name="Astro Premier League" group-logo="http://qtvid.pw/glogo/astro.png" group-title="📁 Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 1
@@ -14160,62 +14152,56 @@ http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSpor
 http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/q34I5NGqZjhML9UA9Akmmxy4izI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499122/43b98e.jpg" ch-number="1", Girona vs Rayo Vallecano - LaLiga
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/NCD9xY8qPG1xzGl_xjz4DT9kSsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499127/9123a3.jpg" ch-number="1", Mallorca vs Barcelona - LaLiga
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/k09_UZCKAXSbng_1RD847PgZOP0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499130/aa4b49.jpg" ch-number="2", Villarreal vs Oviedo - LaLiga
-<br />
-<b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
-https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/NCD9xY8qPG1xzGl_xjz4DT9kSsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499127/9123a3.jpg" ch-number="3", Mallorca vs Barcelona - LaLiga
-<br />
-<b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
-https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/2ojtMcriKZ74m38tPVu5fuX85Us=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499131/b1f0c2.jpg" ch-number="4", Valencia vs Real Sociedad - LaLiga
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/2ojtMcriKZ74m38tPVu5fuX85Us=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499131/b1f0c2.jpg" ch-number="2", Valencia vs Real Sociedad - LaLiga
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6317&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/ySS--a1_mzGyIAjWSGT57QhpCVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499134/16e2bb.jpg" ch-number="5", Alaves vs Levante - LaLiga
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/ySS--a1_mzGyIAjWSGT57QhpCVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499134/16e2bb.jpg" ch-number="3", Alaves vs Levante - LaLiga
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=6317&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/On99SbxJNMml9cVGr_HE5TvYr1w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499135/490dcb.jpg" ch-number="6", Celta Vigo vs Getafe - LaLiga
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/On99SbxJNMml9cVGr_HE5TvYr1w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499135/490dcb.jpg" ch-number="4", Celta Vigo vs Getafe - LaLiga
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/QHwHckzsnLEPMbsGBwWJTKyt2Ac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499136/9ac8c4.jpg" ch-number="7", Athletic Club vs Sevilla - LaLiga
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/QHwHckzsnLEPMbsGBwWJTKyt2Ac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499136/9ac8c4.jpg" ch-number="5", Athletic Club vs Sevilla - LaLiga
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/12nSxE7jyIhBURdsh2-g311gNks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499137/4f5301.jpg" ch-number="8", Espanyol vs Atletico Madrid - LaLiga
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/12nSxE7jyIhBURdsh2-g311gNks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499137/4f5301.jpg" ch-number="6", Espanyol vs Atletico Madrid - LaLiga
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/zGIELMggeqg804dHDQd_Lln0edQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499140/cf993a.jpg" ch-number="9", Elche vs Real Betis - LaLiga
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/zGIELMggeqg804dHDQd_Lln0edQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499140/cf993a.jpg" ch-number="7", Elche vs Real Betis - LaLiga
+<br />
+<b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
+https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/laliga1.png" group-title="📁 Laliga" tvg-logo="https://thumbor.prod.vidiocdn.com/qq_Mxqdnyp8-ObFL5M9nnDQp3Ic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4503852/c239dd.jpg" ch-number="8", Real Madrid vs Osasuna - LaLiga
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/laliga.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/jTSc9azFxveYdrYn8SSxk7z7k38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496794/f42084.jpg" ch-number="1",Champions TV 5
+#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/YXGaqbBcWaGuuharMuSqU5g91_s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-088191.jpg" ch-number="1",Champions TV 5
 https://starlord.web.id/pidio/master.mpd?id=9182&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -14240,7 +14226,7 @@ https://starlord.web.id/pidio/master.mpd?id=6686&token=oadqjNZgJgfCl7NnOt4aqgPxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6786&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/6fVJAzmWQSgrYPOqIWCUSi2P--Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4492773/c3117f.jpg" ch-number="6",Champions TV 3
+#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" ch-number="6",Champions TV 3
 https://starlord.web.id/pidio/master.mpd?id=6786&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -14250,12 +14236,12 @@ https://starlord.web.id/pidio/master.mpd?id=17139&token=oadqjNZgJgfCl7NnOt4aqgPx
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=17140&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" ch-number="8",SPOTV 2
+#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/Z-UGDfe2FER091uRXIYP5F72dI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496714/7f183b.jpg" ch-number="8",SPOTV 2
 https://starlord.web.id/pidio/master.mpd?id=17140&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6299&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/q34I5NGqZjhML9UA9Akmmxy4izI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499122/43b98e.jpg" ch-number="9",Bein 1
+#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/dBMf_WAWW0JVeB5hVsaXQbYSxv4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" ch-number="9",Bein 1
 https://starlord.web.id/pidio/master.mpd?id=6299&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -14275,7 +14261,7 @@ https://starlord.web.id/pidio/master.mpd?id=6717&token=oadqjNZgJgfCl7NnOt4aqgPxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=18189&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/DFQpdxN_CHoyzmu1wCakZBes1eI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496742/4b38be.jpg" ch-number="13",Champions Golf 1
+#EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="📁 Sports Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/k-XDZv0GC0thY6AoQKHNSJewh9s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg" ch-number="13",Champions Golf 1
 https://starlord.web.id/pidio/master.mpd?id=18189&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -14284,61 +14270,55 @@ https://starlord.web.id/pidio/master.mpd?id=18189&token=oadqjNZgJgfCl7NnOt4aqgPx
 https://starlord.web.id/pidio/master.mpd?id=18190&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/jTSc9azFxveYdrYn8SSxk7z7k38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496794/f42084.jpg" ch-number="1", Liverpool vs Bournemouth - Premier League
-<br />
-<b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
-https://starlord.web.id/pidio/master.mpd?id=9182&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/4aU5x3VVW86yT9NtGF3Vaiz1WGo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496978/aee391.jpg" ch-number="2", Aston Villa vs Newcastle - Premier League
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/4aU5x3VVW86yT9NtGF3Vaiz1WGo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496978/aee391.jpg" ch-number="1", Aston Villa vs Newcastle - Premier League
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=9182&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9183&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/xzjernf7azkcBzaoOlK9ODdeXIQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496991/99a552.jpg" ch-number="3", Brighton vs Fulham - Premier League
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/xzjernf7azkcBzaoOlK9ODdeXIQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496991/99a552.jpg" ch-number="2", Brighton vs Fulham - Premier League
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=9183&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/RogLpjw-MSHSgfxt6FTDrUhiUcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496975/a84aef.jpg" ch-number="4", Tottenham vs Burnley - Premier League
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/RogLpjw-MSHSgfxt6FTDrUhiUcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496975/a84aef.jpg" ch-number="3", Tottenham vs Burnley - Premier League
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=9182&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=19375&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/88opUm6B6rNQ8JHakRVFYd9GFQA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4497025/07eb1d.jpg" ch-number="5", Sunderland vs West Ham - Premier League
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/88opUm6B6rNQ8JHakRVFYd9GFQA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4497025/07eb1d.jpg" ch-number="4", Sunderland vs West Ham - Premier League
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=19375&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/mH1g8clUy93txVlX9UxQ21JDnQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496981/62b63a.jpg" ch-number="6", Wolves vs Man City - Premier League
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/mH1g8clUy93txVlX9UxQ21JDnQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496981/62b63a.jpg" ch-number="5", Wolves vs Man City - Premier League
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=9182&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/p8y9-pHkpLgHSWePLAJNWzn8-P4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501545/e20a6b.jpg" ch-number="7", Chelsea vs Crystal Palace - Premier League
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/p8y9-pHkpLgHSWePLAJNWzn8-P4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4501545/e20a6b.jpg" ch-number="6", Chelsea vs Crystal Palace - Premier League
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=9182&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9183&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/xnfZEqmTaQ-QXI5zkVNnMApujFA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499322/70d2e5.jpg" ch-number="8", Nottingham Forest vs Brentford - Premier League
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/xnfZEqmTaQ-QXI5zkVNnMApujFA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499322/70d2e5.jpg" ch-number="7", Nottingham Forest vs Brentford - Premier League
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=9183&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/6VB9INFgwmq1EVSdh8NAd1fPJU8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496985/760edd.jpg" ch-number="9", Man United vs Arsenal - Premier League
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/6VB9INFgwmq1EVSdh8NAd1fPJU8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4496985/760edd.jpg" ch-number="8", Man United vs Arsenal - Premier League
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=9182&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9183&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
-#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/75gzdvEnKeLuI3UNwAlbu90pnZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499270/86ecf2.jpg" ch-number="10", (Data Zone) Man United vs Arsenal - Premier League
+#EXTINF:-1 group-logo="https://starlord.web.id/glogo/epl.png" group-title="📁 Liga Premier" tvg-logo="https://thumbor.prod.vidiocdn.com/75gzdvEnKeLuI3UNwAlbu90pnZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4499270/86ecf2.jpg" ch-number="9", (Data Zone) Man United vs Arsenal - Premier League
 <br />
 <b>Warning</b>:  Undefined variable $live in <b>/www/wwwroot/qtv/pidio/epl1.php</b> on line <b>86</b><br />
 https://starlord.web.id/pidio/master.mpd?id=9183&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT|User-Agent=VidioPlayer/6.31.6&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
