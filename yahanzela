@@ -1,6 +1,32 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="VE-1" tvg-logo="http://ve.francomedia.net:8872/ve/stream1/logo.png" group-title="YAHANZEL",VE-Network 1 4K
-#EXTVLCOPT:http-referrer=http://ve.francomedia.net
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://ve.francomedia.net:8872/ve/stream1/live1.m3u
+{
+  "MASTER": {
+    "StringBuffer": {
+      "categories": [
+        {
+          "name": "Animasi",
+          "channels": [
+            {
+              "name": "k-pop demon hunter",
+              "logo_url": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "stream_url": "https://ashateve.my.id/OTFlMzhmZGMyYjQ5MzJmOGGnchFc3evo19GaIakTkDwaiTHRHix6wAVOa63tB90qL7+vg6ki931FSj3L6BE9LaXTKbf/50ibWEO3vS6B8fBfoZJJeDt8TY6i7DcG8Gsei95Rt/qgjfJ0jQAzb1cunX3taWKCvwjBU29+cJ+8m63XI74LVa/6nsFASPiAG2SnD4uqLaBZLN9iyMVZejrvYA",
+              "manifest_type": "auto"
+            },
+            {
+              "name": "smurfs",
+              "logo_url": "https://m.media-amazon.com/images/M/MV5BMDMyNDViNTMtMmQwYy00ZWUzLThjODYtZWNiOTMzMWFjMzg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "stream_url": "https://ashateve.my.id/OTFlMzhmZGMyYjQ5MzJmOGGnchFc3evo19GaIakTkDwaiTHRHix6wAVOa63tB90qL7+vg6ki931FSj3L6BE9LYbJIbVuiHkleh28rAM9O96AhZx+BuMIGuLQAUsE5CICZ2+m9DMn9EwRQNq5/o+VUQ",
+              "manifest_type": "auto"
+            },
+            {
+              "name": "ne zha 2",
+              "logo_url": "https://m.media-amazon.com/images/M/MV5BNmExMDMyMjgtZjQ1YS00N2QxLTk2ODQtODAzOTMwYTM5YWM2XkEyXkFqcGc@._V1_.jpg",
+              "stream_url": "https://ashateve.my.id/OTFlMzhmZGMyYjQ5MzJmOGGnchFc3evo19GaIakTkDwaiTHRHix6wAVOa63tB90qL7+vg6ki931FSj3L6BE9LYbJIbVuiHkleh28rAM9O94EBCQQX59RXNwvYbDS6qxkzJY3uGpamhBgu1/wc4JJShdos8ko0EhxVpJo3F0cXm0",
+              "manifest_type": "auto"
+            },
+            ...
+          ]
+        }
+      ]
+    }
+  }
+}
