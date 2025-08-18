@@ -14024,13 +14024,10 @@ https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="📁 Astro Sports",Astro Arena 2
 https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 
-#EXTINF:-1 ,Piala Kemerdekaan
-#EXTINF:-1 group-title="📁 liga bri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0t8L4vzg6TIuZP8j5ZWDcQ3I3qOcJBgq4owNG_LWEne8MR35s0Som07d&s=10"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=19367&type=drm
-https://red.openwindows038.workers.dev/play.mpd?id=19367&type=dash
+
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="📁 liga super BRI",INDOSIAR HD
+https://spacetv.my.id/index.m3u8?id=205&type=hls|User-Agent=VidioPlayer/6.31.6
+
 
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
@@ -14044,7 +14041,7 @@ https://red.openwindows038.workers.dev/play.mpd?id=19367&type=dash
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="📁z#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ", SELAMAT NONTON
 https://youtube.com/@lga775iptv
 "https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
-# ===== Update 2025-08-18 12:01:32 =====
+# ===== Update 2025-08-18 12:19:32 =====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=oadqjNZgJgfCl7NnOt4aqgPxyk6bSPqT
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 SEMENTARA OFF" tvg-logo="" ch-number="1",SEMENTARA OFF DULU
@@ -14781,3 +14778,48 @@ http://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 #EXTINF:-1 tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000" group-title="📁 TNT Sports",TNT Sports 4
 http://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd|User-Agent=mozilla/89 ExoPlayerLib
+#EXTM3U
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Audace Cerignola vs Verona (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Spezia vs Sampdoria (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Preuben Munster vs Hertha Berlin (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Schweinfurt 05 FC vs Fortuna Dusseldorf (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Dynamo Dresden vs FSV Mainz 05 (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Uzbekistan U17 vs Tajikistan U17 (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Armenia U17 vs Moldova U17 (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Indonesia U17 vs Mali U17 (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Pas Giannina vs Volos NFC (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Makedonikos vs Levadiakos (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Niki Volou vs Panaitolikos (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Jaro vs SJK Seinajoen (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Rio Abajo FC vs Sete FC (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", 12 Bingol Bld vs Tokat Bld Plevnespor (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", PSBS Biak vs Borneo FC (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Persijap Jepara vs Persib Bandung (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Septemvri Sofia vs FC Dobrudzha (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Saham vs Bahla (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Al Rustaq vs Sohar Club (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Al-Baq's vs AL Salt (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Arges vs FC Otelul Galati (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
+#EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Torpedo moskva vs Ural Sverdlovsk Oblast (COMING SOON)
+https://clovers.serv00.net/logo/CLOVERSTV.mp4
