@@ -14171,12 +14171,13 @@ https://spacetv.my.id/index.m3u8?id=205&type=hls|User-Agent=VidioPlayer/6.31.6
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="📁 liga super BRI",INDOSIAR A
 https://cdn.apigateway.web.id/stream/output.m3u8
 
-#EXTINF:-1 ,indosiar B
-#EXTINF:-1 group-title="📁 liga super BRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZJu4SyhIyR2Nfd-1G70ybdWuCQEfD2HYeOckPRWrcfABg-u28hUhKMA&s=10"
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+#EXTINF:-1 ,Piala Kemerdekaan indo vs mali A
+#EXTINF:-1 group-title="📁 liga super BRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0t8L4vzg6TIuZP8j5ZWDcQ3I3qOcJBgq4owNG_LWEne8MR35s0Som07d&s=10"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=19367&type=drm
+https://red.openwindows038.workers.dev/play.mpd?id=19367&type=dash
 
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:network-caching=1000
@@ -14936,3 +14937,4 @@ http://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 #EXTINF:-1 tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000" group-title="📁 TNT Sports",TNT Sports 4
 http://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd|User-Agent=mozilla/89 ExoPlayerLib
 #EXTM3U
+
