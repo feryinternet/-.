@@ -14028,12 +14028,24 @@ https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="📁 liga super BRI",INDOSIAR HD
 https://spacetv.my.id/index.m3u8?id=205&type=hls|User-Agent=VidioPlayer/6.31.6
 
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="📁 liga super BRI",INDOSIAR A
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
+
 #EXTINF:-1 ,indosiar B
 #EXTINF:-1 group-title="📁 liga super BRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZJu4SyhIyR2Nfd-1G70ybdWuCQEfD2HYeOckPRWrcfABg-u28hUhKMA&s=10"
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+
+#EXTINF:-1 group-title="📁 liga super BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persijap vs Persib
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/F6LXH75UqjSl8IFdeEYkag/Fv2lucGIbhPi2caWYvF5Lg/1755378612443/live/dungSD/chunklist.m3u8
 
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
@@ -14829,4 +14841,5 @@ https://clovers.serv00.net/logo/CLOVERSTV.mp4
 https://clovers.serv00.net/logo/CLOVERSTV.mp4
 #EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Torpedo moskva vs Ural Sverdlovsk Oblast (COMING SOON)
 https://clovers.serv00.net/logo/CLOVERSTV.mp4
+
 
