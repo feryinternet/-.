@@ -1,32 +1,5 @@
-{
-  "MASTER": {
-    "StringBuffer": {
-      "categories": [
-        {
-          "name": "Animasi",
-          "channels": [
-            {
-              "name": "k-pop demon hunter",
-              "logo_url": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "stream_url": "https://ashateve.my.id/OTFlMzhmZGMyYjQ5MzJmOGGnchFc3evo19GaIakTkDwaiTHRHix6wAVOa63tB90qL7+vg6ki931FSj3L6BE9LaXTKbf/50ibWEO3vS6B8fBfoZJJeDt8TY6i7DcG8Gsei95Rt/qgjfJ0jQAzb1cunX3taWKCvwjBU29+cJ+8m63XI74LVa/6nsFASPiAG2SnD4uqLaBZLN9iyMVZejrvYA",
-              "manifest_type": "auto"
-            },
-            {
-              "name": "smurfs",
-              "logo_url": "https://m.media-amazon.com/images/M/MV5BMDMyNDViNTMtMmQwYy00ZWUzLThjODYtZWNiOTMzMWFjMzg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "stream_url": "https://ashateve.my.id/OTFlMzhmZGMyYjQ5MzJmOGGnchFc3evo19GaIakTkDwaiTHRHix6wAVOa63tB90qL7+vg6ki931FSj3L6BE9LYbJIbVuiHkleh28rAM9O96AhZx+BuMIGuLQAUsE5CICZ2+m9DMn9EwRQNq5/o+VUQ",
-              "manifest_type": "auto"
-            },
-            {
-              "name": "ne zha 2",
-              "logo_url": "https://m.media-amazon.com/images/M/MV5BNmExMDMyMjgtZjQ1YS00N2QxLTk2ODQtODAzOTMwYTM5YWM2XkEyXkFqcGc@._V1_.jpg",
-              "stream_url": "https://ashateve.my.id/OTFlMzhmZGMyYjQ5MzJmOGGnchFc3evo19GaIakTkDwaiTHRHix6wAVOa63tB90qL7+vg6ki931FSj3L6BE9LYbJIbVuiHkleh28rAM9O94EBCQQX59RXNwvYbDS6qxkzJY3uGpamhBgu1/wc4JJShdos8ko0EhxVpJo3F0cXm0",
-              "manifest_type": "auto"
-            },
-            ...
-          ]
-        }
-      ]
-    }
-  }
-}
+#EXTINF:-1 type="CHANNEL | VOD LK21" group-title="📁zCHANNEL | VOD FILM HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJiMDJkN2ItNjVjNC00OTc1LWE2MWUtNzU1MmY0MWNjNGM5XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg",PARA BETINA PENGIKUT IBLIS (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Para_Betina_Pengikut_Iblisjepstoe.mp4
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="📁zCHANNEL | VOD SQUID GAME S3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S3 EPS1
+https://vod1.suwalbolong.workers.dev/0:/2025/series/squid3/Squid.Game.S03E01.Kunci.dan.Pisau.1080p.NF.WEB-DL.DDP5.1.Atmos.KO-ID.H.264-S3CR3T.mkv
