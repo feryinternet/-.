@@ -14028,6 +14028,12 @@ https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="📁 liga super BRI",INDOSIAR HD
 https://spacetv.my.id/index.m3u8?id=205&type=hls|User-Agent=VidioPlayer/6.31.6
 
+#EXTINF:-1 ,indosiar B
+#EXTINF:-1 group-title="📁 liga super BRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZJu4SyhIyR2Nfd-1G70ybdWuCQEfD2HYeOckPRWrcfABg-u28hUhKMA&s=10"
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 
 ----------------------------------------------------------------------------------------------live event-------------------------------------------------------------------
 
@@ -14823,3 +14829,4 @@ https://clovers.serv00.net/logo/CLOVERSTV.mp4
 https://clovers.serv00.net/logo/CLOVERSTV.mp4
 #EXTINF:-1 group-title="UPCOMING - Event by Veboo" tvg-logo="https://clvers.my.id/logo/3.gif", Torpedo moskva vs Ural Sverdlovsk Oblast (COMING SOON)
 https://clovers.serv00.net/logo/CLOVERSTV.mp4
+
