@@ -1275,11 +1275,19 @@ https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298550
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="FERY IPTV",FeryIptv
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="VOD NETFLIX 2025", KLIK PERPUSTAKAAN MEDIA
 https://youtube.com/@lga775iptv
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="REQ PLAYSLIST HUB/WA SELAMAT NONTON",REQ PLAYLIST premiumHUB/WA SELAMAT NONTON
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="VOD NETFLIX 2025", DI MENU ATAS SEBELAH PENGATURAN
 https://youtube.com/@lga775iptv
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title=" SELAMAT NONTON", VOD NETFLIX 2025
+https://youtube.com/@lga775iptv
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title=" SELAMAT NONTON", KLIK PERPUSTAKAAN MEDIA
+https://youtube.com/@lga775iptv
+
+
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title=""📁zCHANNEL | INDONESIA 🇮🇩"",YT  FERY IPTV
 https://youtube.com/@lga775iptv
@@ -14937,4 +14945,5 @@ http://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 #EXTINF:-1 tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000" group-title="📁 TNT Sports",TNT Sports 4
 http://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd|User-Agent=mozilla/89 ExoPlayerLib
 #EXTM3U
+
 
