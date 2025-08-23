@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Astro Sport" tvg-id="" tvg-logo=,selamat menonton
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Astro Sports" tvg-id="" tvg-logo=,selamat menonton
 https://youtube.com/@lga775iptv
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 BeIN Group" tvg-id="" tvg-logo=,selamat menonton
@@ -17,13 +17,13 @@ https://youtube.com/@lga775iptv
 https://youtube.com/@lga775iptv
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Kids V+" tvg-id="" tvg-logo=,selamat menonton
 https://youtube.com/@lga775iptv
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Knowledge" tvg-id="" tvg-logo=,selamat menonton
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Knowledge V+" tvg-id="" tvg-logo=,selamat menonton
 https://youtube.com/@lga775iptv
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Laliga" tvg-id="" tvg-logo=,selamat menonton
 https://youtube.com/@lga775iptv
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Lifestyle V+" tvg-id="" tvg-logo=,selamat menonton
 https://youtube.com/@lga775iptv
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Liga champions" tvg-id="" tvg-logo=,selamat menonton
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Liga Champions" tvg-id="" tvg-logo=,selamat menonton
 https://youtube.com/@lga775iptv
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" group-title="📁 Liga Dagelan" tvg-id="" tvg-logo=,selamat menonton
 https://youtube.com/@lga775iptv
@@ -9956,3 +9956,4 @@ https://trvs.hendrikstar73.workers.dev/trans7/index.mpd|Mozilla/5.0 (Windows NT 
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
