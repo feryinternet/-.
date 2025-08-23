@@ -8001,31 +8001,15 @@ http://103.179.182.117:6768/hls/56/56.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/new%20logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="📁z#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ", SELAMAT NONTON
 https://youtube.com/@lga775iptv
 "https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
-# ===== Update 2025-08-23 14:00:05 =====
+# ===== Update 2025-08-23 18:43:52 =====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="" ch-number="1",ONLINE
+#EXTINF:-1 group-logo="" ch-number="1",OFFLINE
 https://spacetv.my.id/ADSADSADSAD.mpd?id=19213213213354&type=dash|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19334&type=drm&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/Te-pq8figPCkvML2vSwK5vxpN5k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512808/72ea05.jpg" ch-number="1", Morocco vs Turkey - FIVB Men's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19334&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19332&type=drm&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/gKC-xpVlglTcaCHUMdGt8DRZ6UQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512801/53ad00.jpg" ch-number="2", Brazil vs Czechia - FIVB Men's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19332&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/tv_baru/vidio/drm2.php?id=19331&type=drm&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/u_D5eqJf_CskU69uUVSkwYPcii4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512805/bfaf54.jpg" ch-number="3", Poland vs Canada - FIVB Men's U21 World Championship
-https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19384&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 Liga Dagelan" tvg-logo="https://thumbor.prod.vidiocdn.com/mkrHIPaScYPzqGiaSqoaxSsxD28=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510907/07c5de.jpg" ch-number="2", PSBS Biak vs PERSIS - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19384&type=dash|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 Liga Dagelan" tvg-logo="https://thumbor.prod.vidiocdn.com/1DFRnZtnFpkKoculUEnya9fg-BQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510902/0dfb40.jpg" ch-number="3", PERSEBAYA Surabaya vs Bali United FC - BRI Super League - BRI Liga 1 Upcoming
-#https://spacetv.my.id/index.mpd?id=19354&type=dash|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 Liga Dagelan" tvg-logo="https://thumbor.prod.vidiocdn.com/1DFRnZtnFpkKoculUEnya9fg-BQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510902/0dfb40.jpg" ch-number="3", PERSEBAYA Surabaya vs Bali United FC - BRI Super League - BRI Liga 1 LIVE
+https://spacetv.my.id/index.mpd?id=19354&type=dash|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19385&type=drm
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 Liga Dagelan" tvg-logo="https://thumbor.prod.vidiocdn.com/6446sFzUttVIgzYE3yeQ-b5fm0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512874/10e4d9.jpg" ch-number="4", Borneo FC Samarinda vs PERSIJAP - BRI Super League - BRI Liga 1 Upcoming
@@ -8039,7 +8023,10 @@ https://starlord.web.id/tv_baru/vidio/master.mpd?id=19331&token=Cs0q6Fb1HaB0rsS9
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁 Liga Dagelan" tvg-logo="https://thumbor.prod.vidiocdn.com/GOCYX5A0maiRycFgrTFPp01VnBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512889/80aada.jpg" ch-number="6", Madura United FC vs PERSITA - BRI Super League - BRI Liga 1 Upcoming
 #https://spacetv.my.id/index.mpd?id=19385&type=dash|User-Agent=VidioPlayer/6.31.6
 #EXTM3U
-No live events found or access denied.
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=289486&type=drm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="📁 Liga Premier",Manchester City - Tottenham
+http://spacetv.my.id/experimen/master.mpd?id=289486&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="Astro Premier League" group-logo="http://qtvid.pw/glogo/astro.png" group-title="📁 Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 1
 http://stream1.amtv.my.id:1999/stream/hub/aspl1/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-name="Astro Premier League" group-logo="http://qtvid.pw/glogo/astro.png" group-title="📁 Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 2
@@ -8319,47 +8306,47 @@ https://live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd?token=Cs0q6Fb1HaB0r
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 1
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e314720a4fc9414cb84862f3a4d0b072:a1bb6155792c5338280af6ac8cb8033d
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier9/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier9/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9f5144687374b62a006b26fd15d6842:9ae3c1fbe13286859d852799a1189db4
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier10/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier10/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Liga Premier",Hub Premier 11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75d04c230de440ec8efb0a45335522ab:c36eefb1f70a14919253cf68c9b442e4
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier11/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier11/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTM3U
 #EXTINF:-1 tvg-id="NowSports1" tvg-name="Now Sports EPL 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/Now_Sports_Premier_League_TV.png/revision/latest?cb=20240307151902&path-prefix=vi" group-title="📁 Liga Premier",[LIVE Only] Now Sports EPL 1
 http://178.128.56.182/now/hls/CH621/index.m3u8?token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
@@ -8386,11 +8373,11 @@ http://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 #EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/800px-SPOTV_logo.svg.png" group-title="📁 MotoGP",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-name="Hub Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="📁 MotoGP",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 group-logo="http://qtvid.pw/glogo/sports.png" group-title="📁 Sports Luar" tvg-id="SSC 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -8444,111 +8431,111 @@ http://qtvid.pw/play1.mpd?ch=sport1p|user-agent=mozilla/89 ExoPlayerLib
 #EXTINF:-1 tvg-name="Hub Premier 2" group-logo="http://qtvid.pw/glogo/starhub.png" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 2 UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-name="SPOTV" group-logo="http://qtvid.pw/glogo/starhub.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="📁 Starhub",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-name="Hub Premier 2" group-logo="http://qtvid.pw/glogo/starhub.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="📁 Starhub",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 1
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e314720a4fc9414cb84862f3a4d0b072:a1bb6155792c5338280af6ac8cb8033d
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier9/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier9/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9f5144687374b62a006b26fd15d6842:9ae3c1fbe13286859d852799a1189db4
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier10/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier10/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="📁 Starhub",Hub Premier 11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75d04c230de440ec8efb0a45335522ab:c36eefb1f70a14919253cf68c9b442e4
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier11/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier11/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
 #EXTINF:-1 tvg-id="HubSports1HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://qtvid.pw/glogo/hub3.png" group-title="📁 Starhub",Hub Sports 1 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
 #EXTINF:-1 tvg-id="HubSports2HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://qtvid.pw/glogo/hub3.png" group-title="📁 Starhub",Hub Sports 2 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
 #EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://qtvid.pw/glogo/hub3.png" group-title="📁 Starhub",Hub Sports 3 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports3HDNEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports3HDNEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 #EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://qtvid.pw/glogo/hub3.png" group-title="📁 Starhub",Hub Sports 4 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="" tvg-logo="https://qtvid.pw/glogo/hub3.png" group-title="📁 Starhub",Hub Sports 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
 #EXTINF:-1 tvg-id="HubSports6HD" tvg-name="Hub Sports 6 HD" tvg-logo="https://qtvid.pw/glogo/hub3.png" group-title="📁 Starhub",Hub Sports 6 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports6/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports6/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
 #EXTINF:-1 tvg-id="HubSports7HD" tvg-name="Hub Sports 7 HD" tvg-logo="https://qtvid.pw/glogo/hub3.png" group-title="📁 Starhub",Hub Sports 7 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
 #EXTINF:-1 tvg-id="HubSports8HD" tvg-name="Hub Sports 8 HD" tvg-logo="https://qtvid.pw/glogo/hub3.png" group-title="📁 Starhub",Hub Sports 8 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
 #EXTINF:-1 tvg-id="beINSportsHD" tvg-name="beIN Sports HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Starhub",beIN Sports 1 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 #EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Starhub",beIN Sports 2 HD
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
 #EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Starhub",beIN Sports 3
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
 #EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sports 4" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Starhub",beIN Sports 4
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
 #EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sports 5" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Starhub",beIN Sports 5
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTINF:-1 group-logo="http://qtvid.pw/glogo/kebo.png" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1200px-Mewatch_2023.svg.png" group-title="📁 Carabao Cup",Mewatch 5
@@ -8607,43 +8594,43 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
 #EXTINF:-1 tvg-id="beINSportsHD" tvg-name="beIN Sports HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 BeIN Group",beIN Sports 1 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 #EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 BeIN Group",beIN Sports 2 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
 #EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 BeIN Group",beIN Sports 3 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
 #EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sports 4" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 BeIN Group",beIN Sports 4 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
 #EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sports 5" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 BeIN Group",beIN Sports 5 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
 #EXTINF:-1 tvg-id="beINSportsHD" tvg-name="beIN Sports HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Liga Champions",beIN Sports 1 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 #EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Liga Champions",beIN Sports 2 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
 #EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Liga Champions",beIN Sports 3 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
 #EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sports 4" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Liga Champions",beIN Sports 4 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
 #EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sports 5" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="📁 Liga Champions",beIN Sports 5 Starhub
-http://qtvid.pw/starhub/index.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
+http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd&token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="SONY TEN 1" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="📁 Liga Champions",SONY TEN 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=Cs0q6Fb1HaB0rsS989WJcZXs1LHXp0Lm
 #EXTINF:-1 tvg-id="SonyTen2.in" tvg-name="SONY TEN 2" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="📁 Liga Champions",SONY TEN 2
