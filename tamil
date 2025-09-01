@@ -1,3 +1,5 @@
+#M3U
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17140
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
