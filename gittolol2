@@ -6172,160 +6172,6 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 
 
-
-#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-
-
-#Tokyo1
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg"
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" group-title="📁zCHANNEL | JEPANG 🇯🇵", NHK BS1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", NHK BS Premium
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", BS Nittere
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", BS Asahi
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", BS TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", BS TV Tokyo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", BS Fuji
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", WOWOW Prime
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", WOWOW Live
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", WOWOW Cinema
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Star Channel 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Star Channel 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Star Channel 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", BS Animax
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", BS Sky PerfecTV!
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", J Sports 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", J Sports 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", J Sports 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", J Sports 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", BS Tsuri Vision
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Nippon Eiga Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", NHK General
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", NHK Education
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Nippon TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", TV Asahi
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", TV Tokyo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Fuji TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Toei Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Channel Neco
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Movie Plus
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Sky A
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Gaora Sports
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Nittere G+
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Golf Network
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Jidaigeki Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Family Gekijo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Channel Ginga
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Super! Drama TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", AXN
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Fox Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Lala TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Music On! TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Kayo Pops
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Kids Station
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:1 group-title="📁zCHANNEL | JEPANG 🇯🇵", Nittere News 24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" group-title="📁zCHANNEL | JEPANG 🇯🇵" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334",ช่อง WOWOW Prime
-https://stream02.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" group-title="📁zCHANNEL | JEPANG 🇯🇵" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest?cb=20200215065013",ช่อง WOWOW Cinema
-https://stream02.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" group-title="📁zCHANNEL | JEPANG 🇯🇵" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659",ช่อง WOWOW Live
-https://stream02.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg"
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" tvg-id="" tvg-logo="https://lo1.in/it/mtgp.png" tvg-id=" group-title="📁 MotoGP",NONTONGP.LOL GP F1A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -6473,9 +6319,6 @@ https://windnew.newkso.ru/wind/premium60/mono.m3u8
 __
 
 =======================▶VOD INDO◀=========================
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" type="" group-title="📁zCHANNEL | VOD INDO" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qO0mbZj4mJfxpWPbrAb1Zr6F2zW.jpg",Kupu-Kupu Kertas
-https://play.upns.xyz/hls/XHrSR67JJ4hHWM4ns1h9pA/ic/ghsd6sxi/c5rvnz/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 type="" group-title="📁zCHANNEL | VOD INDO" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",Lembayung
 https://play.upns.xyz/hls/f5Jr3ih4E9FsfGlclg-eSQ/db/el9jhvkg/talzbq/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
@@ -7497,20 +7340,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 
 
 -----------------------------------------------------------------------------------------------
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" tvg-id="spectrum.sportsnet.la.us" tvg-name="US812:Spectrum SportsNet LA Dodgers" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US812SpectrumSportsNetLADodgers.png" group-title="📁zMLB baseball USA",Spectrum SportsNet LA Dodgers
-http://yesimes.oknirvana.club:8880/D12m2446/47772223/49953
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" tvg-id="spectrum.sportsnet.us" tvg-name="US900:Spectrum SportsNet Lakers" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="📁zMLB baseball USA",Spectrum SportsNet Lakers
-http://yesimes.oknirvana.club:8880/D12m2446/47772223/60983
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" tvg-id="a.e.br" tvg-name="US132:Stadium Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US132Stadium3.png" group-title="📁zMLB baseball USA",Stadium Sports 1
-http://yesimes.oknirvana.club:8880/D12m2446/47772223/30058
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" tvg-id="a.e.br" tvg-name="US133:Stadium Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US133Stadium2.png" group-title="📁zMLB baseball USA",Stadium Sports 2
-http://yesimes.oknirvana.club:8880/D12m2446/47772223/30057
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" tvg-id="a.e.br" tvg-name="US134:Stadium Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US134Stadium1.png" group-title="📁zMLB baseball USA",Stadium Sports 3
-http://yesimes.oknirvana.club:8880/D12m2446/47772223/30056
-
 
 
 
@@ -14509,3 +14338,4 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19388&type=dash
 https://youtube.com/@lga775iptv
 "https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
 # ===== Update 2025-09-10 17:00:08 =====
+
