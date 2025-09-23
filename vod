@@ -1,152 +1,603 @@
+#EXTM3U
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/M8XSugxNK1fjW813RznZzdnkpVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4587120/673d5f.jpg" group-title="Vidio - LIVE NOW", Germany Premier Padel P2 2025 - Day 2 (15:00 WIB * 23-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6299&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S2 EPS1
-https://vod1.suwalbolong.workers.dev/0:/2024/series/squid%20game2/Squid.Game.S02E01.Bread.and.Lottery.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-FLUX.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/UCBk8pWI3j8nacLNOKP6_ioBvN4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4590794/69e3d4.jpg" group-title="Vidio - LIVE NOW", ATP 250: Chengdu Open 2025 - Final (18:00 WIB * 23-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S2 EPS2
-https://vod1.suwalbolong.workers.dev/0:/2024/series/squid%20game2/Squid.Game.S02E02.Halloween.Party.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-FLUX.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/r2ZTdrMi9rVZrZkb-m2efXoOq0U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591224/76c8d6.jpg" group-title="Vidio - LIVE NOW", Putra: Indomaret vs Ganeksa Bhumikarta - Livoli Divisi Utama (18:15 WIB * 23-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95537d074a64790178bea4d503795564:c8cc979d73766019afb867633c2d8929
+https://newfamilytv.my.id/vidaspal/vid.mpd?id=19488&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S2 EPS3
-https://vod1.suwalbolong.workers.dev/0:/2024/series/squid%20game2/Squid.Game.S02E03.001.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-FLUX.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zVAI6q1OhuS_oCIyivhtQqTWqXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4587124/ced18f.jpg" group-title="Vidio - LIVE NOW", ATP 250: Lynk & Co Hangzhou Open 2025 - Final (18:30 WIB * 23-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17875&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S2 EPS4
-https://vod1.suwalbolong.workers.dev/0:/2024/series/squid%20game2/Squid.Game.S02E04.Six.Legs.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-FLUX.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Esd4WNI5fNUPPyqge-g6H6asqGg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4587123/c85a84.jpg" group-title="Vidio - UP COMING", Germany Premier Padel P2 2025 - Day 2 (22:00 WIB * 23-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6299&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S2 EPS5
-https://vod1.suwalbolong.workers.dev/0:/2024/series/squid%20game2/Squid.Game.S02E05.One.More.Game.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-FLUX.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8rblluJTu1HePRRm18-mYU0jSAk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592574/d4cff5.jpg" group-title="Vidio - UP COMING", Espanyol vs Valencia - LaLiga (23:55 WIB * 23-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S2 EPS6
-https://vod1.suwalbolong.workers.dev/0:/2024/series/squid%20game2/Squid.Game.S02E06.O.X.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-FLUX.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CqU_sCqxQ7fYOMpwGYNbWEeTxYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592570/6896d5.jpg" group-title="Vidio - UP COMING", Athletic Club vs Girona - LaLiga (23:55 WIB * 23-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6299&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S2 EPS7
-https://vod1.suwalbolong.workers.dev/0:/2024/series/squid%20game2/Squid.Game.S02E07.Friend.or.Foe.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-FLUX.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aaPEG0ACeP-Ven4xgMJYtzedQBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592573/ac7b49.jpg" group-title="Vidio - UP COMING", Burnley vs Cardiff City - Carabao Cup (01:35 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19370&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19370&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S3 EPS1
-https://vod1.suwalbolong.workers.dev/0:/2025/series/squid3/Squid.Game.S03E01.Kunci.dan.Pisau.1080p.NF.WEB-DL.DDP5.1.Atmos.KO-ID.H.264-S3CR3T.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mpjI32nMqUSPPs3SoxWlt2YJDXI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592577/db3735.jpg" group-title="Vidio - UP COMING", Fulham vs Cambridge United - Carabao Cup (01:35 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19604&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19604&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S3 EPS2
-https://vod1.suwalbolong.workers.dev/0:/2025/series/squid3/Squid.Game.S03E02.Malam.Berbintang.1080p.NF.WEB-DL.DDP5.1.Atmos.KO-ID.H.264-S3CR3T.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xKPwy7NSNHGSjGHU2KMVG_j9Fas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592567/7dc7ba.jpg" group-title="Vidio - UP COMING", Lincoln City vs Chelsea - Carabao Cup (01:40 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6786&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6786&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S3 EPS3
-https://vod1.suwalbolong.workers.dev/0:/2025/series/squid3/ Squid.Game.S03E03.Bukan.Salahmu.1080p.NF.WEB-DL.DDP5.1.Atmos.KO-ID.H.264-S3CR3T.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/w4hxaVmhkQfBlu6novunUzOormg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592568/31b653.jpg" group-title="Vidio - UP COMING", Wolves vs Everton - Carabao Cup (01:40 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6686&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6686&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S3 EPS4
-https://vod1.suwalbolong.workers.dev/0:/2025/series/squid3/Squid.Game.S03E04.222.1080p.NF.WEB-DL.DDP5.1.Atmos.KO-ID.H.264-S3CR3T.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TMmOYaNbs0g9HIHbGxBXH3WQHOo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591209/3d8ef2.jpg" group-title="Vidio - UP COMING", Barnsley vs Brighton - Carabao Cup (01:45 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19371&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19371&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S3 EPS5
-https://vod1.suwalbolong.workers.dev/0:/2025/series/squid3/Squid.Game.S03E05.^.1080p.NF.WEB-DL.DDP5.1.Atmos.KO-ID.H.264-S3CR3T.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TgJsSwnPA3s4sxaP7j7fvCt4dVU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592569/cd8fa2.jpg" group-title="Vidio - UP COMING", Liverpool vs Southampton - Carabao Cup (01:55 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6685&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6685&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | VOD SQUID GAME S3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",squid game S3 EPS6
-https://vod1.suwalbolong.workers.dev/0:/2025/series/squid3/Squid.Game.S03E06.Manusia.Adalah.1080p.NF.WEB-DL.DDP5.1.Atmos.KO-ID.H.264-S3CR3T.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hCxPi3LrRdwhMPy36vOVZiCFjiQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592575/389d0e.jpg" group-title="Vidio - UP COMING", Sevilla vs Villarreal - LaLiga (02:25 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | KARMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",KARMA EPS1
-https://vod1.suwalbolong.workers.dev/0:/2025/series/karma/Karma.S01E01.x265.720p.NF.WEB-DL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lX_YcRLa-RkvYo4xg8uciEMeRbg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592571/f59d55.jpg" group-title="Vidio - UP COMING", Levante vs Real Madrid - LaLiga (02:25 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6299&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | KARMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",KARMA EPS2
-https://vod1.suwalbolong.workers.dev/0:/2025/series/karma/ Karma.S01E02.x265.720p.NF.WEB-DL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GVCCr6WJ7QiI0kZH5-c647k01kE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/suwon-victor-korea-open-2025-qualifiers-r32-court-1-5bcb75.jpg" group-title="Vidio - UP COMING", SUWON VICTOR Korea Open 2025 - Qualifiers + R32 (Court 1) (08:00 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=18249&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | KARMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",KARMA EPS3
-https://vod1.suwalbolong.workers.dev/0:/2025/series/karma/ Karma.S01E03.x265.720p.NF.WEB-DL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lSDukCzfkXXaq-8ctI6VDLLUP3Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/suwon-victor-korea-open-2025-qualifiers-r32-court-2-2f7bcc.jpg" group-title="Vidio - UP COMING", SUWON VICTOR Korea Open 2025 - Qualifiers + R32 (Court 2) (08:00 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=18250&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18250&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | KARMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg",KARMA EPS4
-https://vod1.suwalbolong.workers.dev/0:/2025/series/karma/ Karma.S01E04.x265.720p.NF.WEB-DL.mkv
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | KARMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg", KARMA EPS5
-https://vod1.suwalbolong.workers.dev/0:/2025/series/karma/ Karma.S01E05.x265.720p.NF.WEB-DL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/eDrd8YZAwJlQQaH_-WU01YGuQuM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/suwon-victor-korea-open-2025-qualifiers-r32-court-3-5a66f4.jpg" group-title="Vidio - UP COMING", SUWON VICTOR Korea Open 2025 - Qualifiers + R32 (Court 3) (08:10 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=18252&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18252&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | KARMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg", KARMA EPS6
-https://vod1.suwalbolong.workers.dev/0:/2025/series/karma/ Karma.S01E06.x265.720p.NF.WEB-DL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xWb_jtNwq4fQxdC3z__jKyi1KDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591195/f0b9db.jpg" group-title="Vidio - UP COMING", ATP 500: Kinoshita Group Japan Open Tennis Championships 2025 - Day 1 (09:00 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQK3G4LTIHMJAfMmdKSQYkKN6dfzx2dgSv0hw\u0026s", 1KAKAK 7 PONAKAN
-https://vod1.suwalbolong.workers.dev/0:/1.Kakak.7.Ponakan.2025.1080p.NF.WEB-DL.DDP5.1.H.264-SEIKEL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/36M9BDsJh9WT6cMHQXi7SrKAkXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4593603/883f66.jpg" group-title="Vidio - UP COMING", Putra: Ganevo Yogya vs Pasundan - Livoli Divisi Utama (13:00 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95537d074a64790178bea4d503795564:c8cc979d73766019afb867633c2d8929
+https://newfamilytv.my.id/vidaspal/vid.mpd?id=19488&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTbJAeMQbONGR-qNSMHEHF4hgNzQWQioMKHCQ\u0026s", KOMANG
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Komang.2025.1080p.NF.WEB-DL.DDP5.1.H.264-SEIKEL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/--oqSlcmfh2uRWbexpNVDJTnO6Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4587125/1a1f99.jpg" group-title="Vidio - UP COMING", Germany Premier Padel P2 2025 - Day 3 (15:00 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6299&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4MDg0NTItOTI3MS00ZDdlLTkyNmEtN2JjMzliZGU2ZmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", A BUSSINES PROPOSAL
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/A.Business.Proposal.2025.1080p.NF.WEB-DL.AAC5.1.AV1-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Nj11gWOKyC_htyPYs6dlAZ4giuM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4593604/5f81dd.jpg" group-title="Vidio - UP COMING", Putra: Ganeksa Bhumikarta vs TNI AU Electric - Livoli Divisi Utama (16:00 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95537d074a64790178bea4d503795564:c8cc979d73766019afb867633c2d8929
+https://newfamilytv.my.id/vidaspal/vid.mpd?id=19488&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTrpZ2Ce04MAvygbcgBCz95TQxL6UHr9r2MuA\u0026s", A.Normal.Women
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/A.Normal.Woman.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-SEIKEL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GYpFAHWk2dXLkjmOxqOOW13fVsY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4593637/a629bc.jpg" group-title="Vidio - UP COMING", Putra: Indomaret vs Samator - Livoli Divisi Utama (19:00 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95537d074a64790178bea4d503795564:c8cc979d73766019afb867633c2d8929
+https://newfamilytv.my.id/vidaspal/vid.mpd?id=19488&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlYzAwNjYtYmUxMS00ZWE1LWI4NzYtOTkzN2RkMTBkNzJiXkEyXkFqcGc@._V1_.jpg", Almarhum
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Almarhum.2025.1080p.NF.WEB-DL.AAC2.0.H265-Lucasan.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YoZzQB7moHU1RHGgPZKN7pVBpqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4587126/ed7d01.jpg" group-title="Vidio - UP COMING", Germany Premier Padel P2 2025 - Day 3 (22:00 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6299&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyYjVhN2ItYTIyMC00NzQ3LTkyMjktYThlYTZmZTdmMjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Ambyar mak
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Ambyar.Mak.Byar.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/MB6X-jeZyH72_N44eIJptRM8WXQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591197/f288fb.jpg" group-title="Vidio - UP COMING", Midtjylland vs SK Sturm Graz - UEFA Europa League (23:45 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6299&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2ZDM1ZTEtNjcwNi00Njc5LWIzNDktMTVkNTlkMDViZGI4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg", haunting of mount gede
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Haunting.of.Mount.Gede.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/eDvyM-Odnia2qC1ycBDcLbZtJMY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591196/922fe6.jpg" group-title="Vidio - UP COMING", PAOK vs M. Tel-Aviv - UEFA Europa League (23:45 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdjZDA5OTctMGYyNC00YjU0LWFlZDctNWM4MmI2NWZmMDU0XkEyXkFqcGc@._V1_.jpg", keajaiban air mata wanita
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Keajaiban.Air.Mata.Wanita.2025.1080p.NF.WEB-DL.DDP5.1.AV1-PTH.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8Ta6vphObDZi7L-ILYeqhuawevg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592583/75a740.jpg" group-title="Vidio - UP COMING", Getafe vs Alaves - LaLiga (23:50 WIB * 24-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17323&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17323&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMxNjA4NzItYjNjZS00NWI2LTk1OGYtYTU5OTEzZjVlNjk0XkEyXkFqcGc@._V1_.jpg", Lilim
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Lilim.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fXi8VXezEvQV4Df600WXePMNjgE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4590186/7a55e9.jpg" group-title="Vidio - UP COMING", AZ Alkmaar vs PEC Zwolle - Eredivisie (00:50 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19436&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19436&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ5OTEwYjMtMDMyNC00MmJlLWI3MzQtODBlNzM0NTE0OWM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Love.Therapy
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Love.Therapy.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-JasDon.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WTivzNk7B5jZvsK4btrldJrMp3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591200/3ed8d2.jpg" group-title="Vidio - UP COMING", Nice vs Roma - UEFA Europa League (01:30 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19603&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19603&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTDAD5E1iUlfVZ6A9nIWvPa4EpqhIpWuld53g\u0026s", Melukis.Harapan.Di.Langit.India
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Melukis.Harapan.Di.Langit.India.2024.1080p.NF.WEB-DL.DDP5.1.H.264-MKS.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/1eByNFi2z0_ydLdf4vf-_PR0qoI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591201/9b3738.jpg" group-title="Vidio - UP COMING", Real Betis vs Nottingham Forest - UEFA Europa League (01:55 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6299&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGRmYjNlNjMtMzIxOS00ZDY2LTk5NjAtZTQ2MGZlNWJjZDViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", monster island
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Monster.Island.2024.1080p.NF.WEB-DL.DDP5.1.H.264-EQRTZ.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/r02nGwDJuM1pLiJdebN3-spFClc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4590796/cbd58c.jpg" group-title="Vidio - UP COMING", Braga vs Feyenoord - UEFA Europa League (02:00 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19599&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19599&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BODRiODQ5OGMtZTk4Yy00YjVhLWJjZjktYjZjZDE1YzUzNmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", made in bali
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/NGEFILM21.PW.Made.in.Bali.2025.WEB-DL.1080p.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5GIDCbZ6y3reZgryidSgwgSGWpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591203/103de5.jpg" group-title="Vidio - UP COMING", SC Freiburg vs Basel - UEFA Europa League (02:00 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17875&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LkS3zgaMmKjdtW_np8RCWFdA5iE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591194/b33483.jpg" group-title="Vidio - UP COMING", Malmo vs Ludogorets - UEFA Europa League (02:00 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19602&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19602&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJmYmMxNTYtNjJiMC00NDQwLThhYjktNWIyYWYxY2FmM2VmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", perayaan mati rasa
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/NGEFILM21.PW.Perayaan.Mati.Rasa.2024.WEB-DL.1080p.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/m5wWT8zkLhJN847SOPDLdADCKt8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591192/fdcbe7.jpg" group-title="Vidio - UP COMING", Dinamo Zagreb vs Fenerbahce - UEFA Europa League (02:00 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19601&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19601&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQwMjQ3YzQtZDAxMi00YjBiLTlkYjktMTUzYWYwNDI0NzMwXkEyXkFqcGc@._V1_.jpg", pintu pintu surga
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/NGEFILM21.PW.Pintu-Pintu.Surga.2024.WEB-DL.1080p.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OMZvkcSoP--SZ-sDoZDqIX6aBmg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4590798/024c70.jpg" group-title="Vidio - UP COMING", Crvena Zvezda vs Celtic - UEFA Europa League (02:00 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19600&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19600&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmYwMWRjMGYtM2M2Yy00YjQ2LWI4YmMtOTI0N2I5NGYyNjE5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg", pulung gantung
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/NGEFILM21.PW.Pulung.Gantung.2024.WEB-DL.1080p.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nS2mWZVFcsYQ2-ySQw9vfkxUSIM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592585/fd97cd.jpg" group-title="Vidio - UP COMING", Real Sociedad vs Mallorca - LaLiga (02:20 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17321&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17321&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM5OGVjYjQtMzBiMS00ZDI5LWFjYTItMjZhYmQxOTIyZjA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", vina sebelum 7 hari
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/NGEFILM21.PW.Vina.Sebelum.7.Hari.2024.WEB-DL.1080p.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vmjObFP4k618q_dPPFl4h6mtHOQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592584/8abc97.jpg" group-title="Vidio - UP COMING", Atletico Madrid vs Rayo Vallecano - LaLiga (02:20 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17324&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17324&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSOpLW8oh9wZA_PF0hAiNkH0tugEwK-t-LIMg\u0026s", norma antara mertua dan menantu
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Norma.Antara.Mertua.dan.Menantu.2025.1080p.NF.WEB-DL.AAC2.0.AV1-SEIKEL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yEbHPCKLXBEP8NOgaqb4pO8u4v0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591204/77eeaf.jpg" group-title="Vidio - UP COMING", ATP 500: Kinoshita Group Japan Open Tennis Championships 2025 - Day 2 (09:00 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTr8wLAglRAUZvYXeAqHmMaZvvQEvky925sIA\u0026s", pabrik gula
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pabrik.Gula.2025.1080p.NF.WEB-DL.DDP5.1.H.264-SEIKEL.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FaJlBW-0YCo0iLqMpuXv3BCCEY4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591205/b5803c.jpg" group-title="Vidio - UP COMING", Go Ahead Eagles vs FCSB - UEFA Europa League (23:45 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhkZWRmYzQtMmJiNC00MDE3LTk0ZTMtNWZkNDY1NTdiODI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", pengantin setan
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pengantin.Setan.2025.1080p.NF.WEB-DL.AAC2.0.AV1-LvB.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hO-1rOWxWV0T9Fo2qn22y4Vz2yo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592603/ae8259.jpg" group-title="Vidio - UP COMING", LOSC vs Brann - UEFA Europa League (23:45 WIB * 25-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6299&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjAwZGIzMmYtYWFkZS00NjJlLTg2NGYtNTA3MDJjYTI5OWRkXkEyXkFqcGc@._V1_.jpg", promise hearts
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Promised.Hearts.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/SgIUS3KXAMtCMiffpUiKzhfScHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592586/ae4af1.jpg" group-title="Vidio - UP COMING", Osasuna vs Elche - LaLiga (00:20 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17323&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17323&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://assets.pikiran-rakyat.com/crop/4x0:799x903/720x0/webp/photo/2025/06/03/1563236813.jpg", ruang rahasia ibu
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Ruang.Rahasia.Ibu.2025.1080p.KF.WEB-DL.AAC2.0.H.264-JasDon.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/z9nNuFuf_eWJSn_OUp6j8PM_WeE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592587/1f838a.jpg" group-title="Vidio - UP COMING", Oviedo vs Barcelona - LaLiga (02:30 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIwN2M5NjQtYmU5MS00MjBhLWE2YTctOGY4NTQxMGEyOTM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", rumah teteh story of helena
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Rumah.Teteh.Story.of.Helena.2025.1080p.WEB-DL.DDP5.1.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FBSr_le1aXd1aVSzGlCVxZddLlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589882/1cd9fc.jpg" group-title="Vidio - UP COMING", Moto3 Free Practice 1: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (06:55 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZhMDA0NzQtNDY1Ny00ZjQzLWJiM2QtZWZjNTQyMjQ2ZDg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", sleep paralys
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/Sleep.Paralysis.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/n0LKqy5oPo7GSHj1BMkOAAswMkU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589883/0c15ae.jpg" group-title="Vidio - UP COMING", Moto2 Free Practice 1: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (07:50 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM1NDk2M2YtOTY0My00MGY4LWEwOGMtMmYzMTgyNjNiMjY2XkEyXkFqcGc@._V1_.jpg", the butterly house
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/The.Butterfly.House.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/H1p1ZSfpdsnAUb6TjKuvaOp_ZoQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589884/e77525.jpg" group-title="Vidio - UP COMING", MotoGP Free Practice 1: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (08:35 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ4MGIwZTAtN2Q3OS00YjI3LTlkZTMtNjIxYWZiN2ZkYmEwXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg", the demons bride
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/The.Demons.Bride.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3edcN_e0mMKRlNUzYdfYrPI9_5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591207/bdac56.jpg" group-title="Vidio - UP COMING", ATP 500: Kinoshita Group Japan Open Tennis Championships 2025 - Day 3 (09:00 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU3ZjJiN2UtYTQ2ZC00NjE0LWJmMmQtY2NhYWVhZTZmZTY5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg", the last 7 day
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/The.Last.7.Days.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/oZO9flG0wINl-ErP2BdahXIx-b4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591206/082602.jpg" group-title="Vidio - UP COMING", ATP 500: China Open 2025 - Day 2 (10:00 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17875&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=dash
 
-#EXTINF:-1 type="CHANNEL | VOD" group-title="📁NETFLIX | FILM INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU2YjFmMDItZWUyYi00ZjA5LTg5NTMtMTQzZGMyMDFhMGE3XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg", the secret recipe
-https://vod1.suwalbolong.workers.dev/0:/2025/indo/The.Secret.Recipe.2025.1080p.NF.WEB-DL.AAC2.0.H.264-KQRM.mkv
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/t8qkR3E5NgV--utbriuKo-MdnY0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589885/6f3cc3.jpg" group-title="Vidio - UP COMING", Moto3 Practice: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (11:10 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iDRU09E6Idd8Usn4w-pqg538H3Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589886/3624bd.jpg" group-title="Vidio - UP COMING", Moto2 Practice: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (12:05 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FXk7YztDdXxCZEVyIJ4gVbjCi54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589887/6ab68d.jpg" group-title="Vidio - UP COMING", MotoGP Practice: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (12:50 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/s_qS1NUTi3CvXlC5_y8Z-06GWR0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589888/7d74f8.jpg" group-title="Vidio - UP COMING", WorldSBK Free Practice 1 - WorldSBK Championship Round 9 Tissot Aragon Round (15:30 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rLR6DJOLPjw5C1zZPrsvIlonjBA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4591208/63cffb.jpg" group-title="Vidio - UP COMING", ATP 500: China Open 2025 - Day 2 (18:00 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17875&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iJENtrqDO3Hk1D24Miy23mzDhlo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589889/ba6f78.jpg" group-title="Vidio - UP COMING", WorldSSP300 Superpole - WorldSBK Championship Round 9 Tissot Aragon Round (18:50 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FRLfOotbeqOWVmAfYGwYhd-lFgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589890/0546ef.jpg" group-title="Vidio - UP COMING", WorldSBK Free Practice 2 - WorldSBK Championship Round 9 Tissot Aragon Round (19:40 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XdZfZ59lHBdGPkNSZ9z5o0mu3os=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589891/f4ec86.jpg" group-title="Vidio - UP COMING", WorldSSP Superpole - WorldSBK Championship Round 9 Tissot Aragon Round (20:40 WIB * 26-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4gNLPlNlznjR1YTXVV5aLlYIUWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589892/0519c5.jpg" group-title="Vidio - UP COMING", Twente vs Fortuna Sittard - Eredivisie (01:00 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6685&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6685&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Sgh66i82BRPqnu9K2HEnfY57wCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589893/0b6b55.jpg" group-title="Vidio - UP COMING", Benfica vs Gil Vicente - Liga Portugal (02:15 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6686&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6686&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/25Rjgt3qjSGjuAJE9vm9NMlbZOk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589894/2cb2e2.jpg" group-title="Vidio - UP COMING", Moto3 Free Practice 2: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (06:35 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/j_jQov1thmPhrQUlDG-8Q4mPkfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589895/df195c.jpg" group-title="Vidio - UP COMING", Moto2 Free Practice 2: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (07:20 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/A3vPIGz5SBGOQRzxGOF_LjyRnQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589897/3752f6.jpg" group-title="Vidio - UP COMING", MotoGP Free Practice 2: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (08:00 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aqRjFQz9M3uB7SjrVXSzK5mBmyU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589898/bfd74a.jpg" group-title="Vidio - UP COMING", MotoGP Qualifying: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (08:40 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vKIAoTtl9r7SH6B6yAWqSJt3pao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592588/8f7777.jpg" group-title="Vidio - UP COMING", ATP 500: Kinoshita Group Japan Open Tennis Championships 2025 - Day 4 (09:00 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hpSP-Eg8sHkpFdVQUw8M7Yz5A8E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592589/344af0.jpg" group-title="Vidio - UP COMING", ATP 500: China Open 2025 - Day 3 (10:00 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17875&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/NG3c0LDLU4V6CrOpI5EYb_YIk8Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589899/ba3d3c.jpg" group-title="Vidio - UP COMING", Moto3 Qualifying: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (10:45 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/HEnVoHQM7edlIf10fLLIYPWoIE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589900/67f71e.jpg" group-title="Vidio - UP COMING", Moto2 Qualifying: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (12:10 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hcz7zwRzMHbPw7NgDSBWEERVxnM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589901/631106.jpg" group-title="Vidio - UP COMING", MotoGP Tissot SPRINT: MotoGP 2025 Round 17 - Motul Grand Prix of Japan (13:25 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RWEwnCDV4u2C9kcnbWy3_R8qT2k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589903/5f6d00.jpg" group-title="Vidio - UP COMING", WorldSBK Free Practice 3 - WorldSBK Championship Round 9 Tissot Aragon Round (13:55 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/d4SWl10w8KIW6nnDhIru_n5TJj0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589904/ed9858.jpg" group-title="Vidio - UP COMING", WorldSBK Tissot Superpole - WorldSBK Championship Round 9 Tissot Aragon Round (15:50 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/UfFOa1uLsLSaEXJmGCmtio8nUZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589905/8396e0.jpg" group-title="Vidio - UP COMING", WorldSSP300 Race 1 - WorldSBK Championship Round 9 Tissot Aragon Round (17:20 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/EWcJzTxUjyGGD9U9pnxrP3GRHfc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589906/98d036.jpg" group-title="Vidio - UP COMING", WorldSBK Race 1 - WorldSBK Championship Round 9 Tissot Aragon Round (18:20 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mdAU5aq5lygPKGDN3ypeFcjl6qU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4592590/f725ac.jpg" group-title="Vidio - UP COMING", ATP 500: China Open 2025 - Day 3 (19:30 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17875&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XFEM7dF-KEVeojyIJvsuyLBQEn8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589907/285d79.jpg" group-title="Vidio - UP COMING", WorldSSP Race 1 - WorldSBK Championship Round 9 Tissot Aragon Round (19:45 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DbTbW9-chsXD94WltH6VYQtnegc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589910/bc1b0a.jpg" group-title="Vidio - UP COMING", Germany Premier Padel P2 2025 - Semifinal (23:00 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_8kNEVHMzPz-SqQwleyF0CbzIjw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4589908/0e09a9.jpg" group-title="Vidio - UP COMING", Ajax vs NAC Breda - Eredivisie (23:45 WIB * 27-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=6685&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6685&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mmSdywwno3WIQubzrRSlc_np5FM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19572/pasti-fight-x-hss-tvod-a07f69.jpg" group-title="Vidio - UP COMING", Pasti Fight x HSS (17:00 WIB * 28-09-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.php?id=19572&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19572&type=dash
 
 
 
