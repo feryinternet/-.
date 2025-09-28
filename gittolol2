@@ -1,6 +1,5 @@
 #EXTM3U
 
-# ====== START NEXTGENZ ======
 #EXTINF:-1 group-title="a🔴 LIVE NOW" tvg-logo="https://thumbor.prod.vidiocdn.com/fknzwXKCxTAsBtAImt4j-2thExA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4599305/46f710.jpg", Live James Aiba Mokoginta vs Mang Auk & El - Fun Boxing | Pasti Fight x HSS
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -17103,3 +17102,4 @@ https://ca01.utako.moe/tabi/index.m3u8
 https://youtube.com/@lga775iptv
 "https://raw.githubusercontent.com/feryinternet/feryinternet/main/liveevent.png"
 # ===== Update 2025-09-10 17:00:08 =====
+
