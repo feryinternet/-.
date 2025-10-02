@@ -3264,3 +3264,57 @@ https://gooo.blog/opix/genx.m3u8?id=tv5monde&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUz
 #EXTINF:-1 tvg-id="Lokal" group-logo="https://gooo.blog/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/cgtn.png" group-title="OXYGEN",Cgtn
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://gooo.blog/opix/genx.m3u8?id=cgtn&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTkzODA3MDMsImV4cCI6MTc1OTQyMzkwMywiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTc4LjMuMTQ1In19.4U_Xdwnxn3DDRYm8KSW3MyXja5V2jfIqIQUvD6eOYeI
+
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/indosiar.png" group-title="LOKAL DIGITAL", INDOSIAR FHD 2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=50&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6IjlmZmM5NTBhNzM0YzFlNmViMDRjMGMzMDIxOWI4NTU2In0.vOdmXdw-o7xejg3v9YZfqRNjXllkh_kZ_L_6mmMlxxs
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/sctv.png" group-title="LOKAL DIGITAL", SCTV FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=51&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6ImJmYjBlMjhmOTdkZDA4MTc2MGZhY2Y1OTUzODllZjk3In0.7jU3ekYAdUQS4KeaicyKNxrgJbgC_4vpxrbp1kuqwbs
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/moji.png" group-title="LOKAL DIGITAL", MOJI FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=52&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6ImZiYTYzNjI2NzE2ZTMzY2QzYjJjOTljMWMxYzZkYTFlIn0.ZHRPwRzhLKj9PRXVYtZqMW9cXHBKoip8iXJ2pULNU04
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/1.png" group-title="LOKAL DIGITAL", RCTI FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=53&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6Ijg3MzYyZGY4YWMxODhiM2QyOTJjYmZkZDAwODVkODk0In0.8BoyjbS3iBI9jeGeA3CPNN3KR2pGM_7yZr0i8V8PYww
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/2.png" group-title="LOKAL DIGITAL", MNCTV FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=54&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6ImQ4ODM3OTI2ZmM5MmM3OTM1ZDg2NTVkYWRlMzYyNzEzIn0.lEIYfGxC89H3vaqP4LWJBfZ6aHrmw37AmrR1OFU1czI
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/3.png" group-title="LOKAL DIGITAL", GTV FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=55&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6ImM5OWIzMjM3MjNiZTAzMDRjMzgzNDNiNWVkMmJiM2MwIn0.wASKx6U84GB6euigIXYiIRGt5b5rFtLcEKS5TccehcA
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/6.png" group-title="LOKAL DIGITAL", TRANS TV FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=56&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6IjI3MjY1YTg2MTNlZGM5NWI1M2FjOTgxYmIxOTZlYjIwIn0.5yfdMbuSOFUbS0dI822CZOh8IqDAvjF2bsM3MiamEmQ
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/7.png" group-title="LOKAL DIGITAL", TRANS7 FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=57&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6IjA0MzdiYzIwMjNmMmEwMjZmNjhhZmRjNjBmZTIzOWJlIn0.Cb_I1_eXqltcbiIbU0EFDXwvBvUoRu3iNCjsS46aAoo
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/23.png" group-title="LOKAL DIGITAL", MDTV FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=58&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6IjIwODViZjU1OGZiNTk0OWYzYWZlMzIyYjkxYjAwYzA3In0.-ESQsns9YQcGfjFxdbogXpdCiCfIF41qnPgs3sdqF2U
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/10.png" group-title="LOKAL DIGITAL", ANTV FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=59&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6IjY2N2I2ODU0MDg0MjU2MzliZjVmNTBhMDljNjUyNjhjIn0.s0B2w-IqQtwxDLdsZkguij4u-Q6cXJkPCndd6pPBgV8
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/4.png" group-title="LOKAL DIGITAL", INEWS TV FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=60&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6IjRlNjQ4OGQzZjNlMzI5YmJkYTk5NTA2ODEzMDNiNWJjIn0.xR6gSrdbe8oeq2S74RGOsGw9U5yiNRtzrxCSU1gGgl0
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/16.png" group-title="LOKAL DIGITAL", TVRI SPORTS2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=65&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6ImQ2ZjAzMWNjZjE4ZGIwNzNiZWY4MmU3YTkxYWUxN2E3In0.ETK9kGTUeAAiyF3uovvPKJiZjzJiBcXjb0J_FddY8Wc
+
+#EXTINF:-1 group-logo="https://gooo.blog/lokal.png"  tvg-logo="https://pic.xxxxxxx.my.id/16.png" group-title="LOKAL DIGITAL", TVRI FHD2
+LOKAL DIGITAL
+https://beww.pl/utu/idihs.ts?id=66&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk0MDgwOTEsImV4cCI6MTc1OTQ1MTI5MSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxMDMuMTQyLjIxLjEzMCIsInRpbWVzdGFtcCI6MTc1OTQwODA5MX0sInJhbmRvbSI6IjAxYzA2NDc2MjA1M2JiZDkzMTdlNmVhYWIzYjg4NmI4In0.QlcsDUCkAmqP-fCZj7ADPxhuYDhC-RgAKhvzM5uCrQA
+
