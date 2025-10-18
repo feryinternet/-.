@@ -1,39 +1,40 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ðŸ“ Liga Dagelan" tvg-logo="https://thumbor.prod.vidiocdn.com/uUL3zV1L02FL0ItfzhhCWB4yBO0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4651619/9808fc.jpg" ch-number="1", PSBS Biak vs PERSIB - BRI Super League
-https://archertv.my.id/event/index.m3u8?id=19354&type=hls|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=205&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ðŸ“ Liga Dagelan Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DhOElxFJuStrY4aY3G0YF-tal2A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4652392/d1c188.jpg" ch-number="2", Borneo FC Samarinda vs PERSIK Kediri - BRI Super League
-https://archertv.my.id/event/index.mpd?id=205&type=dash|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19355&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ðŸ“ Liga Dagelan Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7RLilRweZ0uMLhB1LYP071jWilU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4652410/149180.jpg" ch-number="3", Jelang Kick Off - PERSEBAYA Surabaya vs PSM Makassar - BRI Super League
-https://archertv.my.id/event/index.mpd?id=19355&type=dash|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ðŸ“ Liga Dagelan Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UlH2iNKceoBqVwSs-JB_lCR0MH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4652393/47aa58.jpg" ch-number="4", PERSEBAYA Surabaya vs PERSIJA - BRI Super League
-https://archertv.my.id/event/index.m3u8?id=19354&type=hls|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ðŸ“ Liga Dagelan Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hds2IeoPpXu7XPeIuSeOjidEejo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4653438/801785.jpg" ch-number="5", PSM Makassar vs Arema FC - BRI Super League
-https://archertv.my.id/event/index.m3u8?id=19354&type=hls|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ðŸ“ Liga Dagelan Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VyAgp7KpHYHaaHijGDvdbId4-lU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4652394/68f8d4.jpg" ch-number="6", PERSIJAP vs Bali United FC - BRI Super League
-https://archertv.my.id/event/index.m3u8?id=19354&type=hls|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=205&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ðŸ“ Liga Dagelan Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/926hPTmr5FmT_R0NtHT4MucdcdY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4655731/87ef55.jpg" ch-number="7", Semen Padang FC vs Bhayangkara Presisi Lampung FC - BRI Super League
-https://archertv.my.id/event/index.mpd?id=205&type=dash|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=205&type=drm
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ðŸ“ Liga Dagelan Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cWKooy0J4RcoUHK060BNvDlfSMM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4655732/7978a1.jpg" ch-number="8", PERSIS vs Malut United FC - BRI Super League
-https://archertv.my.id/event/index.mpd?id=205&type=dash|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE INFO HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE INFO👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741630
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 1 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 1👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741631
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 2 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 2👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741632
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 3 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 3👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741633
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 4 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 4👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741634
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 5 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 5👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741635
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 6 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 6👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741636
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 7 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 7👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741637
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 8 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 8👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741638
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 9 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 9👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741639
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎PRIME VIDEO SERIE 10 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 10👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/741640
+#EXTINF:-1 tvg-ID="" tvg-name="DE ▎PRIME VIDEO SERIE INFO HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE INFO👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/1484080
+#EXTINF:-1 tvg-ID="" tvg-name="DE ▎PRIME VIDEO SERIE 1 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 1👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/1484081
+#EXTINF:-1 tvg-ID="" tvg-name="DE ▎PRIME VIDEO SERIE 2 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 2👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/1484082
+#EXTINF:-1 tvg-ID="" tvg-name="DE ▎PRIME VIDEO SERIE 3 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 3👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/1484083
+#EXTINF:-1 tvg-ID="" tvg-name="DE ▎PRIME VIDEO SERIE 4 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 4👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/1484084
+#EXTINF:-1 tvg-ID="" tvg-name="DE ▎PRIME VIDEO SERIE 5 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 5👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/1484085
+#EXTINF:-1 tvg-ID="" tvg-name="DE ▎PRIME VIDEO SERIE 6 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 6👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/1484086
+#EXTINF:-1 tvg-ID="" tvg-name="DE ▎PRIME VIDEO SERIE 7 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 7👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/1484087
+#EXTINF:-1 tvg-ID="" tvg-name="DE ▎PRIME VIDEO SERIE 8 HD" tvg-logo="https://img.logo-cdn.cc/primevideo.png" group-title="👾YANSHDROID PRIMEVIDEOTV-Q-$14👾",👾▎PRIME VIDEO SERIE 8👾FHD👾
+http://my.bianet.es.vip.hk:80///dDs/1484088
