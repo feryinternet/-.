@@ -1,5 +1,5 @@
 #EXTM3U
-
+dj
 #EXTINF:-1 group-logo="https://balatack.my.id/Logobalatacktv.png"tvg-id="Test" tvg-name="Test" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="CHANNEL | VIDIO" ,SCTV
 CHANNEL | VIDIO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -248,4 +248,5 @@ CHANNEL | VIDIO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=drm
 https://balatack.my.id/Balatacktv/ck.php?url=https%3A%2F%2Fsweet-night-1d1d.worst.workers.dev%2Fplay.mpd%3Fid%3D6317%26type%3Ddash&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczpcL1wvc3dlZXQtbmlnaHQtMWQxZC53b3JzdC53b3JrZXJzLmRldlwvcGxheS5tcGQ_aWQ9NjMxNyZ0eXBlPWRhc2giLCJleHAiOjE3NjEzNTc4ODgsImRldmljZSI6Ik9UVDEyMzQ1IiwidXNlciI6ImFsaWNlIn0.8ma7EYDBIz0yTv6Y83M5iGB5rEVEe4cEqYUPnXyac1o
+
 
