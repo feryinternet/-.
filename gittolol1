@@ -2,10 +2,10 @@
 
 #EXTINF:-1 group-title="Italy: Serie-A [CH1]" tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg?s=612x612&w=0&k=20&c=TGrPRaS2Zx5TIBXz6mO4mg_fyJxqDxKsKhHPlEs-6jY=", 02 Nov 18:30 WIB - Hellas Verona vs Inter Milan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eZXHJKE3SO2XCECoq1u5sw:Z72vHiF1uf9oL83w4jVLHg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 https://a201aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-
-tololll git babi
 
 
 
