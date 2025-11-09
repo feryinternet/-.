@@ -1,7 +1,8 @@
 #EXTINF:-1 group-title="CHANNEL | VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/7chJIHmXZKn6pLd4kHzMH44577M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png", Champions TV 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm&token=gVur5rvUYAdMl9XA38Ppi1OXEoEuSPIU
 https://spacetv.my.id/index.m3u8?id=19354&type=hls&token=gVur5rvUYAdMl9XA38Ppi1OXEoEuSPIU
+
