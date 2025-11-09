@@ -4,5 +4,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm&token=gVur5rvUYAdMl9XA38Ppi1OXEoEuSPIU
-https://spacetv.my.id/index.m3u8?id=19354&type=hls&token=gVur5rvUYAdMl9XA38Ppi1OXEoEuSPIU
+https://archertv.my.id/event/index.mpd?id=19354&type=hls&token=gVur5rvUYAdMl9XA38Ppi1OXEoEuSPIU
+
 
