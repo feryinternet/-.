@@ -1,1 +1,7 @@
-WAKWAAAWW
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nN1kG_TzqEKdrFXmy35pZ0vN9ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733802/f3f6a7.jpg" group-title="Vidio - LIVE NOW", Putra: SMANUM Bimaloka vs JVC Bank Jakarta - Kejurnas Bola Voli Antarklub U-19 (19:01 WIB * 25-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19956&type=drm
+http://pididi.x10.mx/pidio/index.m3u8?id=19956&type=hls
