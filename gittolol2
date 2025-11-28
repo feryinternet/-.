@@ -1,44 +1,45 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=6317&type=drm
+https://best.flyiniptv.workers.dev/index.mpd?id=6317&type=dash
 
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/qAC7OGb_JYDbEZjLIRXDDD9XIzE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg",SPOTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=17139&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=17139&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=17139&type=drm
+https://best.flyiniptv.workers.dev/index.mpd?id=17139&type=dash
  
 #EXTINF:-1 tvg-id="SPOTV2.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/hFJvgK8aSQDqHuBAfF0ZnD7vlq0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=17140&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=17140&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=17140&type=drm
+https://best.flyiniptv.workers.dev/index.mpd?id=17140&type=dash
 
 #EXTINF:-1 tvg-id="NBATV.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/JjBvaK3Bf9MIDevMg6HvbmcZ6pQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6717&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=6717&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=6717&type=drm
+https://best.flyiniptv.workers.dev/index.mpd?id=6717&type=dash
 
 #EXTINF:-1 group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/Sz_PjKVU4WYuOsnRY7LJ7O2ALAQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-c968f8.jpg",Champions Golf 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18189&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=18189&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=18189&type=drm
+https://best.flyiniptv.workers.dev/index.mpd?id=18189&type=dash
 
 #EXTINF:-1 group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/qHN94dnAkiVkYK5AtnEEna_Z_M4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-5c9462.jpg",Champions Golf 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18190&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=18190&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=18190&type=drm
+https://best.flyiniptv.workers.dev/index.mpd?id=18190&type=dash
+
