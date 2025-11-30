@@ -1,45 +1,169 @@
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" tvg-id="Premier League" tvg-logo="https://thumbor.prod.vidiocdn.com/mRPZMC2zwT68k6JII0b2tZZHy6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-8d1830.jpg" group-title="CHANNEL | SPORT CHAMPIONS TV",SERIE-A Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=6317&type=drm
-https://best.flyiniptv.workers.dev/index.mpd?id=6317&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=19404&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=19404&type=dash
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" tvg-id="Champions Golf 1" tvg-logo="https://thumbor.prod.vidiocdn.com/Sz_PjKVU4WYuOsnRY7LJ7O2ALAQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-c968f8.jpg" group-title="CHANNEL | SPORT CHAMPIONS TV",Champions Golf 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=18189&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=18189&type=dash
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/refs/heads/main/zon.jpg" tvg-id="Champions Golf 2" tvg-logo="https://thumbor.prod.vidiocdn.com/qHN94dnAkiVkYK5AtnEEna_Z_M4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-5c9462.jpg" group-title="CHANNEL | SPORT CHAMPIONS TV",Champions Golf 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=18190&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=18190&type=dash
+
+#EXTINF:-1 tvg-id="ChampionsTV1.id" group-title="CHANNEL | SPORT CHAMPIONS TV" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20250615_180354.png" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=17938&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=17938&type=dash
+
+
+#EXTINF:-1 tvg-id="ChampionsTVEPL.id" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20250615_180354.png" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/mRPZMC2zwT68k6JII0b2tZZHy6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-8d1830.jpg",Premier League TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=9353&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=9353&type=dash
+
+#EXTINF:-1 tvg-id="ChampionsTV5.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/rU_gPQKkA6dYjjd21qCpDMLecHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg",Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=9182&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="ChampionsTV6.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg",Champions TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=9183&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="ChampionsTV1.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=17938&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="ChampionsTV2.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/ppVgoSYgif_dG_03jAtlQdaRvnQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg",Champions TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=6686&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-id="ChampionsTV3.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg",Champions TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=6786&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-id="ChampionsTV1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/19K-0AmeYRK4twO-sybL7PzMzpY=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-cc1557.jpg", Champions TV 1 Serie-A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=17938&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="ChampionsTV2.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/19K-0AmeYRK4twO-sybL7PzMzpY=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-cc1557.jpg",Champions TV 2 Serie-A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=17939&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=17939&type=dash
+
+#EXTINF:-1 group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-id="ChampionsTV1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/19K-0AmeYRK4twO-sybL7PzMzpY=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-cc1557.jpg",Champions TV 3 Serie-A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=19404&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=19404&type=dash
+
+
+#EXTINF:-1 tvg-id="beINSports1.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",BEIN SPORTS 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=17884&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-id="beINSports2.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/sa-rHhMzWwhw1V1aF3t0htkXWwY=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg",BEIN SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=17875&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="beINSports3.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg",BEIN SPORTS 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=6317&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=6317&type=dash
 
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/qAC7OGb_JYDbEZjLIRXDDD9XIzE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg",SPOTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=17139&type=drm
-https://best.flyiniptv.workers.dev/index.mpd?id=17139&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=17139&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=17139&type=dash
  
 #EXTINF:-1 tvg-id="SPOTV2.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/hFJvgK8aSQDqHuBAfF0ZnD7vlq0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=17140&type=drm
-https://best.flyiniptv.workers.dev/index.mpd?id=17140&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=17140&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=17140&type=dash
 
 #EXTINF:-1 tvg-id="NBATV.id" group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/JjBvaK3Bf9MIDevMg6HvbmcZ6pQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=6717&type=drm
-https://best.flyiniptv.workers.dev/index.mpd?id=6717&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=6717&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=6717&type=dash
 
 #EXTINF:-1 group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/Sz_PjKVU4WYuOsnRY7LJ7O2ALAQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-c968f8.jpg",Champions Golf 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=18189&type=drm
-https://best.flyiniptv.workers.dev/index.mpd?id=18189&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=18189&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=18189&type=dash
 
 #EXTINF:-1 group-title="CHANNEL | SPORT CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/qHN94dnAkiVkYK5AtnEEna_Z_M4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-5c9462.jpg",Champions Golf 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://best.flyiniptv.workers.dev/index.php?id=18190&type=drm
-https://best.flyiniptv.workers.dev/index.mpd?id=18190&type=dash
-
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/pid/pidio/index.php?id=18190&type=drm
+https://colloriptvpro.my.id/pid/pidio/index.mpd?id=18190&type=dash
