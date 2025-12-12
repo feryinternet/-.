@@ -1,0 +1,7 @@
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wKjW3Vva1EcOyPAcu479b3f6d0M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4773315/8de9ee.jpg" group-title="Event-UPCOMING", Barcelona Finals Premier Padel 2025 - Quarter Final (Day 2) (DASH) ( 19.00 WIB * 12-12-2025 )
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lanang.biz.id/pidio/play.php?id=17875&type=drm
+http://lanang.biz.id/pidio/play.mpd?id=17875&type=dash
