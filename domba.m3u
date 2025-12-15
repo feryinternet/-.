@@ -1,7 +1,56 @@
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wKjW3Vva1EcOyPAcu479b3f6d0M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4773315/8de9ee.jpg" group-title="Event-UPCOMING", Barcelona Finals Premier Padel 2025 - Quarter Final (Day 2) (DASH) ( 19.00 WIB * 12-12-2025 )
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lanang.biz.id/pidio/play.php?id=17875&type=drm
-http://lanang.biz.id/pidio/play.mpd?id=17875&type=dash
+#EXTINF:-1 tvg-id=" TV 42.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL TRANS7
+http://tv.casindo.org/hls/42/42.m3u8
+
+#EXTINF:-1 tvg-id=" TV 43.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL TRANSTV
+http://tv.casindo.org/hls/43/43.m3u8
+
+#EXTINF:-1 tvg-id=" TV 44.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL MDTV
+http://tv.casindo.org/hls/44/44.m3u8
+
+#EXTINF:-1 tvg-id=" TV 45.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL ANTV
+http://tv.casindo.org/hls/45/45.m3u8
+
+#EXTINF:-1 tvg-id=" TV 46.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL TVONE
+http://tv.casindo.org/hls/46/46.m3u8
+
+#EXTINF:-1 tvg-id=" TV 47.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL VTV
+http://tv.casindo.org/hls/47/47.m3u8
+
+#EXTINF:-1 tvg-id=" TV 48.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL MENTARI TV
+http://tv.casindo.org/hls/48/48.m3u8
+
+#EXTINF:-1 tvg-id=" TV 49.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL TVRI SPORT
+http://tv.casindo.org/hls/49/49.m3u8
+
+#EXTINF:-1 tvg-id=" TV 50.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL MOJI
+http://tv.casindo.org/hls/50/50.m3u8
+
+#EXTINF:-1 tvg-id=" TV 51.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL RCTI
+http://tv.casindo.org/hls/51/51.m3u8
+
+#EXTINF:-1 tvg-id=" TV 52.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL iNEWS
+http://tv.casindo.org/hls/52/52.m3u8
+
+#EXTINF:-1 tvg-id=" TV 53.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL KOMPASTV
+http://tv.casindo.org/hls/53/53.m3u8
+
+#EXTINF:-1 tvg-id=" TV 54.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL MNC TV
+http://tv.casindo.org/hls/54/54.m3u8
+
+#EXTINF:-1 tvg-id=" TV 55.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL SCTV
+http://tv.casindo.org/hls/55/55.m3u8
+
+#EXTINF:-1 tvg-id=" TV 56.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL INDOSIAR
+http://tv.casindo.org/hls/56/56.m3u8
+
+#EXTINF:-1 tvg-id=" TV 57.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL GTV
+http://tv.casindo.org/hls/57/57.m3u8
+
+#EXTINF:-1 tvg-id=" TV 58.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL CNBC
+http://tv.casindo.org/hls/58/58.m3u8
+
+#EXTINF:-1 tvg-id=" TV 59.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL CNN
+http://tv.casindo.org/hls/59/59.m3u8
+
+#EXTINF:-1 tvg-id=" TV 60.id" tvg-logo="https://www.casindo.co.id/wp-content/uploads/2021/10/CAS-logo-1.png" group-title="CH CASINDO",DIGITAL CARTOONITO
+http://tv.casindo.org/hls/60/60.m3u8
