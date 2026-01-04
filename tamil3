@@ -1,1 +1,232 @@
-TOLOL BREEE
+================================= TAMIL ==================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+#EXTINF: -1 tvg-id="521" group-title="CHANNEL | TAMIL" tvg-logo="https://tatalogo.pages.dev/521.png", Sun TV HD
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+
+
+
+#EXTINF: -1 tvg-id="496" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="CHANNEL | TAMIL", Star Vijay overseas
+https://peaky.techcoder40.workers.dev/776.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+#EXTINF:-1 group-logo="" tvg-id="ts511" tvg-language="CHANNEL | TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11954-j9lu45o8-v1/imageContent-11954-j9lu45o8-m1.png" group-title="CHANNEL | TAMIL",Sun Music HD
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+#EXTINF:-1 tvg-id="380" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="CHANNEL | TAMIL", KTV HD
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/murasu-white.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="CHANNEL | TAMIL" , Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="439" tvg-chno="12" tvg-logo="https://tatalogo.pages.dev/439.png" group-title="CHANNEL | TAMIL", Raj TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+#EXTINF:-1 tvg-id="194391" tvg-language="CHANNEL | TAMIL" tvg-logo="https://sund-images.sunnxt.com/194391/640x360_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg" group-title="CHANNEL | TAMIL", Sun Life
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
+#EXTINF:-1 group-logo="" tvg-id="ts284" tvg-language="CHANNEL | TAMIL" tvg-logo="https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg" group-title="CHANNEL | TAMIL",Adithya TV
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+
+
+#EXTINF:-1 tvg-id="272" tvg-chno="21" tvg-logo="https://tatalogo.pages.dev/272.png" group-title="CHANNEL | TAMIL", Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+#EXTINF:-1 tvg-id="ts659" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="CHANNEL | TAMIL",Vendhar TV
+https://cdn-3.pishow.tv/live/1271/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="CHANNEL | TAMIL", Chithiram
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+
+#EXTINF:-1 tvg-id="843" tvg-name="Madhimugam TV" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="CHANNEL | TAMIL" group-logo="", Madhimugam TV
+https://cdn-3.pishow.tv/live/1476/master.m3u8
+#EXTINF:-1 tvg-id="2958" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0044256880499658982038945.png" group-title="CHANNEL | TAMIL", Tamilan Television
+https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="421" tvg-chno="24" tvg-logo="https://tatalogo.pages.dev/421.png" group-title="CHANNEL | TAMIL", Peppers TV
+https://cdn-2.pishow.tv/live/1383/master.m3u8
+
+#EXTINF:-1 tvg-id="ts968" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title="CHANNEL | TAMIL",News Tamil 24x7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
+#EXTINF:-1 tvg-id="702" tvg-chno="194" tvg-logo="https://tatalogo.pages.dev/702.png" group-title="CHANNEL | TAMIL", News J
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1279
+#EXTINF: -1 tvg-id="524" tvg-chno="195" tvg-logo="https://i.ibb.co/1000156342-photoaidcom-cropped.png" group-title="CHANNEL | TAMIL", Thanthi TV
+https://cdn-3.pishow.tv/live/1612/master.m3u8
+#EXTINF: -1 tvg-id="968" tvg-chno="198" tvg-logo="https://i.ibb.co/09X3DwC/1000156347-removebg-preview.jpg" group-title="CHANNEL | TAMIL", Win TV
+https://cdn-4.pishow.tv/live/1531/master.m3u8
+#EXTINF: -1 tvg-id="ZeeTamil.in" tvg-chno="197" tvg-logo="https://yt3.googleusercontent.com/GJVGgzRXxK1FDoUpC8ztBHPu81PMnhc8inodKtEckH-rykiYLzg93HUQIoTIirwORynozMkR=s900-c-k-c0x00ffffff-no-rj" group-title="CHANNEL | TAMIL", Zee Tamil News
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="392" tvg-chno="30" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="CHANNEL | TAMIL", Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="334" tvg-logo="https://i.ibb.co/rQNDBCy/dd.png" group-title="CHANNEL | TAMIL", DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF: -1 tvg-id="1518" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0159072608720790962587693.png" group-title="CHANNEL | TAMIL",Moon TV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
+
+
+
+#EXTINF: -1 tvg-id="971" tvg-chno="189" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0856271246595482699747248.png" group-title="CHANNEL | TAMIL", Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+#EXTINF: -1  tvg-name="Vikatan" group-title="CHANNEL | TAMIL" tvg-logo="https://i.ibb.co/F0HvxrQ/vikatan.png",Vikatan TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
+#EXTINF:-1 group-logo="" tvg-id="ts302" tvg-language="CHANNEL | TAMIL" tvg-logo="https://sund-images.sunnxt.com/194390/640x360_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg" group-title="CHANNEL | TAMIL",Chutti TV
+https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
+
+********************************************************************************************************************************************************************************************************************************************************************************************************
+
+
+#EXTINF:-1 tvg-id="521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="CHANNEL | TAMIL",Sun TV HD (HDR10)
+Tamil
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
+
+#EXTINF:-1 tvg-id="ts496" tvg-logo="https://tatalogo.pages.dev/496.png" tvg-name="Star Vijay HD" group-title="CHANNEL | TAMIL",Star Vijay HD
+Tamil
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel 4 Build/RD2A.211001.002)
+https://tv.vaanam24.com/live.m3u8?c=VIJAYTV
+
+#EXTINF:-1 tvg-id="ts608" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTamilHD_Thumbnail_15a9238e-a62c-4641-b564-f5946122eb1a.png" group-title="CHANNEL | TAMIL",Zee Tamil HD
+Tamil
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/598757.ts
+
+#EXTINF:-1 tvg-id="674" tvg-chno="" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="CHANNEL | TAMIL",Colors Tamil HD
+Tamil
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/5886.ts
+
+#EXTINF:-1 tvg-id="ts708" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="CHANNEL | TAMIL",Jaya TV HD
+Tamil
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277086.ts
+
+#EXTINF:-1 tvg-id="ts200" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="CHANNEL | TAMIL",Kalaignar TV
+Tamil
+https://edge2-moblive.yuppcdn.net:443/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
+
+#EXTINF:-1 tvg-id="ts647" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png" group-title="CHANNEL | TAMIL",Isaiaruvi
+Tamil
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts411" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png" group-title="CHANNEL | TAMIL",Murasu TV
+Tamil
+https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts426" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png" group-title="CHANNEL | TAMIL",Raj Digital Plus
+Tamil
+http://livestream.rajtv.tv/cluster1/Content/Channel/RajDigitalPlus/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="ts37" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png" group-title="CHANNEL | TAMIL",Mega TV
+Tamil
+http://iptvmedia.live:8080/F18115/068f009e/193209
+
+#EXTINF:-1 tvg-id="272" tvg-chno="21" tvg-logo="https://tatalogo.pages.dev/272.png" group-title="CHANNEL | TAMIL",Polimer TV
+Tamil
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+
+#EXTINF:-1 tvg-id="ts659" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="CHANNEL | TAMIL",Vendhar TV
+Tamil
+https://cdn-3.pishow.tv/live/1271/master.m3u8
+
+#EXTINF:-1 tvg-id="3004" tvg-logo="https://i.ibb.co/GQhjbGt/1000136225-photoaidcom-cropped.png" group-title="CHANNEL | TAMIL",-1   , Velicham Plus
+Tamil
+https://cdn.smartstream.video/smartstream-us/velichamtv/velichamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="CHANNEL | TAMIL",Chithiram
+Tamil
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+
+#EXTINF:-1 tvg-id="1647" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/05/20240521_1223086548629137627592678.png" group-title="CHANNEL | TAMIL",MK SIX
+Tamil
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1253
+
+#EXTINF:-1 tvg-id="843" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" tvg-name="Madhimugam TV" group-logo="" tvg-language="Local Channels" group-title="CHANNEL | TAMIL",Madhimugam TV
+Tamil
+https://cdn-3.pishow.tv/live/1476/master.m3u8
+
+#EXTINF:-1 tvg-id="2958" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0044256880499658982038945.png" group-title="CHANNEL | TAMIL",Tamilan Television
+Tamil
+https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-logo="" tvg-name="Sun TV HD" group-title="CHANNEL | TAMIL",Sun TV HD
+Tamil
+https://live.catvod.com/live.php?id=Suntv
+
+#EXTINF:-1 tvg-id="Star Vijay" tvg-logo="" tvg-name="Star Vijay" group-title="CHANNEL | TAMIL",Star Vijay
+Tamil
+https://live.catvod.com/live.php?id=Starvijay
+
+#EXTINF:-1 tvg-id="Colors Tamil" tvg-logo="" tvg-name="Colors Tamil" group-title="CHANNEL | TAMIL",Colors Tamil
+Tamil
+https://live.catvod.com/live.php?id=Colorstam
+
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-logo="" tvg-name="Zee Tamil" group-title="CHANNEL | TAMIL",Zee Tamil
+Tamil
+https://live.catvod.com/live.php?id=Zeetamil
+
+#EXTINF:-1 tvg-id="421" tvg-chno="24" tvg-logo="https://tatalogo.pages.dev/421.png" group-title="CHANNEL | TAMIL",Peppers TV
+Tamil
+https://cdn-2.pishow.tv/live/1383/master.m3u8
+
+#EXTINF:-1 tvg-id="499" tvg-chno="22" tvg-logo="https://tatalogo.pages.dev/499.png" group-title="CHANNEL | TAMIL",Vasanth TV
+Tamil
+https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed03/playlist_108k.m3u8
+
+#EXTINF:-1 tvg-id="392" tvg-chno="30" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="CHANNEL | TAMIL",Makkal TV
+Tamil
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="CHANNEL | TAMIL",Dheeran TV
+Tamil
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="334" tvg-logo="https://i.ibb.co/rQNDBCy/dd.png" group-title="CHANNEL | TAMIL",DD Tamil
+Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+#EXTINF:-1 tvg-id="1518" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0159072608720790962587693.png" group-title="CHANNEL | TAMIL",-1   ,Moon TV
+Tamil
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Mega 24.in" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240404_0218344882082935187551464.png" group-title="CHANNEL | TAMIL",-1   , Mega 24
+Tamil
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26163.ts
+
+#EXTINF:-1 tvg-id="ts490" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SVBC 2.png" group-title="CHANNEL | TAMIL",SVBC
+Tamil
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="vasantham" tvg-logo="https://i.ibb.co/KVTfHd7/singapore-vasantham.png" tvg-name="Singapore" group-title="CHANNEL | TAMIL",Vasantham
+Tamil
+https://live.catvod.com/live.php?id=Vasantham
+
+#EXTINF:-1 tvg-id="AstroVinmeen" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVinmeen_2024.png" group-logo="" group-title="CHANNEL | TAMIL",Astro Vinmeen
+Tamil
+https://live.catvod.com/live.php?id=Rusi
+
+
