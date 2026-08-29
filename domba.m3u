@@ -1,110 +1,667 @@
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg",INDOSIAR
+# ==== DEFAULT PLAYLIST ====
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vplus/index.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=0009&type=drm
-https://qtv.my.id/testoken/vplus/index.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=0009&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/UJh9LW1c4RH1-VzTFjCdxavTVqA=/1280x720/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg",SCTV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png", RCTI (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#http://gvisiontv.channell.my.id/ch/id/plus.php/.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png", RCTI (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vplus/index.mpd?url=EG_d3b0v7fggu5zwm&id=9e9aba7068ca4c7f8a73381bef5f8742&ch=0008&type=drm
-https://qtv.my.id/testoken/vplus/index.mpd?url=EG_d3b0v7fggu5zwm&id=9e9aba7068ca4c7f8a73381bef5f8742&ch=0008&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/644/576644-SQUARE-l.jpg",RCTI
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png", MNCTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png", MNCTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=1&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=1&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/645/576645-SQUARE-l.jpg",MNCTV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png", GTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png", GTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=2&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=2&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/646/576646-SQUARE-l.jpg",GTV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png", Inews (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png", Inews (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=3&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=3&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/647/576647-SQUARE-l.jpg",INEWS
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" , SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=4&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=4&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=204&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/650/576650-SQUARE-l.jpg",TRANS 7
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" , MOJI
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=206&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" , TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=7&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=7&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" , TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/itv/index.mpd?id=0_a7dno7wk&type=drm
-#EXTINF:-1 tvg-name="Trans7" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/20200924040052.jpg" group-title="TV NAS | KHUSUS MPD PLAYER",TRANS 7 S2
-https://qtv.my.id/itv/index.mpd?id=0_a7dno7wk&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/655/576655-SQUARE-l.jpg",TRANS TV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png", ANTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=782&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TvOne
+#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=783&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TvOne (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=6&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=6&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/656/576656-SQUARE-l.jpg",ANTV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png", TVRI
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=6441&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png", TVRI SPORT
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png", MDTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=875&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png", Sin Po Tv
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=19046&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png", Metrotv
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=777&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png" , HIP HIP HORE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=10&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=10&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=7052&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=7052&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/659/576659-SQUARE-l.jpg",RTV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lfyNbk-BG70u8ahFpO9I0HhV3bM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png", Horee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=11&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=11&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=6397&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=6397&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/660/576660-SQUARE-l.jpg",TVONE
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" , MENTARI TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=8237&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png" , ZOOMOO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=12&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=12&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/661/576661-SQUARE-l.jpg",KOMPAS TV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png", RTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=1561&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/lJ0VbXBqgieZcVnLJ-Beck84Idk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png", JAKTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=5415&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png", NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=13&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=13&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=7432&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=7432&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/666/576666-SQUARE-l.jpg",METRO TV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg", JAWAPOS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=14&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=14&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=9714&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=9714&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/754/576754-SQUARE-l.jpg",TVRI
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png", KOMPAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=16&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=16&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/maxx/max.php?id=0_930nfsqj&type=drm
+https://dusk.biz.id/maxx/max.php/stream.mpd?id=0_930nfsqj&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/671/576671-SQUARE-l.jpg",DAAI TV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png", Garuda TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=18162&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/KNwURMx7JBhbW7yXRRo9_SQUvHM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png", Rock Action
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/evo4ygNACDOou93AiTxBSlw6wrs=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png", Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png", TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/oBMhyILK-ywwtqBqQyt51dmDs5o=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png", Arirang
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=6784&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/AW2JNvGveJR_JGN4sr8pcViIxNM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/138bad.png", TV5 Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=18&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=18&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=17278&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=17278&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/853/772853-SQUARE-l.jpg",MDTV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/9Ai_9ibLKhC4czfgMXnw3P-uSyA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png", Elshinta TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=10975&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg", Magna TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=7230&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png", Musica
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=7619&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/XudiSJe7FNdZ4dBfDmy-5X0MwZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png", DMI TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=12607&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/-8PUJArasi4xed1VWjzmbdSkVWg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/21179/13c032.png", CITRA DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=23&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=23&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=21179&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=21179&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/673/576673-SQUARE-l.jpg",JTV
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png", AJWA TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=7464&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/ylPI-fG-She_OlfbH8KWncdsDe8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png", Al Jazeera
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=6410&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/MBL6RJmC3YxGllDHfkl-3tOYjts=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png", MAKKAH TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=6852&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png", DW English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=24&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=24&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=5075&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=5075&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/678/576678-SQUARE-l.jpg",JAK TV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/7_vlXOuPe1jTvYQCMkgYv_KPjJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png", ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=25&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=25&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=7150&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=7150&type=dash
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/679/576679-SQUARE-l.jpg",BALI TV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/zxr-mrOWStozeCuL4GoW56c0JBc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png", NHK World Japan
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=7968&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/MVX8rapc40STy_XQvDREDJmSxkM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/e600b8.jpg", CNA
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=6411&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/gxp9cK9zfpgAKXUUuVc7SYF1q1g=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png", Africa News
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=12784&type=hls
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/mv4ZFcm2QaBMgaCprNUczDIaSJ4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png", Euro News
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=6412&type=hls
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/indosiar.png" group-title="CHANNEL | VISION+", INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=26&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=26&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="TV NAS | KHUSUS MPD PLAYER" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/680/576680-SQUARE-l.jpg",BANDUNG TV
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/rcti.png" group-title="CHANNEL | VISION+",RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/vision.php?id=27&type=drm
-https://qtv.my.id/testoken/vision.mpd?id=27&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/320px-CNN_Indonesia_logo_%282023%29.svg.png" group-title="TV NAS | KHUSUS MPD PLAYER",CNN INDONESIA
-https://qtv.my.id/ytlive/index.m3u8?id=PDDOkUq33Sw&type=hls
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/mnctv.png" group-title="CHANNEL | VISION+",MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2022/01/tvone-e53f94.jpeg" group-title="TV NAS | KHUSUS MPD PLAYER",TVONE
-https://qtv.my.id/ytlive/index.m3u8?id=rQJoEpzKkNk&type=hls
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/gtv.png" group-title="CHANNEL | VISION+",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/inews.png" group-title="CHANNEL | VISION+",iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://colloriptvpro.biz.id/test/index.mpd?id=4&type=mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/trans7.png" group-title="CHANNEL | VISION+",Trans7 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/transtv.png" group-title="CHANNEL | VISION+",TransTV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/antv.png" group-title="CHANNEL | VISION+",ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/tvone.png" group-title="CHANNEL | VISION+",TVOne
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/kompastv.png" group-title="CHANNEL | VISION+",Kompas TV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/metrotv.png" group-title="CHANNEL | VISION+",Metro TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/mdtv.png" group-title="CHANNEL | VISION+",MDTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/bandungtv.png" group-title="CHANNEL | VISION+",Bandung TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/balitv.png" group-title="CHANNEL | VISION+",Bali TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
+
+#EXTINF:-1  tvg-logo="http://calista.biz.id/logo/image/hits.png" group-title="CHANNEL | VISION+",Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1  tvg-logo="http://calista.biz.id/logo/image/hitsmovies.png" group-title="CHANNEL | VISION+",Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="http://calista.biz.id/logo/image/imc.png" group-title="CHANNEL | VISION+", IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1  tvg-logo="http://calista.biz.id/logo/image/galaxy.png" group-title="CHANNEL | VISION+",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/galaxypremium.png" group-title="CHANNEL | VISION+",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/kix.png" group-title="CHANNEL | VISION+",KIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/ccm.png" group-title="CHANNEL | VISION+",Celestial Classic Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/rockaction.png" group-title="CHANNEL | VISION+",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/rockentertainment.png" group-title="CHANNEL | VISION+",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/original.png" group-title="CHANNEL | VISION+",ORIGINALS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/tvn.png" group-title="CHANNEL | VISION+",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/tvnmovies.png" group-title="CHANNEL | VISION+",TvN Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="https://calista.biz.id/logo/image/thrill.png" group-title="CHANNEL | VISION+", Thriil
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=41.play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+
+#EXTINF:-1  tvg-logo="http://calista.biz.id/logo/image/bbcearth.png" group-title="CHANNEL | VISION+",BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/outdoorchannel.png" group-title="CHANNEL | VISION+",Outdoor Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/crimeinvestigation.png" group-title="CHANNEL | VISION+",Crime Investigation
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/cgtndocumentary.png" group-title="CHANNEL | VISION+",CGTN Documentary
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=349ac1b8d5f2493d97ffd88d364de38c:92e769c36e60dcd8573c08fd9c27b9bf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/axn.png" group-title="CHANNEL | VISION+",AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
+#EXTINF:-1  tvg-logo="http://calista.biz.id/logo/image/visionprime.png" group-title="CHANNEL | VISION+",Vision Prime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+
+#EXTINF:-1  tvg-logo="http://calista.biz.id/logo/image/hanacaraka.png" group-title="CHANNEL | VISION+",Hanacaraka TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/arirang.png" group-title="CHANNEL | VISION+",Arirang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d83df80b9af34e219404dea6bf7efd41:46dbfee377ea972b3e5914cbf6aa6122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1  tvg-logo="http://calista.biz.id/logo/image/zoomoo.png" group-title="CHANNEL | VISION+",ZooMoo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/kidstv.png" group-title="CHANNEL | VISION+",Kids TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/cbeebies.png" group-title="CHANNEL | VISION+",Cbeebies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/moonbug.png" group-title="CHANNEL | VISION+",Moonbug Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/nickelodeon.png" group-title="CHANNEL | VISION+",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/nickjr.png" group-title="CHANNEL | VISION+",NickJr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/musictv.png" group-title="CHANNEL | VISION+",Music TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/reformed21.png" group-title="CHANNEL | VISION+",Reformed 21
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=729e39db83984d58a23e16f2c05f915f:0d3871bf01b6d871c9882265fb78e8fa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/sportstars.png" group-title="CHANNEL | VISION+", SPORTSTARS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=112
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/sportstars2.png" group-title="CHANNEL | VISION+", SPORTSTARS 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=113
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/sportstars3.png" group-title="CHANNEL | VISION+", SPORTSTARS 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=114
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:-1 tvg-logo="http://calista.biz.id/logo/image/sportstars4.png" group-title="CHANNEL | VISION+", SPORTSTARS 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision-auto-rolling.shiokambing75.workers.dev/?id=205
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
